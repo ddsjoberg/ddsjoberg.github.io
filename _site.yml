@@ -1,0 +1,26 @@
+name: "Daniel D. Sjoberg"
+output_dir: "."
+navbar:
+  title: "Daniel D. Sjoberg"
+  left:
+    - text: "Writing"
+      href: research.html
+    - text: "Speaking"
+      href: talks.html
+    - text: "Programming"
+      href: software.html
+    - text: "Teaching"
+      href: teaching.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: http://github.com/ddsjoberg
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/statistishdan
+    - icon: fa-linkedin fa-lg
+      href: https://linkedin.com/in/ddsjoberg/
+output:
+  html_document:
+    theme: cosmo
+    css: 'styles.css'
