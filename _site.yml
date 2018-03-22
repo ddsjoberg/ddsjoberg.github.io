@@ -9,8 +9,8 @@ navbar:
 #      href: talks.html
     - text: "Software"
       href: software.html
-    - text: "Teaching"
-      href: teaching.html
+#    - text: "Teaching"
+#      href: teaching.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
