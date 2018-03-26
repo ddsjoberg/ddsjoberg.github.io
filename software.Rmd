@@ -3,7 +3,8 @@
 <br><br>  
 
 ###  R Packages  
-<a href="sjosmooth">sjosmooth</a>
+<a href="sjosmooth">sjosmooth</a>: Kernel smoothing for time to event endpoints.  
+<a href="dca">dca </a>: Decision Curve Analysis  
 
 ###  Stata Programs  
 <a href="https://github.com/ddsjoberg/stata.dca">Decision Curve Analysis</a>
