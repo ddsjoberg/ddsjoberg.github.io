@@ -9,6 +9,8 @@ navbar:
 #      href: talks.html
     - text: "Software"
       href: software.html
+    - text: "Contact"
+      href: contact.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html

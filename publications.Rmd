@@ -14,17 +14,7 @@
 For the most up to date list of publications, check out my <a href="https://scholar.google.com/citations?user=4empyKkAAAAJ&hl=en">Google Scholar</a> page.
 
 <b>Peer-reviewed Publications</b><br>
-Fine S, Chang J, Poon J, **Sjoberg D**, Al-Ahmadie H, Chen Y, Gopalan A, Tickoo S and Reuter V
-(2014). “Gleason Score 7 with Tertiary Pattern 5: A Contemporary Analysis.” In _LABORATORY
-INVESTIGATION_, volume 94, pp. 227A-228A. NATURE PUBLISHING GROUP 75 VARICK ST, 9TH FLR, NEW
-YORK, NY 10013-1917 USA.
-<br><br>Ghoneim T, Lowrance W, Shariat S, **Sjoberg D**, Savage C, Bernstein M and Russo P (2011). “87
-PARTIAL NEPHRECTOMY FOR RENAL TUMORS IN SOLITARY KIDNEYS: AN UPDATE OF THE MEMORIAL
-SLOAN-KETTERING CANCER EXPERIENCE.” _European Urology Supplements_, *10*(2), pp. 54.
-<br><br>Bazzi W, Cordon BH, Mashni J, Chen L, **Sjoberg DD**, Coleman J, Touijer KA, Dalbagni G and
-Russo P (2013). “1794 NON-NEOPLASTIC PARENCHYMAL CHANGES ASSOCIATED WITH RENAL CELL
-CARCINOMA.” _The Journal of Urology_, *189*(4), pp. e737.
-<br><br>Rieken M, Djajadiningrat RS, Kluth LA, Favaretto RL, Xylinas E, Guimaraes GC, Soares FA,
+Rieken M, Djajadiningrat RS, Kluth LA, Favaretto RL, Xylinas E, Guimaraes GC, Soares FA,
 Kent M, **Sjoberg DD**, Horenblas S and others (2014). “Predictors of cancer-specific mortality
 after disease recurrence in patients with squamous cell carcinoma of the penis.” _European
 urology_, *66*(5), pp. 811-814.
@@ -32,9 +22,6 @@ urology_, *66*(5), pp. 811-814.
 Kelly W and Eastham JA (2015). “Long-term oncological outcomes of a phase II trial of
 neoadjuvant chemohormonal therapy followed by radical prostatectomy for patients with
 clinically localised, high-risk prostate cancer.” _BJU international_, *116*(1), pp. 50-56.
-<br><br>Carlsson S, Berglund A, **Sjoberg D**, Khatami A, Stranne J, Bergdahl S, Aus G, Vickers A and
-Hugosson J (2013). “1004 EFFECTS OF SURGEON VARIABILITY ON ONCOLOGICAL AND FUNCTIONAL
-OUTCOMES IN A POPULATION-BASED SETTING.” _The Journal of Urology_, *189*(4), pp. e412.
 <br><br>Bochner BH, **Sjoberg DD** and Laudone VP (2014). “A randomized trial of robot-assisted
 laparoscopic radical cystectomy.” _New England Journal of Medicine_, *371*(4), pp. 389-390.
 <br><br>Kim PH, Sukhu R, Cordon BH, Sfakianos JP, **Sjoberg DD**, Hakimi AA, Dalbagni G, Lin O and Herr
@@ -44,7 +31,7 @@ in patients with bladder cancer with negative surveillance cystoscopy.” _BJU i
 <br><br>Breitbart W, Poppito S, Rosenfeld B, Vickers AJ, Li Y, Abbey J, Olden M, Pessin H,
 Lichtenthal W, **Sjoberg D** and others (2012). “Pilot randomized controlled trial of individual
 meaning-centered psychotherapy for patients with advanced cancer.” _Journal of Clinical
-Oncology_, *30*(12), pp. 1304-1309.
+Oncology_, *30*(12), pp. 1304.
 <br><br>Vickers AJ, Ulmert D, **Sjoberg DD**, Bennette CJ, Björk T, Gerdtsson A, Manjer J, Nilsson PM,
 Dahlin A, Bjartell A and others (2013). “Strategy for detection of prostate cancer based on
 relation between prostate specific antigen at age 40-55 and long term risk of metastasis:
@@ -65,7 +52,7 @@ survival after cytoreductive nephrectomy for metastatic renal cell carcinoma.”
 urology_, *63*(5), pp. 947-952.
 <br><br>Vickers AJ, **Sjoberg D**, Basch E, Sculli F, Shouery M, Laudone V, Touijer K, Eastham J and
 Scardino PT (2012). “How do you know if you are any good? A surgeon performance feedback
-system for the outcomes of radical prostatectomy.” _European urology_, *61*(2), pp. 284.
+system for the outcomes of radical prostatectomy.” _European urology_, *61*(2), pp. 284-289.
 <br><br>Touijer KA, Mazzola CR, **Sjoberg DD**, Scardino PT and Eastham JA (2014). “Long-term outcomes
 of patients with lymph node metastasis treated with radical prostatectomy without adjuvant
 androgen-deprivation therapy.” _European urology_, *65*(1), pp. 20-25.
@@ -110,14 +97,6 @@ international_, *112*(5), pp. 602-609.
 <br><br>Vickers AJ, **Sjoberg DD**, Ankerst DP, Tangen CM, Goodman PJ and Thompson IM (2013). “The
 Prostate Cancer Prevention Trial risk calculator and the relationship between
 prostate-specific antigen and biopsy outcome.” _Cancer_, *119*(16), pp. 3007-3011.
-<br><br>Braun K, Ahallal Y, Ghoneim TP, Esteban M, **Sjoberg D**, Bernstein M, Vickers AJ, Mulhall JP,
-Eastham JA, Scardino PT and others (2012). “1387 EFFECT OF REPEATED PROSTATE BIOPSIES ON
-ERECTILE FUNCTION IN MEN UNDER ACTIVE SURVEILLANCE FOR PROSTATE CANCER.” _The Journal of
-urology_, *187*(4), pp. e563.
-<br><br>Rink M, **Sjoberg D**, Xylinas E, Margulis V, Kluth L, Cha E, Raman J, Remzi M, Bensalah K,
-Novara G and others (2013). “813 Time to disease recurrence is a strong predictor of
-cancer-specific mortality in upper tract urothelial carcinoma.” _European Urology
-Supplements_, *12*(1), pp. e813-e814.
 <br><br>Hakimi AA, Chen L, Kim PH, **Sjoberg D**, Glickman L, Walker MR and Russo P (2013). “The impact
 of metformin use on recurrence and cancer-specific survival in clinically localized
 high-risk renal cell carcinoma.” _Canadian Urological Association Journal_, *7*(11-12), pp.
@@ -133,15 +112,9 @@ micropapillary urothelial carcinoma of the bladder.” _The Journal of urology_,
 Fleisher M, Russo P and others (2013). “Neutrophil gelatinase-associated lipocalin (NGAL)
 levels in response to unilateral renal ischaemia in a novel pilot two-kidney porcine model.”
 _BJU international_, *112*(4), pp. 517-525.
-<br><br>Mazzola C, Ahallal Y, Ghoneim T, **Sjoberg D**, Guillonneau B, Eastham J, Scardino P and Touijer
-K (2011). “298 LONG-TERM OUTCOMES FOR PROSTATE CANCER PATIENTS WITH LYMPH NODE METASTASIS
-AFTER RADICAL PROSTATECTOMY.” _The Journal of Urology_, *185*(4), pp. e121.
 <br><br>Forsberg JA, **Sjoberg D**, Chen Q, Vickers A and Healey JH (2013). “Treating metastatic
 disease: which survival model is best suited for the clinic?” _Clinical Orthopaedics and
 Related Research®_, *471*(3), pp. 843-850.
-<br><br>Tarin T, Feifer A, Kimm S, Chen L, **Sjoberg D**, Coleman J and Russo P (2012). “1423 IMPACT OF
-A COMMON CLINICAL PATHWAY ON LENGTH OF HOSPITAL STAY FOR PATIENTS UNDERGOING OPEN AND
-MINIMALLY INVASIVE KIDNEY SURGERY.” _The Journal of Urology_, *187*(4), pp. e577-e578.
 <br><br>Musser JE, Assel M, Guglielmetti GB, Pathak P, Silberstein JL, **Sjoberg DD**, Bernstein M and
 Laudone VP (2014). “Impact of routine use of surgical drains on incidence of complications
 with robot-assisted radical prostatectomy.” _Journal of endourology_, *28*(11), pp.
@@ -152,24 +125,9 @@ radical prostatectomy for patients with clinically localized, high-risk prostate
 <br><br>Gondo T, Poon BY, Matsumoto K, Bernstein M, **Sjoberg DD** and Eastham JA (2015). “Clinical role
 of pathological downgrading after radical prostatectomy in patients with biopsy confirmed
 Gleason score 3+ 4 prostate cancer.” _BJU international_, *115*(1), pp. 81-86.
-<br><br>Carlsson S, Berglund A, **Sjoberg D**, Khatami A, Stranne J, Bergdahl S, Lodding P, Aus G,
-Vickers A and Hugosson J (2014). “Effects of surgeon variability on oncologic and functional
-outcomes in a population-based setting.” _BMC urology_, *14*(1), pp. 25.
 <br><br>Tarin T, Feifer A, Kimm S, Chen L, **Sjoberg D**, Coleman J and Russo P (2014). “Impact of a
 common clinical pathway on length of hospital stay in patients undergoing open and minimally
 invasive kidney surgery.” _The Journal of urology_, *191*(5), pp. 1225-1230.
-<br><br>Spaliviero M, Dalbagni G, Bochner B, Poon B, Donahue T, Al-Ahmadie H, Taylor J, Meeks J,
-**Sjoberg D**, Donat S and others (2013). “749 Clinical outcome in patients with T1
-micropapillary carcinoma of the bladder.” _European Urology Supplements_, *12*(1), pp.
-e749-e750.
-<br><br>Kluth L, Xylinas E, Rink M, Kent M, **Sjoberg D**, Babjuk M, Brisuda A, Aziz A, Fritsche H,
-Comploj E and others (2013). “815 Validation of prognostic value of Bajorin criteria for
-cancer-specific survival in patients who have disease recurrence after radical cystectomy
-for urothelial carcinoma of the bladder.” _European Urology Supplements_, *12*(1), pp.
-e815-e816.
-<br><br>Vickers A, **Sjoberg D**, Thompson I and Lilja H (2013). “2059 RELATIVE RISK OF POSITIVE
-PROSTATE BIOPSY VS. PROSTATE CANCER MORTALITY BY PSA LEVEL AT AGE 60.” _The Journal of
-Urology_, *189*(4), pp. e845.
 <br><br>Tarin T, Feifer A, Kimm S, Chen L, **Sjoberg D**, Coleman J and Russo P (2014). “Impact of a
 common clinical pathway on length of hospital stay in patients undergoing open and minimally
 invasive kidney surgery.” _The Journal of urology_, *191*(5), pp. 1225-1230.
@@ -179,26 +137,6 @@ Healthful Breakfast Consumption among Fifth Grade Students and Their Families.�
 the American Dietetic Association_, *109*(9), pp. A81.
 <br><br>**Sjoberg DD** (2015). “Toward a Smarter Prostate Cancer Screening Program.” _European urology_,
 *68*(4), pp. 598-599.
-<br><br>Spaliviero M, Poon B, Aras O, Di Paolo P, Guglielmetti G, Coleman C, Karlo C, Bernstein M,
-**Sjoberg D**, Akin O and others (2014). “934 Interobserver variability of RENAL, PADUA, and
-centrality index nephrometry scores.” _European Urology Supplements_, *13*(1), pp. e934.
-<br><br>Vickers A, **Sjoberg D**, Ankerst D, Tangen C, Goodman P and Thompson Jr I (2012). “1217 THE
-PROSTATE CANCER PREVENTION TRIAL (PCPT) RISK CALCULATOR AND THE RELATIONSHIP BETWEEN PSA AND
-BIOPSY OUTCOME.” _The Journal of Urology_, *187*(4), pp. e492-e493.
-<br><br>Xylinas E, Wang L, Kent M, **Sjoberg D**, Kluth L, Rink M, Karakiewicz P, Novara G, Zerbib M,
-Scherr D and others (2013). “814 Combining smoking information and molecular markers
-improves prognostication in patients with urothelial carcinoma of the bladder.” _European
-Urology Supplements_, *12*(1), pp. e814.
-<br><br>Xylinas E, Kent M, Kluth L, **Sjoberg D**, Pycha A, Comploj E, Lotan Y, Svatek R, Trinh Q,
-Karakiewicz P and others (2013). “754 Accuracy of the EORTC risk tables and of the CUETO
-scoring model to predict outcomes in non muscle-invasive urothelial carcinoma of the
-bladder.” _European Urology Supplements_, *12*(1), pp. e754-e755.
-<br><br>Braun K, Lilja H, Vickers A, **Sjoberg D** and Bjartell A (2013). “856 Reducing the number of
-prostate biopsies-validation of a four kallikrein panel to predict prostate cancer in a
-population-based referral cohort.” _European Urology Supplements_, *12*(1), pp. e856.
-<br><br>Carlsson S, Berglund A, **Sjoberg D**, Khatami A, Stranne J, Bergdahl S, Aus G and Hugosson J
-(2013). “808 Effects of surgeon variability on oncological and functional outcomes in a
-population-based setting.” _European Urology Supplements_, *12*(1), pp. e808.
 <br><br>Hong SK, Poon BY, **Sjoberg DD**, Scardino PT and Eastham JA (2014). “Prostate size and adverse
 pathologic features in men undergoing radical prostatectomy.” _Urology_, *84*(1), pp.
 153-157.
@@ -208,17 +146,9 @@ Clarisse R. Mazzola, Daniel D. Sjoberg, Peter T. Scardino, James A. Eastham. Lon
 Outcomes of Patients with Lymph Node Metastasis Treated with Radical Prostatectomy Without
 Adjuvant Androgen-deprivation Therapy. Eur Urol 2014; 65: 20-5.” _European urology_,
 *65*(2), pp. e25-e26.
-<br><br>Ahallal Y, Braun K, **Sjoberg D**, Ghoneim T, Esteban M, Mulhall J, Vickers A, Eastham J,
-Scardino P and Touijer K (2012). “Impact des biopsies répétées sur la fonction érectile chez
-les patients sous surveillance active pour cancer de la prostate.” _Progrès en Urologie_,
-*22*(13), pp. 810.
 <br><br>Sankin A, Kent M, **Sjoberg D** and Scardino PT (2014). “Does tumor grade affect the
 relationship between preoperative prostate-specific antigen (PSA) and biochemical recurrence
 (BCR)?”
-<br><br>Gotto G, Przybycin C, Gupta A, Feifer A, Bernstein M, **Sjoberg D**, Reuter V, Al-Ahmadie H and
-Sheinfeld J (2011). “971 A COMPREHENSIVE REVIEW OF THE CLINICAL PRESENTATION, PATHOLOGIC
-FINDINGS, AND OUTCOMES IN REGRESSED TESTICULAR GERM CELL TUMORS.” _The Journal of Urology_,
-*185*(4), pp. e392.
 <br><br>Ehdaie B, **Sjoberg DD**, Dalecki PH, Scardino PT, Eastham JA and Amar D (2014). “Association of
 anesthesia technique for radical prostatectomy with biochemical recurrence: a retrospective
 cohort study.” _Canadian Journal of Anesthesia/Journal canadien d'anesthésie_, *61*(12), pp.
@@ -259,9 +189,9 @@ urology_, *67*(6), pp. 1042-1050.
 Urology.” _European urology_, *67*(2), pp. 181-187.
 <br><br>Vickers AJ and **Sjoberg DD** (2015). “Decision analysis of dutasteride use for patients with
 negative prostate biopsy.” _Urology_, *85*(2), pp. 337-342.
-<br><br>Bazzi WM, **Sjoberg DD**, Feuerstein MA, Maschino A, Verma S, Bernstein M, O<U+FFFD>Brien MF,
-Jang T, Lowrance W, Motzer RJ and others (2015). “Long-term survival rates after resection
-for locally advanced kidney cancer: Memorial Sloan Kettering Cancer Center 1989 to 2012
+<br><br>Bazzi WM, **Sjoberg DD**, Feuerstein MA, Maschino A, Verma S, Bernstein M, O’Brien MF, Jang T,
+Lowrance W, Motzer RJ and others (2015). “Long-term survival rates after resection for
+locally advanced kidney cancer: Memorial Sloan Kettering Cancer Center 1989 to 2012
 experience.” _The Journal of urology_, *193*(6), pp. 1911-1917.
 <br><br>Wesa KM, Segal NH, Cronin AM, **Sjoberg DD**, Jacobs GN, Coleton MI, Fleisher M, Dnistrian AM,
 Saltz LB and Cassileth BR (2015). “Serum 25-hydroxy vitamin D and survival in advanced
@@ -297,20 +227,10 @@ prostatectomy: effect of preoperative risk on oncologic outcomes.” _European u
 <br><br>Ehdaie B, Poon BY, **Sjoberg DD**, Recabal P, Laudone V, Touijer K, Eastham J and Scardino PT
 (2016). “Variation in serum prostate-specific antigen levels in men with prostate cancer
 managed with active surveillance.” _BJU international_, *118*(4), pp. 535-540.
-<br><br>Rieken M, Kluth L, Xylinas E, Capitanio U, Briganti A, Krabbe L, Margulis V, Raman J,
-Regelman M, Klatte T and others (2014). “MP40-14 PREDICTORS OF CANCER-SPECIFIC SURVIVAL
-AFTER DISEASE RECURRENCE IN PATIENTS WITH RENAL CELL CARCINOMA: THE EFFECT OF TIME TO
-RECURRENCE.” _The Journal of Urology_, *191*(4), pp. e439-e440.
-<br><br>Spaliviero M, Dalbagni G, Bochner BH, Poon BY, Huang H, Al-Ahmadie HA, Donahue TF, Taylor
-JM, Meeks JJ, **Sjoberg DD** and others (2014). “Copia autorizada por CDR.” _therapy_, *3*, pp.
-e6.
 <br><br>Anderson CB, Tin AL, **Sjoberg DD**, Mulhall JP, Sandhu J, Touijer K, Laudone VP, Eastham JA,
 Scardino PT and Ehdaie B (2016). “Association between number of prostate biopsies and
 patient-reported functional outcomes after radical prostatectomy: implications for active
 surveillance protocols.” _BJU international_, *117*(6B).
-<br><br>Musser J, Assel M, Mashni J, **Sjoberg D** and Russo P (2014). “MP51-03 PROSTATE SARCOMA IN
-ADULTS: THE MEMORIAL SLOAN-KETTERING EXPERIENCE.” _The Journal of Urology_, *191*(4), pp.
-e597-e598.
 <br><br>Sankin A, Tin AL, Mano R, Chevinsky M, Jakubowski C, Sfakianos JP, Cha EK, Yee A, Friedman
 FM, **Sjoberg DD** and others (2016). “Impact of ureteroscopy before nephroureterectomy for
 upper tract urothelial carcinoma on oncologic outcomes.” _Urology_, *94*, pp. 148-153.
@@ -324,21 +244,14 @@ dynamics.” _World journal of urology_, *33*(12), pp. 2023-2029.
 <br><br>Braun K, **Sjoberg DD**, Vickers AJ, Lilja H and Bjartell AS (2016). “A four-kallikrein panel
 predicts high-grade cancer on biopsy: independent validation in a community cohort.”
 _European urology_, *69*(3), pp. 505-511.
-<br><br>Fossati N, Larcher A, Gadda GM, **Sjoberg DD**, Mistretta FA, Dell<U+FFFD>Oglio P, Lista G,
-Carenzi C, Lughezzani G, Lazzeri M and others (2015). “Minimally invasive partial
-nephrectomy versus laparoscopic cryoablation for patients newly diagnosed with a single
-small renal mass.” _European Urology Focus_, *1*(1), pp. 66-72.
+<br><br>Fossati N, Larcher A, Gadda GM, **Sjoberg DD**, Mistretta FA, Dell’Oglio P, Lista G, Carenzi C,
+Lughezzani G, Lazzeri M and others (2015). “Minimally invasive partial nephrectomy versus
+laparoscopic cryoablation for patients newly diagnosed with a single small renal mass.”
+_European urology focus_, *1*(1), pp. 66-72.
 <br><br>Chevinsky M, Imnadze M, Sankin A, Winer A, Mano R, Jakubowski C, Mashni J, **Sjoberg DD**, Chen
 Y, Tickoo SK and others (2015). “Pathological stage T3a significantly increases disease
 recurrence across all tumor sizes in renal cell carcinoma.” _The Journal of urology_,
 *194*(2), pp. 310-315.
-<br><br>Bondarik A and **Sjoberg D** (2015). “Gridded parasitic patch stacked microstrip antenna with
-beam shift capability for 60 GHz band.” _Progress in Electromagnetics Research B_, *62*, pp.
-319-331.
-<br><br>Tarin T, Feifer A, Kimm S, Chen L, **Sjoberg D**, Coleman J and Russo P (2012). “IMPACT OF A
-COMMON CLINICAL PATHWAY ON LENGTH OF HOSPITAL STAY FOR PATIENTS UNDERGOING OPEN AND
-MINIMALLY INVASIVE KIDNEY SURGERY.” In _JOURNAL OF UROLOGY_, volume 187 number 4, pp.
-E577-E578. ELSEVIER SCIENCE INC 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA.
 <br><br>Anderson CB, Sternberg IA, Karen-Paz G, Kim PH, **Sjoberg D**, Vargas HA, Touijer K, Eastham JA
 and Ehdaie B (2015). “Age is associated with upgrading at confirmatory biopsy among men with
 prostate cancer treated with active surveillance.” _The Journal of urology_, *194*(6), pp.
@@ -350,13 +263,6 @@ length of stay after robotic partial nephrectomy.” _International urology and 
 Parwani AV, Reuter VE, Fine SW and others (2016). “A contemporary prostate cancer grading
 system: a validated alternative to the Gleason score.” _European urology_, *69*(3), pp.
 428-435.
-<br><br>Helander J, Zhao K, Ying Z and Sjöberg D (2016). “Performance analysis of millimeter-wave
-phased array antennas in cellular handsets.” _IEEE Antennas and Wireless Propagation
-Letters_, *15*, pp. 504-507.
-<br><br>Punnen S, **Sjoberg D**, Zappala SM and Parekh D (2015). “A multi-institutional prospective
-trial in the United States to confirm the 4Kscore identification of men with high-grade
-prostate cancer.” In _JOURNAL OF CLINICAL ONCOLOGY_, volume 33 number 7. AMER SOC CLINICAL
-ONCOLOGY 2318 MILL ROAD, STE 800, ALEXANDRIA, VA 22314 USA.
 <br><br>Nguyen DP, Vilaseca A, Vertosick EA, Corradi RB, Touijer KA, Benfante NE, **Sjoberg DD** and
 Russo P (2016). “Histologic subtype impacts cancer-specific survival in patients with
 sarcomatoid-variant renal cell carcinoma treated surgically.” _World journal of urology_,
@@ -375,35 +281,23 @@ _European urology_, *69*(1), pp. 72-79.
 <br><br>Bondarik A and Sjöberg D (2015). “Implementation of UC-EBG structure for 60 GHz gridded
 parasitic patch stacked microstrip antenna.” In _Antennas and Propagation (EuCAP), 2015 9th
 European Conference on_, pp. 1-5. IEEE.
-<br><br>Sedhed E, Ericsson A, Wellander N and Sjöberg D (2015). “Quasi periodicity in moiré patterns
-and a numerical approximation method of dual weaves.” In _Antennas and Propagation \&
-USNC/URSI National Radio Science Meeting, 2015 IEEE International Symposium on_, pp.
-1620-1621. IEEE.
-<br><br>Helander J, Sjöberg D, Gustafsson M, Zhao K and Ying Z (2015). “Characterization of
-millimeter wave phased array antennas in mobile terminal for 5G mobile system.” In _Antennas
-and Propagation \& USNC/URSI National Radio Science Meeting, 2015 IEEE International
-Symposium on_, pp. 7-8. IEEE.
-<br><br>Feuerstein M, Musser J, Kent M, Chevinsky M, Cha E, Kimm S, Hilton W, Donahue T, Coleman J,
-Donat S and others (2015). “Mp50-11 Low-yield Of Surveillance Imaging After Surgery For T1
-Kidney Cancer.” _The Journal of Urology_, *193*(4), pp. e615.
+<br><br>Feuerstein MA, Musser JE, Kent M, Chevinsky M, Cha EK, Kimm S, Hilton WM, **Sjoberg DD**,
+Donahue TF, Vargas HA and others (2016). “Low yield of surveillance imaging after surgery
+for T1 kidney cancer.” _World journal of urology_, *34*(7), pp. 949-953.
 <br><br>Liu NW, Wren JD, Vertosick E, Lee JK, Power NE, Benfante NE, Kimm SY, Bains MS, **Sjoberg DD**,
 Russo P and others (2016). “The prognostic impact of a positive vascular margin on pT3 clear
 cell renal cell carcinoma.” _The Journal of urology_, *195*(2), pp. 264-269.
-<br><br>Silberstein J, Poon S and **Sjoberg D** (2015). “Neoadjuvante Chemohormontherapie vor radikaler
-Prostatektomie?” _Urologie Scan_, *2*(04), pp. 251-251.
-<br><br>Bochner B, Dalbagni G and **Sjoberg D** (2015). “Offen chirurgische versus roboterassistierte
-laparoskopische radikale Zystektomie.” _Urologie Scan_, *2*(04), pp. 247-247.
 <br><br>Selby LV, Sovel M, **Sjoberg DD**, McSweeney M, Douglas D, Jones DR, Scardino PT, Soff GA,
 Fabbri N, Sepkowitz K and others (2016). “Preoperative chemoprophylaxis is safe in major
 oncology operations and effective at preventing venous thromboembolism.” _Journal of the
 American College of Surgeons_, *222*(2), pp. 129-137.
 <br><br>Punnen S, Nahar B, Prakash NS, **Sjoberg DD**, Zappala SM and Parekh DJ (2017). “The 4Kscore
 predicts the grade and stage of prostate cancer in the radical prostatectomy specimen:
-results from a multi-institutional prospective trial.” _European Urology Focus_, *3*(1), pp.
+results from a multi-institutional prospective trial.” _European urology focus_, *3*(1), pp.
 94-99.
 <br><br>Mano R, Vertosick EA, Hakimi AA, Sternberg IA, **Sjoberg DD**, Bernstein M, Dalbagni G, Coleman
 JA and Russo P (2016). “The effect of delaying nephrectomy on oncologic outcomes in patients
-with renal tumors greater than 4cm.” In _Urologic Oncology: Seminars and Original
+with renal tumors greater than 4 cm.” In _Urologic Oncology: Seminars and Original
 Investigations_, volume 34 number 5, pp. 239-e1. Elsevier.
 <br><br>Lilja H, Vickers AJ, **Sjoberg D**, Johansson R, Granfors T, Johansson M, Pettersson K, Scardino
 PT, Hallmans G and Stattin P (2014). “Improving the specificity of prostate cancer screening
@@ -433,49 +327,35 @@ prostatectomy.”
 Newberger E and others (2016). “A 10-item checklist improves reporting of critical
 procedural elements during transurethral resection of bladder tumor.” _The Journal of
 urology_, *196*(4), pp. 1014-1020.
-<br><br>Lee DJ, Recabal P, **Sjoberg DD**, Thong A, Lee JK, Eastham JA, Scardino PT, Vargas HA, Coleman
-J and Ehdaie B (2016). “Comparative effectiveness of targeted prostate biopsy using MRI-US
-fusion software and visual targeting: a prospective study.” _The Journal of urology_,
-*196*(3), pp. 697.
 <br><br>Vilaseca A, Nguyen DP, Vertosick EA, Corradi RB, Musquera M, Pérez M, Fossati N, **Sjoberg DD**,
 Farré R, Almendros I and others (2017). “Obstructive sleep apnea and Fuhrman grade in
 patients with clear cell renal cell carcinoma treated surgically.” _World journal of
 urology_, *35*(1), pp. 51-56.
-<br><br>Watson E, Shinkins B, Frith E, Neal D, Hamdy F, Walter F, Weller D, Wilkinson C, Faithfull
-S, Wolstenholme J and others (2016). “Special Issue: Focus on Urological Oncology.” _BJU
-International_, *117*(6 Part B).
 <br><br>Gugliemetti G, Sukhu R, Baenas MC, Meeks J, **Sjoberg D**, Eastham J, Scardino P and Touijer K
 (2016). “Number of metastatic lymph nodes as determinant of outcome after salvage radical
 prostatectomy for radiation-recurrent prostate cancer.” _Actas Urológicas Españolas (English
 Edition)_, *40*(7), pp. 434-439.
-<br><br>O'shaughnessy MJ, Touijer KA, Eastham JA, Bochner BH, Laudone VP, Scardino PT and Scher HI
-(2014). “PD27-03 RADICAL PROSTATECTOMY AS A COMPONENT OF MULTIMODAL THERAPY FOR
-HIGHLY-SELECTED M1 PROSTATE CANCER PATIENTS.” _The Journal of Urology_, *191*(4), pp. e765.
 <br><br>Preston MA, Batista JL, Wilson KM, Carlsson SV, Gerke T, **Sjoberg DD**, Dahl DM, Sesso HD,
-Feldman AS, Gann PH and others (2016). “Baseline prostate-specific antigen levels in midlife
-predict lethal prostate cancer.” _Journal of Clinical Oncology_, *34*(23), pp. 2705-2711.
+Feldman AS, Gann PH and others (2016). “Baseline Prostate-Specific Antigen Levels in Midlife
+Predict Lethal Prostate Cancer.” _Journal of clinical oncology: official journal of the
+American Society of Clinical Oncology_, *34*(23), pp. 2705-2711.
 <br><br>Jakubowski CD, Vertosick EA, Untch BR, **Sjoberg D**, Wei E, Palmer FL, Patel SG, Downey RJ,
 Strong VE and Russo P (2016). “Complete metastasectomy for renal cell carcinoma: comparison
 of five solid organ sites.” _Journal of surgical oncology_, *114*(3), pp. 375-379.
 <br><br>Manley BJ, Tennenbaum DM, Vertosick EA, Hsieh JJ, **Sjoberg DD**, Assel M, Benfante NE, Strope
 SA, Kim E, Casuscelli J and others (2017). “The difficulty in selecting patients for
-cytoreductive nephrectomy: An evaluation of previously described predictive models.” In
+cytoreductive nephrectomy: an evaluation of previously described predictive models.” In
 _Urologic Oncology: Seminars and Original Investigations_, volume 35 number 1, pp. 35-e1.
 Elsevier.
-<br><br>Chen R, **Sjoberg DD**, Huang Y, Xie L, Zhou L, He D, Vickers AJ, Sun Y, Group PBC, Consortium
-CPC and others (2017). “Prostate Specific Antigen and Prostate Cancer in Chinese Men
-Undergoing Initial Prostate Biopsies Compared with Western Cohorts.” _The Journal of
-urology_, *197*(1), pp. 90-96.
+<br><br>Chen R, **Sjoberg DD**, Huang Y, Xie L, Zhou L, He D, Vickers AJ, Sun Y, Ding Q, Wei Q and
+others (2017). “Prostate Specific Antigen and Prostate Cancer in Chinese Men Undergoing
+Initial Prostate Biopsies Compared with Western Cohorts.” _The Journal of urology_,
+*197*(1), pp. 90-96.
 <br><br>Vickers A, Vertosick EA, **Sjoberg DD**, Roobol MJ, Hamdy F, Neal D, Bjartell A, Hugosson J,
-Donovan JL, Villers A and others (2017). “Properties of the 4-Kallikrein Panel Outside the
-Diagnostic Gray Zone: Meta-Analysis of Patients with Positive Digital Rectal Examination or
-Prostate Specific Antigen 10 ng/ml and Above.” _The Journal of urology_, *197*(3), pp.
+Donovan JL, Villers A and others (2017). “Properties of the 4-kallikrein panel outside the
+diagnostic gray zone: meta-analysis of patients with positive digital rectal examination or
+prostate specific antigen 10 ng/ml and above.” _The Journal of urology_, *197*(3), pp.
 607-613.
-<br><br>Epstein J, Zelefsky M, **Sjoberg D**, Nelson J, Egevad L, Magi-Galluzzi C, Vickers A, Parwani A,
-Reuter V and Fine S (2016). “A new contemporary prostate cancer grading system by Jonathan
-I. Epstein.” _Pathology International_, *66*, pp. 600.
-<br><br>Epstein J, Zelefsky M and **Sjoberg D** (2016). “Neues Einteilungssystem.” _Urologie Scan_,
-*3*(03), pp. 180-181.
 <br><br>Kim EH, Andriole GL, Crawford ED, **Sjoberg DD**, Assel M, Vickers AJ and Lilja H (2017).
 “Detection of high grade prostate cancer among PLCO participants using a prespecified
 4-kallikrein marker panel.” _The Journal of urology_, *197*(4), pp. 1041-1047.
@@ -488,41 +368,21 @@ active surveillance of prostate cancer.” US Patent App. 15/143,329.
 Bochner BH, Sheinfeld J, Dayan ES and others (2017). “A pilot study of a multimodal
 treatment paradigm to accelerate drug evaluations in early-stage metastatic prostate
 cancer.” _Urology_, *102*, pp. 164-172.
-<br><br>Lin DW, Newcomb LF, Brown MD, **Sjoberg DD**, Dong Y, Brooks JD, Carroll PR, Cooperberg M, Dash
-A, Ellis WJ and others (2017). “Evaluating the four kallikrein panel of the 4kscore for
-prediction of high-grade prostate cancer in men in the canary prostate active surveillance
-study.” _European urology_, *72*(3), pp. 448-454.
-<br><br>Laguna MP (2016). “Re: Interobserver Variability of RENAL, PADUA, and Centrality Index
-Nephrometry Score Systems.” _The Journal of urology_, *195*(1), pp. 60-61.
 <br><br>Nguyen D, Kent M, Vilaseca A, Corradi R, Fossati N, **Sjoberg D**, Benfante N, Eastham J,
 Scardino P and Touijer K (2017). “Updated postoperative nomogram incorporating the number of
 positive lymph nodes to predict disease recurrence following radical prostatectomy.”
-_Prostate cancer and prostatic diseases_, *20*(1), pp. 105-109.
+_Prostate cancer and prostatic diseases_, *20*(1), pp. 105.
 <br><br>Lee DJ, Recabal P, **Sjoberg DD**, Thong A, Lee JK, Eastham JA, Scardino PT, Vargas HA, Coleman
 J and Ehdaie B (2016). “Comparative effectiveness of targeted prostate biopsy using magnetic
 resonance imaging ultrasound fusion software and visual targeting: a prospective study.”
 _The Journal of urology_, *196*(3), pp. 697-702.
-<br><br>Leow J, Meyer C, Hanske J, Schmid M, Chung B, Trinh Q and Chang S (2015). “Mp78-05 Open
-Versus Robot-assisted Radical Prostatectomy: A Contemporary Analysis Of An All-payer
-Discharge Database.” _The Journal of Urology_, *193*(4), pp. e1003-e1004.
-<br><br>Anderson C, Weber R, Patel D, Lowrance W, Mellis A, Cookson M, Lang M, Barocas D, Chang S,
-Newberger E and others (2016). “PD11-10 A 10-ITEM CHECKLIST CHECKLIST IMPROVES REPORTING OF
-CRITICAL PROCEDURAL ELEMENTS DURING TRANSURETHRAL RESECTION OF BLADDER TUMOR.” _The Journal
-of Urology_, *195*(4), pp. e291-e292.
-<br><br>Ehdaie B, Poon BY, **Sjoberg D**, Vickers A, Sternberg I, Laudone V, Touijer K, Eastham J and
-Scardino P (2014). “MP74-10 VARIATION OF SERUM PROSTATE-SPECIFIC ANTIGEN LEVELS FOR MEN WITH
-PROSTATE CANCER MANAGED WITH ACTIVE SURVEILLANCE.” _The Journal of Urology_, *191*(4), pp.
-e859-e860.
 <br><br>Winer AG, Vertosick EA, Ghanaat M, Corradi RB, Carlsson S, **Sjoberg DD**, Sankin AI, Sfakianos
 JP, Cha EK, Dalbagni G and others (2017). “Prognostic value of lymph node yield during
 nephroureterectomy for upper tract urothelial carcinoma.” In _Urologic Oncology: Seminars
 and Original Investigations_, volume 35 number 4, pp. 151-e9. Elsevier.
-<br><br>Spaliviero M, Poon BY, Karlo CA, Guglielmetti GB, Di Paolo PL, Campos-Juanatey F, Bernstein
-ML, **Sjoberg DD** and Russo P (2015). “MP44-15.” _Change_, *17*(6.6), pp. 33-6.
-<br><br>Deng G, Wong W, Guillem J, Chan Y, Affuso T, Yeung K, Coleton M, **Sjoberg D**, Vickers A and
-Cassileth B (2013). “Acupuncture for postoperative gastrointestinal dysfunction: to treat or
-not to treat-is it a matter of covered eyes?” _Focus on Alternative and Complementary
-Therapies_, *18*(4), pp. 201-202.
+<br><br>Melchart D and Dörfler W (2013). “Acupuncture for postoperative gastrointestinal
+dysfunction: to treat or not to treat-is it a matter of covered eyes?” _Focus on Alternative
+and Complementary Therapies_, *18*(4), pp. 201-202.
 <br><br>Rosenberger LH, Weber R, **Sjoberg D**, Vickers AJ, Mangino DA, Morrow M and Pilewskie ML
 (2017). “Impact of self-reported data on the acquisition of multi-generational family
 history and lifestyle factors among women seen in a high-risk breast screening program: a
@@ -534,9 +394,6 @@ After Radical Nephroureterectomy.” In _UROLOGY_, volume 80 number 3, pp. S332-
 SCIENCE INC 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA.
 <br><br>Gustafsson M, Vakili I, Bayer SE, **Sjoberg D** and Larsson C (2011). “Optical theorem and
 forward scattering sum rule for periodic structures.” _identity_, *12*, pp. 14.
-<br><br>Zhao K, Helander J, Sjöberg D, He S, Bolin T and Ying Z (2017). “User Body Effect on Phased
-Array in User Equipment for the 5G mmWave Communication System.” _IEEE Antennas and Wireless
-Propagation Letters_, *16*, pp. 864-867.
 <br><br>Spaliviero M, Power N, Murray K, **Sjoberg D**, Benfante N, Bernstein M, Wren J, Russo P and
 Coleman J (2017). “Phase 3 randomized trial of intravenous mannitol versus placebo prior to
 renal ischemia during partial nephrectomy: Impact on renal functional outcomes.” _European
@@ -545,121 +402,80 @@ Urology Supplements_, *16*(3), pp. e369-e370.
 “Risk of prostate-cancer death at 20 years stratified by midlife PSA and a panel of four
 kallikrein markers from a representative cohort of 11,506 healthy unscreened men aged
 45-74.” _European Urology Supplements_, *16*(3), pp. e418-e419.
-<br><br>O'shaughnessy M, McBride S, Vargas HA, Touijer K, Morris M, Danila D, Laudone V, Bochner B,
-Sheinfeld J, Teo M and others (2017). “PD24-11 EVALUATION OF A MULTIMODAL STRATEGY TO
-ACCELERATE DRUG EVALUATIONS IN EARLY STAGE METASTATIC PROSTATE CANCER.” _The Journal of
-Urology_, *197*(4), pp. e456.
-<br><br>Hillelsohn J, Tin A, Mally D, **Sjoberg D** and Dalbagni G (2017). “MP04-12 OUTCOMES OF NESTED
-VARIANT OF UROTHELIAL CARCINOMA FOLLOWING RADICAL CYSTECTOMY.” _The Journal of Urology_,
-*197*(4), pp. e32-e33.
-<br><br>Nahar B, **Sjoberg D**, Zappala S, Venkatramani V, Parekh D and Punnen S (2017). “PD07-01 THE
-4KSCORE TEST ACCURATELY PREDICTS AGGRESSIVE PROSTATE CANCER IN MEN OF ALL AGES AND RACE.”
-_The Journal of Urology_, *197*(4), pp. e127.
-<br><br>Li Q, Assel M, Pietzak E, **Sjoberg D**, Herr H, Donat M, Cha E, Bochner B and Dalbagni G
-(2017). “MP21-20 THE IMPACT OF PLASMACYTOID VARIANT HISTOLOGY ON SURVIVAL OF PATIENTS WITH
-UROTHELIAL CARCINOMA OF BLADDER AFTER RADICAL CYSTECTOMY.” _The Journal of Urology_,
-*197*(4), pp. e255.
-<br><br>Spaliviero M, Power NE, Murray KS, **Sjoberg DD**, Benfante NE, Bernstein ML, Wren JD, Russo P
-and Coleman JA (2017). “MP49-01 PHASE 3 RANDOMISED TRIAL OF INTRAVENOUS MANNITOL VERSUS
-PLACEBO PRIOR TO RENAL ISCHEMIA DURING NEPHRON-SPARING SURGERY: IMPACT ON RENAL FUNCTIONAL
-OUTCOMES.” _The Journal of Urology_, *197*(4), pp. e646.
-<br><br>Takeda T, Tin A, Corradi R, Mamoor M, Robertson N, Vargas H, Benfante N, **Sjoberg D**, Fine S,
-Eastham J and others (2017). “MP70-12 PREDICTING EXTENSIVE DISEASE AMONG POTENTIAL
-CANDIDATES FOR HEMI-ABLATIVE FOCAL THERAPY FOR PROSTATE CANCER.” _The Journal of Urology_,
-*197*(4), pp. e939.
-<br><br>Mendonca S, Graham J, **Sjoberg D**, Assel M, Coleman J and Ehdaie B (2017). “MP33-07
-CHARACTERIZING LOCAL RECURRENCE AFTER RADICAL PROSTATECTOMY USING MR-TARGETED BIOPSY.” _The
-Journal of Urology_, *197*(4), pp. e419-e420.
-<br><br>Kan KM, Tin AL, Stearns GL, **Sjoberg DD** and Sandhu JS (2017). “PD39-06 DE NOVO URINARY
-STORAGE SYMPTOMS ARE COMMON AFTER RADICAL PROSTATECTOMY: INCIDENCE, NATURAL HISTORY AND
-PREDICTORS.” _The Journal of Urology_, *197*(4), pp. e746-e747.
-<br><br>Marzouk K, Tin A, Liu N, **Sjoberg D**, Hakimi AA, Russo P and Coleman J (2017). “PD59-10 THE
-NATURAL HISTORY OF LARGE RENAL MASSES ON ACTIVE SURVEILLANCE \& EXPECTANT MANAGEMENT.” _The
-Journal of Urology_, *197*(4), pp. e1136-e1137.
 <br><br>Dalbagni G, Benfante N, **Sjoberg DD**, Bochner BH, Machele Donat S, Herr HW, Mc Coy AS, Fahrner
-AJ, Retinger C, Rosenberg JE and others (2017). “Single arm Phase I/II Study of Everolimus
+AJ, Retinger C, Rosenberg JE and others (2017). “Single Arm Phase I/II Study of Everolimus
 and Intravesical Gemcitabine in Patients with Primary or Secondary Carcinoma In Situ of the
-Bladder who failed Bacillus Calmette Guerin (NCT01259063).” _Bladder Cancer_, pp. 1-7.
-<br><br>Dong Y, Vickers AJ, **Sjoberg D**, Scardino PT and Lilja H (2016). “Compositions and methods for
+Bladder who failed Bacillus Calmette Guerin (NCT01259063).” _Bladder Cancer_, *3*(2), pp.
+113-119.
+<br><br>Dong Y, Vickers AJ, **Sjoberg D**, Scardino PT and Lilja H (2017). “Compositions and methods for
 active surveillance of prostate cancer.” US Patent App. 15/143,345.
 <br><br>Zappala SM, Dong Y, Linder V, Reeve M, **Sjoberg DD**, Mathur V, Roberts R, Okrongly D, Newmark
 J, Sant G and others (2017). “The 4Kscore blood test accurately identifies men with
 aggressive prostate cancer prior to prostate biopsy with or without DRE information.”
-_International Journal of Clinical Practice_.
+_International journal of clinical practice_, *71*(6).
 <br><br>Pietzak EJ, Assel M, Tennenbaum DM, Becerra M, Feldman DR, Bajorin DF, Motzer RJ, Bosl GJ,
 Carver BS, **Sjoberg D** and others (2016). “The role for resection of post-chemotherapy
 residual liver masses in the management of non-seminomatous germ cell tumor.”
-<br><br>Preston M, Wilson K, Gerke T, Carlsson S, **Sjoberg D**, Kibel A, Trinh Q, Signorello L,
-Steinwandel M, Vickers A and others (2016). “MP39-13 BASELINE PROSTATE-SPECIFIC ANTIGEN
-(PSA) LEVELS IN MIDLIFE PREDICT TOTAL AND AGGRESSIVE PROSTATE CANCER IN AFRICAN-AMERICAN
-MEN.” _The Journal of Urology_, *195*(4), pp. e546.
-<br><br>Zappala SM, Dong Y, Linder V, Reeve M, **Sjoberg DD**, Mathur V, Roberts R, Okrongly D, Newmark
-J, Sant G and others (2017). “Cover Image.” _International Journal of Clinical Practice_,
-*71*(6).
 <br><br>O'Shaughnessy M, Eastham JA, Bochner BH, Laudone VP, Carver BS, **Sjoberg D**, Scardino PT,
 Scher HI and Touijer KA (2015). “Radical prostatectomy as a component of multimodal therapy
 for highly selected M1 prostate cancer patients.”
-<br><br>Chevinsky M, Imnadze M, Sankin A, Mano R, Jakubowski C, Hakimi AA, Mashni J, **Sjoberg DD**,
-Chen Y, Tickoo SK and others (2014). “MP30-18 PATHOLOGIC STAGE T3A SIGNIFICANTLY INCREASES
-DISEASE RECURRENCE ACROSS ALL TUMOR SIZES IN RENAL CELL CARCINOMA.” _The Journal of
-Urology_, *191*(4), pp. e320-e321.
-<br><br>Carlsson S, Berglund A, **Sjoberg D**, Khatami A, Stranne J, Bergdahl S, Aus G, Vickers A and
-Hugosson J (2013). “EFFECTS OF SURGEON VARIABILITY ON ONCOLOGICAL AND FUNCTIONAL OUTCOMES IN
-A POPULATION-BASED SETTING.” In _JOURNAL OF UROLOGY_, volume 189 number 4, pp. E412-E412.
-ELSEVIER SCIENCE INC 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA.
 <br><br>Mooney K, Berry DL, Whisenant M and **Sjoberg D** (2017). “Improving Cancer Care Through the
 Patient Experience: How to Use Patient-Reported Outcomes in Clinical Practice.” In _American
 Society of Clinical Oncology educational book. American Society of Clinical Oncology.
-Meeting_, volume 37, pp. 695.
-<br><br>Anderson C, Tin A, **Sjoberg D**, Mulhall J, Sandhu J, Touijer K, Laudone V, Eastham J, Scardino
-P and Ehdaie B (2015). “ASSOCIATION BETWEEN NUMBER OF PROSTATE BIOPSIES AND PATIENT-REPORTED
-FUNCTIONAL OUTCOMES AFTER RADICAL PROSTATECTOMY: IMPLICATIONS FOR ACTIVE SURVEILLANCE
-PROTOCOLS.” In _JOURNAL OF UROLOGY_, volume 193 number 4, pp. E1003-E1003. ELSEVIER SCIENCE
-INC 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA.
-<br><br>Spaliviero M, Power NE, Murray KS, Russo P, **Sjoberg DD**, Benfante NE, Sun AJ, Bernstein ML,
-Touijer KA, Dalbagni G and others (2015). “PHASE 3 RANDOMIZED TRIAL OF INTRAVENOUS MANNITOL
-VERSUS PLACEBO PRIOR TO RENAL ISCHEMIA DURING PARTIAL NEPHRECTOMY: IMPACT ON RENAL
-FUNCTIONAL OUTCOMES.” In _JOURNAL OF UROLOGY_, volume 193 number 4, pp. E791-E791. ELSEVIER
-SCIENCE INC 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA.
-<br><br>Anderson C, Weber R, Patel D, Lowrance W, Mellis A, Cookson M, Lang M, Barocas D, Chang S,
-Newberger E and others (2016). “A 10-ITEM CHECKLIST CHECKLIST IMPROVES REPORTING OF CRITICAL
-PROCEDURAL ELEMENTS DURING TRANSURETHRAL RESECTION OF BLADDER TUMOR.” In _JOURNAL OF
-UROLOGY_, volume 195 number 4, pp. E291-E292. ELSEVIER SCIENCE INC 360 PARK AVE SOUTH, NEW
-YORK, NY 10010-1710 USA.
+Meeting_, volume 37, pp. 695-704.
 <br><br>Corradi RB, Vertosick EA, Nguyen DP, Vilaseca A, **Sjoberg DD**, Benfante N, Nogueira LN,
 Spaliviero M, Touijer KA, Russo P and others (2017). “Nephrometry scores and perioperative
-outcomes following robotic partial nephrectomy \_.” _International braz j urol: official
-journal of the Brazilian Society of Urology_, *43*.
+outcomes following robotic partial nephrectomy.” _International braz j urol_, *43*(6), pp.
+1075-1083.
 <br><br>Mally AD, Tin AL, Lee JK, Satasivam P, Cha EK, Donat SM, Herr HW, Bochner BH, **Sjoberg DD** and
-Dalbagni G (2017). “Clinical outcomes of patients with T1 nested variant of urothelial
-carcinoma compared to pure urothelial carcinoma of the bladder.” _Clinical Genitourinary
-Cancer_.
-<br><br>Zhu J, Tucker M, Wang E, Grossman JS, Armstrong AJ, George DJ and Zhang T (2017). “Acute
-Myeloid Leukemia following Olaparib Treatment in Metastatic Castration Resistant Prostate
-Cancer.” _Clinical Genitourinary Cancer_.
-<br><br>Recabal P, Assel M, **Sjoberg DD**, Lee D, Laudone VP, Touijer K, Eastham JA, Vargas HA, Coleman
-J and Ehdaie B (2016). “The efficacy of multiparametric magnetic resonance imaging and
-MRI-targeted biopsy in risk classification for patients with prostate cancer on active
-surveillance.” _The Journal of urology_, *196*(2), pp. 374.
+Dalbagni G (2018). “Clinical Outcomes of Patients With T1 Nested Variant of Urothelial
+Carcinoma Compared to Pure Urothelial Carcinoma of the Bladder.” _Clinical genitourinary
+cancer_, *16*(1), pp. e23-e27.
 <br><br>Bagrodia A, Sukhu R, Winer AG, Levy E, Vacchio M, Lee B, Pietzak EJ, Donahue TF, Cha E, Iyer
-G and others (2017). “Incidence and Effect of Thromboembolic Events in Radical Cystectomy
-Patients Undergoing Preoperative Chemotherapy for Muscle-invasive Bladder Cancer.” _Clinical
-Genitourinary Cancer_.
+G and others (2018). “Incidence and effect of thromboembolic events in radical cystectomy
+patients undergoing preoperative chemotherapy for muscle-invasive bladder cancer.” _Clinical
+genitourinary cancer_, *16*(1), pp. e113-e120.
 <br><br>Spaliviero M, Power NE, Murray KS, **Sjoberg DD**, Benfante NE, Bernstein ML, Wren J, Russo P
-and Coleman JA (2017). “Intravenous Mannitol Versus Placebo During Partial Nephrectomy in
-Patients with Normal Kidney Function: A Double-blind, Clinically-integrated, Randomized
-Trial.” _European Urology_.
-<br><br>Sankin A, Tin AL, Mano R, Chevinsky M, Jakubowski C, Sfakianos JP, Cha EK, Yee A, Friedman
-FM, **Sjoberg DD** and others (2016). “Impact of Ureteroscopy Prior to Nephroureterectomy for
-Upper Tract Urothelial Carcinoma on Oncologic Outcomes.” _Urology_, *94*, pp. 148.
+and Coleman JA (2018). “Intravenous mannitol versus placebo during partial nephrectomy in
+patients with normal kidney function: a double-blind, clinically-integrated, randomized
+trial.” _European urology_, *73*(1), pp. 53-59.
 <br><br>Polland A, Vertosick EA, **Sjoberg DD**, Stearns GL, Leddy LS, Kollmeier MA and Sandhu JS
 (2017). “Preoperative symptoms predict continence after post-radiation transurethral
-resection of prostate.” _The Canadian journal of urology_, *24*(4), pp. 8903.
+resection of prostate.” _The Canadian journal of urology_, *24*(4), pp. 8903-8909.
 <br><br>Takeda T, Tin AL, Corradi RB, Mamoor M, Benfante NE, **Sjoberg DD**, Scardino PT, Eastham JA,
-Fine SW and Touijer KA (2017). “Topography of Prostate Cancer Recurrence After Radiation
+Fine SW and Touijer KA (2018). “Topography of Prostate Cancer Recurrence After Radiation
 Therapy: A Detailed Mapping Study of Salvage Radical Prostatectomy Specimens.” _European
-Urology_.
-<br><br>Lee JK, **Sjoberg DD**, Miller MI, Vickers AJ, Mulhall JP and Ehdaie B (2017). “Improved
-Recovery of Erectile Function in Younger Men after Radical Prostatectomy: Does it Justify
-Immediate Surgery in Low-risk Patients?” _European urology_.
+urology_, *73*(4), pp. 488-490.
+<br><br>Lee JK, **Sjoberg DD**, Miller MI, Vickers AJ, Mulhall JP and Ehdaie B (2018). “Improved
+recovery of erectile function in younger men after radical prostatectomy: does it justify
+immediate surgery in low-risk patients?” _European urology_, *73*(1), pp. 33-37.
+<br><br>Audenet F, Vertosick EA, Fine SW, **Sjoberg DD**, Vickers AJ, Reuter VE, Eastham JA, Scardino PT
+and Touijer KA (2017). “Biopsy Core Features are Poor Predictors of Adverse Pathology in Men
+with Grade Group 1 Prostate Cancer.” _The Journal of urology_.
+<br><br>Thong AE, Poon BY, Lee JK, Vertosick E, **Sjoberg DD**, Vickers AJ and Ehdaie B (2018).
+“Concordance between patient-reported and physician-reported sexual function after radical
+prostatectomy.” In _Urologic Oncology: Seminars and Original Investigations_, volume 36
+number 2, pp. 80-e1. Elsevier.
+<br><br>Touijer KA, Karnes RJ, Passoni N, **Sjoberg DD**, Assel M, Fossati N, Gandaglia G, Eastham JA,
+Scardino PT, Vickers A and others (2017). “Survival outcomes of men with lymph node-positive
+prostate cancer after radical prostatectomy: a comparative analysis of different
+postoperative management strategies.” _European urology_.
+<br><br>Assel M, **Sjoberg DD** and Vickers AJ (2017). “The Brier score does not evaluate the clinical
+utility of diagnostic tests or prediction models.” _Diagnostic and Prognostic Research_,
+*1*(1), pp. 19.
+<br><br>Nguyen DP, Vertosick EA, Sharma V, Corradi RB, Vilaseca A, Takeda T, **Sjoberg DD**, Benfante N,
+Fine SW, Reuter VE and others (2018). “Does subclassification of pathologically
+organ-confined (pT2) prostate cancer provide prognostic discrimination of outcomes after
+radical prostatectomy?” _The Journal of urology_.
+<br><br>Capogrosso P, Larcher A, **Sjoberg DD**, Vertosick EA, Cianflone F, Dell’Oglio P, Carenzi C,
+Salonia A, Vickers AJ, Montorsi F and others (2018). “Risk-based surveillance after surgical
+treatment of renal cell carcinoma.” _The Journal of urology_.
+<br><br>**Sjoberg DD**, Vickers AJ, Assel M, Dahlin A, Poon BY, Ulmert D and Lilja H (2018).
+“Twenty-year Risk of Prostate Cancer Death by Midlife Prostate-specific Antigen and a Panel
+of Four Kallikrein Markers in a Large Population-based Cohort of Healthy Men.” _European
+urology_.
+<br><br>Dowling CM, Assel M, Musser JE, Meeks JJ, **Sjoberg DD**, Bosl G, Motzer R, Bajorin D, Feldman
+D, Carver BS and others (2018). “Clinical Outcome of Retroperitoneal Lymph Node Dissection
+after Chemotherapy in Patients with Pure Embryonal Carcinoma in the Orchiectomy Specimen.”
+_Urology_.
 <br><br>
