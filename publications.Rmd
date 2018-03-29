@@ -1,4 +1,5 @@
 ---
+pagetitle: Publications
 ---
 
 <!-- THESE LINES OF R CODE CREATE THE LIST OF ARTICLES TO CITE -->
