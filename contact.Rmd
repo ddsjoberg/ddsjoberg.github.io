@@ -20,4 +20,4 @@ New York, NY 10032<br>
 dds2149@cumc.columbia.edu<br>
 
 ----
-Connect with me on GitHub, Twitter, or Linkedin.
+Connect with me on <a href="https://github.com/ddsjoberg">GitHub</a>, <a href="https://twitter.com/statistishdan">Twitter</a>, or <a href="https://linkedin.com/in/ddsjoberg/">Linkedin</a>.
