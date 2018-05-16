@@ -1,7 +1,6 @@
 ---
 pagetitle: Publications
 ---
-
 <!-- THESE LINES OF R CODE CREATE THE LIST OF ARTICLES TO CITE -->
 <!-- library("bibtex") -->
 <!-- refs = read.bib(file = "refs.bib") -->
@@ -9,12 +8,12 @@ pagetitle: Publications
 <!--   print(refs[[i]]) -->
 <!--   cat("<br><br>") -->
 <!-- } -->
+<br>
+  
+## Peer-reviewed Publications  
 
-
-<br><br>
 For the most up to date list of publications, check out my <a href="https://scholar.google.com/citations?user=4empyKkAAAAJ&hl=en">Google Scholar</a> page.
 
-<b>Peer-reviewed Publications</b><br>
 Rieken M, Djajadiningrat RS, Kluth LA, Favaretto RL, Xylinas E, Guimaraes GC, Soares FA,
 Kent M, **Sjoberg DD**, Horenblas S and others (2014). “Predictors of cancer-specific mortality
 after disease recurrence in patients with squamous cell carcinoma of the penis.” _European
