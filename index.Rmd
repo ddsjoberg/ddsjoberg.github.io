@@ -7,12 +7,12 @@ pagetitle: Daniel D. Sjoberg
 <style>
 .column-left{
   float: left;
-  width: 25%;
+  width: 35%;
   text-align: center;
 }
 .column-right{
   float: right;
-  width: 72%;
+  width: 62%;
   text-align: left;
 }
 
@@ -31,7 +31,7 @@ pagetitle: Daniel D. Sjoberg
 
 <div class="column-right">
 <img src="images/Normal Dist Bounce.gif" style="width:100%" align="left">
-
+<br>
 I am a Senior Biostatistician at <a href="https://www.mskcc.org/" target="_blank">Memorial Sloan Kettering Cancer Center</a> in New York City.  I am also a DrPH candidate in Biostatistics at<a href="https://www.mailman.columbia.edu/become-student/departments/biostatistics" target="_blank"> Columbia University</a>.  My research interests include adaptive methods in clinical trials, precision medicine, predictive modeling, and prostate cancer screening methods.  In my time away from work and school, I enjoy baking, going to the beach, running, and programing in R.
 </div>
 
