@@ -1,19 +1,23 @@
 ---
 pagetitle: Contact
 ---
+<br>
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<b>Memorial Sloan Kettering Cancer Center</b><br>
+#### <b>Memorial Sloan Kettering Cancer Center</b> <img src="images/logo-mskcc.png" style="width:20%;" align="right">
 485 Lexington Ave, 2nd floor<br>
 New York, NY 10017<br>
 646-888-8298<br>
 sjobergd@mskcc.org<br>
 
-<b>Columbia University</b><br>
+----  
+
+#### <b>Columbia University</b> <img src="images/logo-columbia.png" style="width:20%;" align="right">  
 Mailman School of Public Health<br>
 722 West 168th St, 6th floor<br>
 New York, NY 10032<br>
 dds2149@cumc.columbia.edu<br>
 
+----
 Connect with me on GitHub, Twitter, or Linkedin.
