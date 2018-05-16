@@ -26,6 +26,6 @@ A kernel smoother is a technique to estimate a curve as the weighted average of 
 
 * R Package 
     + Installation Code: `devtools::install_github("ddsjoberg/sjosmooth")`
-    + Package documentation, examples, and explaination of statistical theory is <a href="sjosmooth">here</a>. 
+    + Package documentation, examples, and explaination of statistical theory is on the <a href="sjosmooth">package website</a>. 
 
 Friedman, Jerome, Trevor Hastie, and Robert Tibshirani. "The elements of statistical learning." Vol. 1. _New York: Springer series in statistics_, 2001.
