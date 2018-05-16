@@ -1,11 +1,31 @@
 ---
 pagetitle: Software
 ---
-<br><br>  
+<br>
 
-###  R Packages  
-<a href="sjosmooth">sjosmooth</a>: Kernel smoothing for time to event endpoints.  
-<a href="dca">dca </a>: Decision Curve Analysis  
+## Decision Curve Analysis 
 
-###  Stata Programs  
-<a href="https://github.com/ddsjoberg/stata.dca">Decision Curve Analysis</a>
+Decision-analytic techniques allow assessment of clinical outcomes but often require collection of additional information may be cumbersome to apply to models that yield a continuous result. Decision curve analysis is a method for evaluating and comparing prediction models that incorporates clinical consequences, requires only the data set on which the models are tested, and can be applied to models that have either continuous or dichotomous results.
+
+* R Package 
+    + Installation Code: `devtools::install_github("ddsjoberg/dca")`
+    + More information at https://github.com/ddsjoberg/dca
+* Stata 
+    + Installation Code: `net install dca, from(https://raw.github.com/ddsjoberg/stata.dca/master/) replace`
+    
+Vickers AJ, Elkin EB. "Decision curve analysis: a novel method for evaluating prediction models." _Medical Decision Making._ 2006 Nov-Dec;26(6):565-74.
+
+Steyerberg EW, Vickers AJ. "Decision curve analysis: a discussion." _Medical Decision Making._ 2008 Jan-Feb;28(1):146-9.
+
+Vickers AJ, Cronin AM, Elkin EB, Gonen M. "Extensions to decision curve analysis, a novel method for evaluating diagnostic tests, prediction models and molecular markers." _BMC Medical Informatics and Decision Making._ 2008 Nov 26;8(1):53. 
+
+----
+## Kernel Smoothing <img src="images/logo-small.png" align="right" />
+
+A kernel smoother is a technique to estimate a curve as the weighted average of neighboring observed data.  The `sjosmooth` package (pronounced sō smüt͟h) was built primarily to perform kernel smoothing on censored time-to-event or survival data. The package provides kernel smoothed estimates of survival probabilities at specified times.
+
+* R Package 
+    + Installation Code: `devtools::install_github("ddsjoberg/sjosmooth")`
+    + Package documentation, examples, and explaination of statistical theory is <a href="sjosmooth">here</a>. 
+
+Friedman, Jerome, Trevor Hastie, and Robert Tibshirani. "The elements of statistical learning." Vol. 1. _New York: Springer series in statistics_, 2001.

@@ -227,15 +227,37 @@ $(document).ready(function () {
 </div>
 
 
-<p><br><br></p>
-<div id="r-packages" class="section level3">
-<h3>R Packages</h3>
-<p><a href="sjosmooth">sjosmooth</a>: Kernel smoothing for time to event endpoints.<br />
-<a href="dca">dca </a>: Decision Curve Analysis</p>
+<p><br></p>
+<div id="decision-curve-analysis" class="section level2">
+<h2>Decision Curve Analysis</h2>
+<p>Decision-analytic techniques allow assessment of clinical outcomes but often require collection of additional information may be cumbersome to apply to models that yield a continuous result. Decision curve analysis is a method for evaluating and comparing prediction models that incorporates clinical consequences, requires only the data set on which the models are tested, and can be applied to models that have either continuous or dichotomous results.</p>
+<ul>
+<li>R Package
+<ul>
+<li>Installation Code: <code>devtools::install_github(&quot;ddsjoberg/dca&quot;)</code></li>
+<li>More information at <a href="https://github.com/ddsjoberg/dca" class="uri">https://github.com/ddsjoberg/dca</a></li>
+</ul></li>
+<li>Stata
+<ul>
+<li>Installation Code: <code>net install dca, from(https://raw.github.com/ddsjoberg/stata.dca/master/) replace</code></li>
+</ul></li>
+</ul>
+<p>Vickers AJ, Elkin EB. “Decision curve analysis: a novel method for evaluating prediction models.” <em>Medical Decision Making.</em> 2006 Nov-Dec;26(6):565-74.</p>
+<p>Steyerberg EW, Vickers AJ. “Decision curve analysis: a discussion.” <em>Medical Decision Making.</em> 2008 Jan-Feb;28(1):146-9.</p>
+<p>Vickers AJ, Cronin AM, Elkin EB, Gonen M. “Extensions to decision curve analysis, a novel method for evaluating diagnostic tests, prediction models and molecular markers.” <em>BMC Medical Informatics and Decision Making.</em> 2008 Nov 26;8(1):53.</p>
+<hr />
 </div>
-<div id="stata-programs" class="section level3">
-<h3>Stata Programs</h3>
-<p><a href="https://github.com/ddsjoberg/stata.dca">Decision Curve Analysis</a></p>
+<div id="kernel-smoothing" class="section level2">
+<h2>Kernel Smoothing <img src="images/logo-small.png" align="right" /></h2>
+<p>A kernel smoother is a technique to estimate a curve as the weighted average of neighboring observed data. The <code>sjosmooth</code> package (pronounced sō smüt͟h) was built primarily to perform kernel smoothing on censored time-to-event or survival data. The package provides kernel smoothed estimates of survival probabilities at specified times.</p>
+<ul>
+<li>R Package
+<ul>
+<li>Installation Code: <code>devtools::install_github(&quot;ddsjoberg/sjosmooth&quot;)</code></li>
+<li>Package documentation, examples, and explaination of statistical theory is <a href="sjosmooth">here</a>.</li>
+</ul></li>
+</ul>
+<p>Friedman, Jerome, Trevor Hastie, and Robert Tibshirani. “The elements of statistical learning.” Vol. 1. <em>New York: Springer series in statistics</em>, 2001.</p>
 </div>
 
 
