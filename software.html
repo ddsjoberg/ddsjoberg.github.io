@@ -1,18 +1,19 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
 
 <title>Software</title>
 
+<script src="site_libs/header-attrs-2.3/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
@@ -22,7 +23,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -71,9 +73,7 @@ h6 {
 
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
-</head>
 
-<body>
 
 <style type = "text/css">
 .main-container {
@@ -87,13 +87,18 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
 }
+.html-widget {
+  margin-bottom: 20px;
+}
 button.code-folding-btn:focus {
   outline: none;
+}
+summary {
+  display: list-item;
 }
 </style>
 
@@ -109,7 +114,6 @@ body {
   padding-top: 56px;
   margin-top: -56px;
 }
-
 .section h2 {
   padding-top: 56px;
   margin-top: -56px;
@@ -129,6 +133,43 @@ body {
 .section h6 {
   padding-top: 56px;
   margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -150,19 +191,74 @@ $(document).ready(function () {
 });
 </script>
 
-
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-</script>
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
 
 <!-- code folding -->
 
 
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -228,13 +324,25 @@ $(document).ready(function () {
 
 
 <p><br></p>
+<div id="gtsummary" class="section level2">
+<h2>gtsummary <a href='http://www.danieldsjoberg.com/gtsummary/'><img src="https://raw.githubusercontent.com/ddsjoberg/gtsummary/master/man/figures/logo.png" align="right" height="170" /></a></h2>
+<p>The {gtsummary} package provides an elegant and flexible way to create publication-ready analytical and summary tables using the <strong>R</strong> programming language. The {gtsummary} package summarizes data sets, regression models, and more, using sensible defaults with highly customizable capabilities.</p>
+<ul>
+<li><p><a href="http://www.danieldsjoberg.com/gtsummary/articles/tbl_summary.html"><strong>Summarize data frames or tibbles</strong></a> easily in <strong>R</strong>. Perfect for presenting descriptive statistics, comparing group <strong>demographics</strong> (e.g creating a <strong>Table 1</strong> for medical journals), and more. Automatically detects continuous, categorical, and dichotomous variables in your data set, calculates appropriate descriptive statistics, and also includes amount of missingness in each variable.</p></li>
+<li><p><a href="http://www.danieldsjoberg.com/gtsummary/articles/tbl_regression.html"><strong>Summarize regression models</strong></a> in R and include reference rows for categorical variables. Common regression models, such as logistic regression and Cox proportional hazards regression, are automatically identified and the tables are pre-filled with appropriate column headers (i.e. Odds Ratio and Hazard Ratio).</p></li>
+<li><p><a href="http://www.danieldsjoberg.com/gtsummary/reference/index.html#section-general-formatting-styling-functions"><strong>Customize gtsummary tables</strong></a> using a growing list of formatting/styling functions. <strong><a href="http://www.danieldsjoberg.com/gtsummary/reference/bold_italicize_labels_levels.html">Bold</a></strong> labels, <strong><a href="http://www.danieldsjoberg.com/gtsummary/reference/bold_italicize_labels_levels.html">italicize</a></strong> levels, <strong><a href="http://www.danieldsjoberg.com/gtsummary/reference/add_p.html">add p-value</a></strong> to summary tables, <strong><a href="http://www.danieldsjoberg.com/gtsummary/reference/style_percent.html">style</a></strong> the statistics however you choose, <strong><a href="http://www.danieldsjoberg.com/gtsummary/reference/tbl_merge.html">merge</a></strong> or <strong><a href="http://www.danieldsjoberg.com/gtsummary/reference/tbl_stack.html">stack</a></strong> tables to present results side by side… there are so many possibilities to create the table of your dreams!</p></li>
+<li><p><strong><a href="http://www.danieldsjoberg.com/gtsummary/articles/tbl_summary.html#inline_text">Report statistics inline</a></strong> from summary tables and regression summary tables in <strong>R markdown</strong>. Make your reports completely reproducible!</p></li>
+</ul>
+<p>Installation Code: <code>install.packages("gtsummary")</code></p>
+<hr />
+</div>
 <div id="decision-curve-analysis" class="section level2">
 <h2>Decision Curve Analysis</h2>
 <p>Decision-analytic techniques allow assessment of clinical outcomes but often require collection of additional information may be cumbersome to apply to models that yield a continuous result. Decision curve analysis is a method for evaluating and comparing prediction models that incorporates clinical consequences, requires only the data set on which the models are tested, and can be applied to models that have either continuous or dichotomous results.</p>
 <ul>
 <li>R Package
 <ul>
-<li>Installation Code: <code>devtools::install_github(&quot;ddsjoberg/dca&quot;)</code></li>
+<li>Installation Code: <code>devtools::install_github("ddsjoberg/dca")</code></li>
 <li>More information at <a href="https://github.com/ddsjoberg/dca" class="uri">https://github.com/ddsjoberg/dca</a></li>
 </ul></li>
 <li>Stata
@@ -248,12 +356,12 @@ $(document).ready(function () {
 <hr />
 </div>
 <div id="kernel-smoothing" class="section level2">
-<h2>Kernel Smoothing <a href="sjosmooth"><img src="images/logo-small.png" align="right" /></a></h2>
+<h2>Kernel Smoothing <a href="http://www.danieldsjoberg.com/sjosmooth/"><img src="images/logo-small.png" align="right" height="170" /></a></h2>
 <p>A kernel smoother is a technique to estimate a curve as the weighted average of neighboring observed data. The <code>sjosmooth</code> package (pronounced sō smüt͟h) was built primarily to perform kernel smoothing on censored time-to-event or survival data. The package provides kernel smoothed estimates of survival probabilities at specified times.</p>
 <ul>
 <li>R Package
 <ul>
-<li>Installation Code: <code>devtools::install_github(&quot;ddsjoberg/sjosmooth&quot;)</code></li>
+<li>Installation Code: <code>devtools::install_github("ddsjoberg/sjosmooth")</code></li>
 <li>Package documentation, examples, and explaination of statistical theory is on the <a href="sjosmooth">package website</a>.</li>
 </ul></li>
 </ul>
@@ -277,6 +385,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

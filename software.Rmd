@@ -3,6 +3,57 @@ pagetitle: Software
 ---
 <br>
 
+## gtsummary <a href='http://www.danieldsjoberg.com/gtsummary/'><img src="https://raw.githubusercontent.com/ddsjoberg/gtsummary/master/man/figures/logo.png" align="right" height="170" /></a> 
+
+The {gtsummary} package provides an elegant and flexible way to create
+publication-ready analytical and summary tables using the **R**
+programming language. The {gtsummary} package summarizes data sets,
+regression models, and more, using sensible defaults with highly
+customizable capabilities.
+
+  - [**Summarize data frames or
+    tibbles**](http://www.danieldsjoberg.com/gtsummary/articles/tbl_summary.html)
+    easily in **R**. Perfect for presenting descriptive statistics,
+    comparing group **demographics** (e.g creating a **Table 1** for
+    medical journals), and more. Automatically detects continuous,
+    categorical, and dichotomous variables in your data set, calculates
+    appropriate descriptive statistics, and also includes amount of
+    missingness in each variable.
+
+  - [**Summarize regression
+    models**](http://www.danieldsjoberg.com/gtsummary/articles/tbl_regression.html)
+    in R and include reference rows for categorical variables. Common
+    regression models, such as logistic regression and Cox proportional
+    hazards regression, are automatically identified and the tables are
+    pre-filled with appropriate column headers (i.e. Odds Ratio and
+    Hazard Ratio).
+
+  - [**Customize gtsummary
+    tables**](http://www.danieldsjoberg.com/gtsummary/reference/index.html#section-general-formatting-styling-functions)
+    using a growing list of formatting/styling functions.
+    **[Bold](http://www.danieldsjoberg.com/gtsummary/reference/bold_italicize_labels_levels.html)**
+    labels,
+    **[italicize](http://www.danieldsjoberg.com/gtsummary/reference/bold_italicize_labels_levels.html)**
+    levels, **[add
+    p-value](http://www.danieldsjoberg.com/gtsummary/reference/add_p.html)**
+    to summary tables,
+    **[style](http://www.danieldsjoberg.com/gtsummary/reference/style_percent.html)**
+    the statistics however you choose,
+    **[merge](http://www.danieldsjoberg.com/gtsummary/reference/tbl_merge.html)**
+    or
+    **[stack](http://www.danieldsjoberg.com/gtsummary/reference/tbl_stack.html)**
+    tables to present results side by side… there are so many
+    possibilities to create the table of your dreams\!
+
+  - **[Report statistics
+    inline](http://www.danieldsjoberg.com/gtsummary/articles/tbl_summary.html#inline_text)**
+    from summary tables and regression summary tables in **R markdown**.
+    Make your reports completely reproducible\!
+
+Installation Code: `install.packages("gtsummary")`
+
+----
+
 ## Decision Curve Analysis 
 
 Decision-analytic techniques allow assessment of clinical outcomes but often require collection of additional information may be cumbersome to apply to models that yield a continuous result. Decision curve analysis is a method for evaluating and comparing prediction models that incorporates clinical consequences, requires only the data set on which the models are tested, and can be applied to models that have either continuous or dichotomous results.
@@ -20,7 +71,7 @@ Steyerberg EW, Vickers AJ. "Decision curve analysis: a discussion." _Medical Dec
 Vickers AJ, Cronin AM, Elkin EB, Gonen M. "Extensions to decision curve analysis, a novel method for evaluating diagnostic tests, prediction models and molecular markers." _BMC Medical Informatics and Decision Making._ 2008 Nov 26;8(1):53. 
 
 ----
-## Kernel Smoothing <a href="sjosmooth"><img src="images/logo-small.png" align="right" /></a>
+## Kernel Smoothing <a href="http://www.danieldsjoberg.com/sjosmooth/"><img src="images/logo-small.png" align="right" height="170" /></a>
 
 A kernel smoother is a technique to estimate a curve as the weighted average of neighboring observed data.  The `sjosmooth` package (pronounced sō smüt͟h) was built primarily to perform kernel smoothing on censored time-to-event or survival data. The package provides kernel smoothed estimates of survival probabilities at specified times.
 
