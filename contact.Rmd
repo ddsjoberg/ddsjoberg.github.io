@@ -22,3 +22,9 @@ dds2149@cumc.columbia.edu<br>
 
 ----
 Connect with me on <a href="https://github.com/ddsjoberg">GitHub</a>, <a href="https://twitter.com/statistishdan">Twitter</a>, or <a href="https://linkedin.com/in/ddsjoberg/">Linkedin</a>.
+
+Please do **not** email me with _gtsummary_ questions, clarifications, or comments.
+
+- **Question**? Post to [stackoverflow.com](https://stackoverflow.com/), use the _gtsummary_ tag, and I will be notified of your post.
+
+- **Bug Report/Feature Request**? Add a [GitHub Issue](https://github.com/ddsjoberg/gtsummary/issues)
