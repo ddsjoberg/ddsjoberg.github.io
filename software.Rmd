@@ -5,8 +5,10 @@ pagetitle: Software
 
 ## gtsummary <a href='http://www.danieldsjoberg.com/gtsummary/'><img src="https://raw.githubusercontent.com/ddsjoberg/gtsummary/master/man/figures/logo.png" align="right" height="170" /></a> 
 
+Language **R**
+
 The {gtsummary} package provides an elegant and flexible way to create
-publication-ready analytical and summary tables using the **R**
+publication-ready analytic and summary tables using the **R**
 programming language. The {gtsummary} package summarizes data sets,
 regression models, and more, using sensible defaults with highly
 customizable capabilities.
@@ -54,15 +56,26 @@ Installation Code: `install.packages("gtsummary")`
 
 ----
 
-## Decision Curve Analysis 
+## Decision Curve Analysis <a href='http://www.danieldsjoberg.com/dcurves/'><img src="images/dca.png" align="right" height="170" /></a>
+
+Languages **R**, **Stata**, **SAS**
 
 Decision-analytic techniques allow assessment of clinical outcomes but often require collection of additional information may be cumbersome to apply to models that yield a continuous result. Decision curve analysis is a method for evaluating and comparing prediction models that incorporates clinical consequences, requires only the data set on which the models are tested, and can be applied to models that have either continuous or dichotomous results.
 
 * R Package 
-    + Installation Code: `devtools::install_github("ddsjoberg/dca")`
-    + More information at https://github.com/ddsjoberg/dca
+    + Installation Code: `devtools::install_github("ddsjoberg/dcurves")`
+    + More information at http://www.danieldsjoberg.com/dcurves/
 * Stata 
     + Installation Code: `net install dca, from(https://raw.github.com/ddsjoberg/stata.dca/master/) replace`
+* SAS 
+    + Source Functions: 
+    
+      ```sas
+      filename dca url "https://raw.githubusercontent.com/ddsjoberg/dca.sas/main/dca.sas";
+      filename stdca url "https://raw.githubusercontent.com/ddsjoberg/dca.sas/main/stdca.sas";
+      %include dca;
+      %include stdca;
+      ```
     
 Vickers AJ, Elkin EB. "Decision curve analysis: a novel method for evaluating prediction models." _Medical Decision Making._ 2006 Nov-Dec;26(6):565-74.
 
@@ -71,12 +84,28 @@ Steyerberg EW, Vickers AJ. "Decision curve analysis: a discussion." _Medical Dec
 Vickers AJ, Cronin AM, Elkin EB, Gonen M. "Extensions to decision curve analysis, a novel method for evaluating diagnostic tests, prediction models and molecular markers." _BMC Medical Informatics and Decision Making._ 2008 Nov 26;8(1):53. 
 
 ----
-## Kernel Smoothing <a href="http://www.danieldsjoberg.com/sjosmooth/"><img src="images/logo-small.png" align="right" height="170" /></a>
 
-A kernel smoother is a technique to estimate a curve as the weighted average of neighboring observed data.  The `sjosmooth` package (pronounced sō smüt͟h) was built primarily to perform kernel smoothing on censored time-to-event or survival data. The package provides kernel smoothed estimates of survival probabilities at specified times.
+## starter
 
-* R Package 
-    + Installation Code: `devtools::install_github("ddsjoberg/sjosmooth")`
-    + Package documentation, examples, and explaination of statistical theory is on the <a href="sjosmooth">package website</a>. 
+Language **R**
 
-Friedman, Jerome, Trevor Hastie, and Robert Tibshirani. "The elements of statistical learning." Vol. 1. _New York: Springer series in statistics_, 2001.
+Get started with new projects by dropping a skeleton of a new project into a new or existing directory, initialise git repositories, and create reproducible environments with the 'renv' package.
+The package allows for dynamically named files, folders, file content, as well as the functionality to drop individual template files into existing projects.
+
+Installation Code: `install.packages("starter")`
+
+More information at http://www.danieldsjoberg.com/starter/
+
+----
+
+## rstudio.prefs
+
+Language **R**
+
+As of RStudio v1.3, the preferences in the Global Options dialog (and a number of other preferences that aren’t) are now saved in simple, plain-text JSON files.
+This package provides an interface for working with these RStudio JSON preference files to easily make modifications without using the point-and-click option menus.
+This is particularly helpful when working on teams to ensure a unified experience across machines and utilizing settings for best practices.
+
+Installation Code: `install.packages("rstudio.prefs")`
+
+More information at http://www.danieldsjoberg.com/rstudio.prefs/
