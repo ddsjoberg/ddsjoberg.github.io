@@ -54,6 +54,8 @@ customizable capabilities.
 
 Installation Code: `install.packages("gtsummary")`
 
+More information at http://www.danieldsjoberg.com/gtsummary/
+
 ----
 
 ## Decision Curve Analysis <a href='http://www.danieldsjoberg.com/dcurves/'><img src="images/dca.png" align="right" height="170" /></a>
@@ -63,7 +65,7 @@ Languages **R**, **Stata**, **SAS**
 Decision-analytic techniques allow assessment of clinical outcomes but often require collection of additional information may be cumbersome to apply to models that yield a continuous result. Decision curve analysis is a method for evaluating and comparing prediction models that incorporates clinical consequences, requires only the data set on which the models are tested, and can be applied to models that have either continuous or dichotomous results.
 
 * R Package 
-    + Installation Code: `devtools::install_github("ddsjoberg/dcurves")`
+    + Installation Code: `install.packages("dcurves")`
     + More information at http://www.danieldsjoberg.com/dcurves/
 * Stata 
     + Installation Code: `net install dca, from(https://raw.github.com/ddsjoberg/stata.dca/master/) replace`
