@@ -4,9 +4,15 @@ output:
   distill::distill_article:
     toc: false
 ---
-<br>
 
-<link rel="stylesheet" href="styles.css" type="text/css">
+Connect with me on <a href="https://github.com/ddsjoberg">GitHub</a>, <a href="https://twitter.com/statistishdan">Twitter</a>, or <a href="https://linkedin.com/in/ddsjoberg/">Linkedin</a>.
+
+I am happy to answer your _gtsummary_ questions, but please do **not** email me with questions. 
+It is best for the community if questions are asked on a public forum.
+
+- **Questions**? Post to [stackoverflow.com](https://stackoverflow.com/), use the _gtsummary_ tag, and I will be notified of your post.
+
+- **Bug Reports**? Add a [GitHub Issue](https://github.com/ddsjoberg/gtsummary/issues)
 
 #### <b>Memorial Sloan Kettering Cancer Center</b> <img src="images/logo-mskcc.png" style="width:20%;" align="right">
 485 Lexington Ave, 2nd floor<br>
@@ -24,11 +30,4 @@ New York, NY 10032<br>
 dds2149@cumc.columbia.edu<br>
 
 ----
-Connect with me on <a href="https://github.com/ddsjoberg">GitHub</a>, <a href="https://twitter.com/statistishdan">Twitter</a>, or <a href="https://linkedin.com/in/ddsjoberg/">Linkedin</a>.
 
-I am happy to answer your _gtsummary_ questions, but please do **not** email me with questions. 
-It is best for the community if questions are asked on a public forum.
-
-- **Questions**? Post to [stackoverflow.com](https://stackoverflow.com/), use the _gtsummary_ tag, and I will be notified of your post.
-
-- **Bug Reports**? Add a [GitHub Issue](https://github.com/ddsjoberg/gtsummary/issues)

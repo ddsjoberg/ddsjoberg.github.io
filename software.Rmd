@@ -2,13 +2,14 @@
 pagetitle: Software
 output:
   distill::distill_article:
-    toc: false
+    toc: true
 ---
-<br>
 
-## gtsummary <a href='http://www.danieldsjoberg.com/gtsummary/'><img src="https://raw.githubusercontent.com/ddsjoberg/gtsummary/master/man/figures/logo.png" align="right" height="170" /></a> 
+## gtsummary 
 
-Language **R**
+<a href='http://www.danieldsjoberg.com/gtsummary/'><img src="https://raw.githubusercontent.com/ddsjoberg/gtsummary/master/man/figures/logo.png" align="right" height="170" /></a>
+
+Language **R**  
 
 The {gtsummary} package provides an elegant and flexible way to create
 publication-ready analytic and summary tables using the **R**
@@ -61,7 +62,8 @@ More information at http://www.danieldsjoberg.com/gtsummary/
 
 ----
 
-## Decision Curve Analysis <a href='http://www.danieldsjoberg.com/dcurves/'><img src="images/dca.png" align="right" height="170" /></a>
+## Decision Curve Analysis
+<a href='http://www.danieldsjoberg.com/dcurves/'><img src="images/dca.png" align="right" height="170" /></a>
 
 Languages **R**, **Stata**, **SAS**
 

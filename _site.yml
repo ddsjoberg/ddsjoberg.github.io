@@ -30,3 +30,4 @@ output:
     toc: true
     fig_caption: true
 exclude: ['etc', 'renv*']
+favicon: imgages/rainbow.png
