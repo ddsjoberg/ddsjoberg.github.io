@@ -1,5 +1,8 @@
 ---
 pagetitle: Contact
+output:
+  distill::distill_article:
+    toc: false
 ---
 <br>
 

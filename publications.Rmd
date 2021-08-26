@@ -1,5 +1,8 @@
 ---
 pagetitle: Publications
+output:
+  distill::distill_article:
+    toc: false
 ---
 <!-- THESE LINES OF R CODE CREATE THE LIST OF ARTICLES TO CITE -->
 <!-- library("bibtex") -->

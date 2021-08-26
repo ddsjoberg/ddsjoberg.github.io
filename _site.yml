@@ -1,12 +1,14 @@
 name: "Daniel D. Sjoberg"
-output_dir: "."
+title: "Daniel D. Sjoberg"
+output_dir: "_site"
+base_url: danieldsjoberg.com
+twitter:
+  site: "@statistishdan"
 navbar:
   title: "Daniel D. Sjoberg"
   left:
     - text: "Publications"
       href: publications.html
-#    - text: "Speaking"
-#      href: talks.html
     - text: "Software"
       href: software.html
     - text: "Contact"
@@ -21,6 +23,10 @@ navbar:
     - icon: fa-linkedin fa-lg
       href: https://linkedin.com/in/ddsjoberg/
 output:
-  html_document:
-    theme: cosmo
-    css: 'styles.css'
+  distill::distill_article:
+    highlight: tango
+    highlight_downlit: true
+    css: styles.css
+    toc: true
+    fig_caption: true
+exclude: ['etc', 'renv*']
