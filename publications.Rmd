@@ -1,5 +1,8 @@
 ---
-pagetitle: Publications
+pagetitle: Research
+output:
+  distill::distill_article:
+    toc: false
 ---
 <!-- THESE LINES OF R CODE CREATE THE LIST OF ARTICLES TO CITE -->
 <!-- library("bibtex") -->
@@ -8,12 +11,10 @@ pagetitle: Publications
 <!--   print(refs[[i]]) -->
 <!--   cat("<br><br>") -->
 <!-- } -->
-<br>
-  
-## Peer-reviewed Publications  
 
 For the most up to date list of publications, check out my <a href="https://scholar.google.com/citations?user=4empyKkAAAAJ&hl=en">Google Scholar</a> page.
 
+### Peer-reviewed Publications  
 
 ```{r results = "asis", echo = FALSE, message=FALSE, warning= FALSE}
 library(tidyverse)
@@ -41,6 +42,8 @@ df_articles <-
           str_replace(author, fixed("DD Sjoberg"), fixed("**DD Sjoberg**")),
         str_detect(author, fixed("D Sjoberg")) & !str_detect(author, fixed("DD Sjoberg")) ~ 
           str_replace(author, fixed("D Sjoberg"), fixed("**DD Sjoberg**")),
+        !str_detect(author, fixed("Sjoberg")) ~
+          str_replace(author, fixed("and others"), fixed("**DD Sjoberg**, and others")),
         TRUE ~ author
       ),
     citation = 
