@@ -69,7 +69,7 @@ More information at http://www.danieldsjoberg.com/gtsummary/
 ## Decision Curve Analysis
 
 :::float-image
-<a href="http://www.danieldsjoberg.com/dcurves/">
+<a href="https://www.danieldsjoberg.com/dca-tutorial/dca-tutorial-r.html">
 ```{r out.width='175px', out.extra='style="float:right; padding:1px"', echo=FALSE}
 knitr::include_graphics("images/dca.png")
 ```
