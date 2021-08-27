@@ -1,6 +1,6 @@
 name: "Daniel D. Sjoberg"
 title: "Daniel D. Sjoberg"
-output_dir: "_site"
+output_dir: "docs"
 base_url: danieldsjoberg.com
 twitter:
   site: "@statistishdan"
