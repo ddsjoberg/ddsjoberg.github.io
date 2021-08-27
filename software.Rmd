@@ -8,10 +8,12 @@ output:
 ## gtsummary
 
 :::float-image
-
+<a href="http://www.danieldsjoberg.com/gtsummary/">
 ```{r out.width='175px', out.extra='style="float:right; padding:1px"', echo=FALSE}
 knitr::include_graphics("https://raw.githubusercontent.com/ddsjoberg/gtsummary/master/man/figures/logo.png")
 ```
+</a>
+Language **R**
 
 The {gtsummary} package provides an elegant and flexible way to create publication-ready analytic and summary tables using the **R** programming language. 
 The {gtsummary} package summarizes data sets, regression models, and more, using sensible defaults with highly customizable capabilities.
@@ -67,24 +69,17 @@ More information at http://www.danieldsjoberg.com/gtsummary/
 ## Decision Curve Analysis
 
 :::float-image
-
+<a href="http://www.danieldsjoberg.com/dcurves/">
 ```{r out.width='175px', out.extra='style="float:right; padding:1px"', echo=FALSE}
 knitr::include_graphics("images/dca.png")
 ```
+</a>
+Language **R**, **Stata**, **SAS**
 
 Decision-analytic techniques allow assessment of clinical outcomes but often require collection of additional information may be cumbersome to apply to models that yield a continuous result.
 Decision curve analysis is a method for evaluating and comparing prediction models that incorporates clinical consequences, requires only the data set on which the models are tested, and can be applied to models that have either continuous or dichotomous results.
 
 :::
-
-
-<!-- ## Decision Curve Analysis -->
-
-<!-- <a href='http://www.danieldsjoberg.com/dcurves/'><img src="images/dca.png" align="right" height="170" /></a> -->
-
-<!-- Languages **R**, **Stata**, **SAS** -->
-
-<!-- Decision-analytic techniques allow assessment of clinical outcomes but often require collection of additional information may be cumbersome to apply to models that yield a continuous result. Decision curve analysis is a method for evaluating and comparing prediction models that incorporates clinical consequences, requires only the data set on which the models are tested, and can be applied to models that have either continuous or dichotomous results. -->
 
 * R Package 
     + Installation Code: `install.packages("dcurves")`
@@ -124,11 +119,19 @@ More information at http://www.danieldsjoberg.com/starter/
 
 ## rstudio.prefs
 
+:::float-image
+<a href="http://www.danieldsjoberg.com/rstudio.prefs/">
+```{r out.width='175px', out.extra='style="float:right; padding:1px"', echo=FALSE}
+knitr::include_graphics("images/rstudio_logo.png")
+```
+</a>
 Language **R**
 
 As of RStudio v1.3, the preferences in the Global Options dialog (and a number of other preferences that aren’t) are now saved in simple, plain-text JSON files.
 This package provides an interface for working with these RStudio JSON preference files to easily make modifications without using the point-and-click option menus.
 This is particularly helpful when working on teams to ensure a unified experience across machines and utilizing settings for best practices.
+
+:::
 
 Installation Code: `install.packages("rstudio.prefs")`
 
