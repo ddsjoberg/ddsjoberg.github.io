@@ -7,12 +7,10 @@ twitter:
 navbar:
   title: "Daniel D. Sjoberg"
   left:
-    - text: "Publications"
+    - text: "Research"
       href: publications.html
     - text: "Software"
       href: software.html
-    - text: "Contact"
-      href: contact.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html

@@ -1,5 +1,5 @@
 ---
-pagetitle: Publications
+pagetitle: Research
 output:
   distill::distill_article:
     toc: false
@@ -14,7 +14,7 @@ output:
 
 For the most up to date list of publications, check out my <a href="https://scholar.google.com/citations?user=4empyKkAAAAJ&hl=en">Google Scholar</a> page.
 
-## Peer-reviewed Publications  
+### Peer-reviewed Publications  
 
 ```{r results = "asis", echo = FALSE, message=FALSE, warning= FALSE}
 library(tidyverse)

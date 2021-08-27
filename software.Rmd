@@ -5,7 +5,9 @@ output:
     toc: false
 ---
 
-## gtsummary <a href='http://www.danieldsjoberg.com/gtsummary/'><img src="https://raw.githubusercontent.com/ddsjoberg/gtsummary/master/man/figures/logo.png" align="right" height="170"/></a>
+## gtsummary
+
+<a href='http://www.danieldsjoberg.com/gtsummary/'><img src="https://raw.githubusercontent.com/ddsjoberg/gtsummary/master/man/figures/logo.png" align="right" height="170"/></a>
 
 Language **R**  
 
@@ -60,7 +62,9 @@ More information at http://www.danieldsjoberg.com/gtsummary/
 
 ----
 
-## Decision Curve Analysis <a href='http://www.danieldsjoberg.com/dcurves/'><img src="images/dca.png" align="right" height="170" /></a>
+## Decision Curve Analysis
+
+<a href='http://www.danieldsjoberg.com/dcurves/'><img src="images/dca.png" align="right" height="170" /></a>
 
 Languages **R**, **Stata**, **SAS**
 

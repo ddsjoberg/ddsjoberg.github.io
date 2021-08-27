@@ -12,11 +12,12 @@ It is best for the community if questions are asked on a public forum.
 
 - **Questions**? Post to [stackoverflow.com](https://stackoverflow.com/), use the _gtsummary_ tag, and I will be notified of your post.
 
-- **Bug Reports**? Add a [GitHub Issue](https://github.com/ddsjoberg/gtsummary/issues)
+- **Bug Reports**? File a [GitHub Issue](https://github.com/ddsjoberg/gtsummary/issues)
 
 ----  
 
-#### <b>Memorial Sloan Kettering Cancer Center</b> <img src="images/logo-mskcc.png" style="width:20%;" align="right">
+#### <b>Memorial Sloan Kettering Cancer Center</b> 
+<!-- <img src="images/logo-mskcc.png" style="width:20%;" align="right"> -->
 485 Lexington Ave, 2nd floor<br>
 New York, NY 10017<br>
 646-888-8298<br>
@@ -24,7 +25,8 @@ sjobergd@mskcc.org<br>
 
 ----  
 
-#### <b>Columbia University</b><br> <img src="images/logo-columbia.png" style="width:23%;" align="right">  
+#### <b>Columbia University</b><br> 
+<!-- <img src="images/logo-columbia.png" style="width:23%;" align="right">   -->
 Mailman School of Public Health<br>
 Department of Biostatistics<br>
 722 West 168th St, 6th floor<br>
