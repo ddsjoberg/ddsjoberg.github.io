@@ -16,7 +16,8 @@ jobs:
 
       - name: Install dependencies
         run: |
-          install.packages(c("tidyverse", "rmarkdown", "distill", "scholar", "renv"), repos = "https://cran.rstudio.com")
+          pkgs <- c("tidyverse", "rmarkdown", "distill", "scholar", "renv")
+          install.packages(pkgs, repos = "https://cran.rstudio.com")
         shell: Rscript {0}
 
       - name: Render Site

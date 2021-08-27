@@ -7,15 +7,17 @@ output:
 
 ## gtsummary
 
-<a href='http://www.danieldsjoberg.com/gtsummary/'><img src="https://raw.githubusercontent.com/ddsjoberg/gtsummary/master/man/figures/logo.png" align="right" height="170"/></a>
+:::float-image
 
-Language **R**  
+```{r out.width='175px', out.extra='style="float:right; padding:1px"', echo=FALSE}
+knitr::include_graphics("https://raw.githubusercontent.com/ddsjoberg/gtsummary/master/man/figures/logo.png")
+```
 
-The {gtsummary} package provides an elegant and flexible way to create
-publication-ready analytic and summary tables using the **R**
-programming language. The {gtsummary} package summarizes data sets,
-regression models, and more, using sensible defaults with highly
-customizable capabilities.
+The {gtsummary} package provides an elegant and flexible way to create publication-ready analytic and summary tables using the **R** programming language. 
+The {gtsummary} package summarizes data sets, regression models, and more, using sensible defaults with highly customizable capabilities.
+By leveraging [{broom}](https://broom.tidymodels.org/), [{gt}](https://gt.rstudio.com/), and [{labelled}](http://larmarange.github.io/labelled/) packages, {gtsummary} creates beautifully formatted, ready-to-share summary and result tables in a single line of R code!  
+
+:::
 
   - [**Summarize data frames or
     tibbles**](http://www.danieldsjoberg.com/gtsummary/articles/tbl_summary.html)
@@ -64,11 +66,25 @@ More information at http://www.danieldsjoberg.com/gtsummary/
 
 ## Decision Curve Analysis
 
-<a href='http://www.danieldsjoberg.com/dcurves/'><img src="images/dca.png" align="right" height="170" /></a>
+:::float-image
 
-Languages **R**, **Stata**, **SAS**
+```{r out.width='175px', out.extra='style="float:right; padding:1px"', echo=FALSE}
+knitr::include_graphics("images/dca.png")
+```
 
-Decision-analytic techniques allow assessment of clinical outcomes but often require collection of additional information may be cumbersome to apply to models that yield a continuous result. Decision curve analysis is a method for evaluating and comparing prediction models that incorporates clinical consequences, requires only the data set on which the models are tested, and can be applied to models that have either continuous or dichotomous results.
+Decision-analytic techniques allow assessment of clinical outcomes but often require collection of additional information may be cumbersome to apply to models that yield a continuous result.
+Decision curve analysis is a method for evaluating and comparing prediction models that incorporates clinical consequences, requires only the data set on which the models are tested, and can be applied to models that have either continuous or dichotomous results.
+
+:::
+
+
+<!-- ## Decision Curve Analysis -->
+
+<!-- <a href='http://www.danieldsjoberg.com/dcurves/'><img src="images/dca.png" align="right" height="170" /></a> -->
+
+<!-- Languages **R**, **Stata**, **SAS** -->
+
+<!-- Decision-analytic techniques allow assessment of clinical outcomes but often require collection of additional information may be cumbersome to apply to models that yield a continuous result. Decision curve analysis is a method for evaluating and comparing prediction models that incorporates clinical consequences, requires only the data set on which the models are tested, and can be applied to models that have either continuous or dichotomous results. -->
 
 * R Package 
     + Installation Code: `install.packages("dcurves")`
