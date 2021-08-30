@@ -74,31 +74,18 @@ More information at http://www.danieldsjoberg.com/gtsummary/
 knitr::include_graphics("images/dca.png")
 ```
 </a>
-Language **R**, **Stata**, **SAS**
+Languages **R**, **Stata**, **SAS**
 
 Decision-analytic techniques allow assessment of clinical outcomes but often require collection of additional information may be cumbersome to apply to models that yield a continuous result.
 Decision curve analysis is a method for evaluating and comparing prediction models that incorporates clinical consequences, requires only the data set on which the models are tested, and can be applied to models that have either continuous or dichotomous results.
 
+Detailed **tutorial** and **installation instructions** at https://www.danieldsjoberg.com/dca-tutorial/dca-tutorial-r.html
+
+R package website: http://www.danieldsjoberg.com/dcurves/
+
 :::
 
-* R Package 
-    + Installation Code: `install.packages("dcurves")`
-    + More information at http://www.danieldsjoberg.com/dcurves/
-* Stata 
-    + Installation Code: `net install dca, from(https://raw.github.com/ddsjoberg/stata.dca/master/) replace`
-* SAS 
-    + Source Functions: 
-    
-      ```sas
-      filename dca url "https://raw.githubusercontent.com/ddsjoberg/dca.sas/main/dca.sas";
-      filename stdca url "https://raw.githubusercontent.com/ddsjoberg/dca.sas/main/stdca.sas";
-      %include dca;
-      %include stdca;
-      ```
-    
 Vickers AJ, Elkin EB. "Decision curve analysis: a novel method for evaluating prediction models." _Medical Decision Making._ 2006 Nov-Dec;26(6):565-74.
-
-Steyerberg EW, Vickers AJ. "Decision curve analysis: a discussion." _Medical Decision Making._ 2008 Jan-Feb;28(1):146-9.
 
 Vickers AJ, Cronin AM, Elkin EB, Gonen M. "Extensions to decision curve analysis, a novel method for evaluating diagnostic tests, prediction models and molecular markers." _BMC Medical Informatics and Decision Making._ 2008 Nov 26;8(1):53. 
 
