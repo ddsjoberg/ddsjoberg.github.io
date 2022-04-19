@@ -123,3 +123,114 @@ This is particularly helpful when working on teams to ensure a unified experienc
 Installation Code: `install.packages("rstudio.prefs")`
 
 More information at http://www.danieldsjoberg.com/rstudio.prefs/
+
+----
+
+## broom.helpers
+
+:::float-image
+<a href="https://larmarange.github.io/broom.helpers/">
+```{r out.width='175px', out.extra='style="float:right; padding:1px"', echo=FALSE}
+knitr::include_graphics("images/broom.helpers_logo.png")
+```
+</a>
+Language **R**
+
+The {broom.helpers} package provides suite of functions to work with regression model `broom::tidy()` tibbles.
+The suite includes functions to group regression model terms by variable, insert reference and header rows for categorical variables, add variable labels, and more.
+{broom.helpers} is used, in particular, by `gtsummary::tbl_regression()` for producing nice formatted tables of model coefficients and by `GGally::ggcoef_model()` for plotting model coefficients.
+
+:::
+
+Installation Code: `install.packages("broom.helpers")`
+
+More information at https://larmarange.github.io/broom.helpers/
+
+----
+
+## visR
+
+:::float-image
+<a href="https://openpharma.github.io/visR/">
+```{r out.width='175px', out.extra='style="float:right; padding:1px"', echo=FALSE}
+knitr::include_graphics("images/visR_logo.png")
+```
+</a>
+Language **R**
+
+Enables fit-for-purpose, reusable clinical and medical research focused visualizations and tables with sensible defaults and based on sound graphical principles.
+
+:::
+
+Installation Code: `install.packages("visR")`
+
+More information at https://openpharma.github.io/visR/
+
+## tidycmprsk
+
+Language **R**
+
+The {tidycmprsk} package provides an intuitive interface for working with the competing risk endpoints.
+The package wraps the {cmprsk} package, and exports functions for univariate cumulative incidence estimates with `cuminc()` and competing risk regression with `crr()`.
+The package also includes broom-style tidiers: `tidy()`, `augment()`, and `glance()`.
+
+Installation Code: `install.packages("tidycmprsk")`
+
+More information at https://mskcc-epi-bio.github.io/tidycmprsk/
+
+----
+
+## bstfun
+
+Language **R**
+
+A miscellaneous collection of functions to used by members of the Biostatistics Department at MSKCC.
+Functions in the {bstfun} package do not fall within the well-defined packages with more narrow scope used by the department.
+
+Installation Code: `devtools::install_github("ddsjoberg/bstfun")`
+
+More information at http://www.danieldsjoberg.com/bstfun/
+
+----
+
+# Contributions
+
+## gtExtras
+
+:::float-image
+<a href="https://jthomasmock.github.io/gtExtras/">
+```{r out.width='175px', out.extra='style="float:right; padding:1px"', echo=FALSE}
+knitr::include_graphics("images/gtExtras_logo.png")
+```
+</a>
+Language **R**
+
+The goal of {gtExtras} is to provide some additional helper functions to assist in creating beautiful tables with {gt.}
+The functions are generally wrappers around boilerplate or adding capabilities that are currently not yet built into {gt}. The {gt} package is amazing, make sure to go read the official documentation.
+
+:::
+
+Installation Code: `remotes::install_github("jthomasmock/gtExtras")`
+
+More information at https://jthomasmock.github.io/gtExtras/
+
+----
+
+## broom
+
+:::float-image
+<a href="https://broom.tidymodels.org/">
+```{r out.width='175px', out.extra='style="float:right; padding:1px"', echo=FALSE}
+knitr::include_graphics("images/broom_logo.png")
+```
+</a>
+Language **R**
+
+The {broom} package summarizes key information about models in tidy tibbles. 
+{broom} provides three verbs to make it convenient to interact with model objects: `tidy()`, `glance()`, and `augment()`.
+
+:::
+
+Installation Code: `install.packages("broom")`
+
+More information at https://broom.tidymodels.org/
