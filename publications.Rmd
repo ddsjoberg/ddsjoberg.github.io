@@ -4,13 +4,6 @@ output:
   distill::distill_article:
     toc: false
 ---
-<!-- THESE LINES OF R CODE CREATE THE LIST OF ARTICLES TO CITE -->
-<!-- library("bibtex") -->
-<!-- refs = read.bib(file = "refs.bib") -->
-<!-- for (i in 1:length(refs)){ -->
-<!--   print(refs[[i]]) -->
-<!--   cat("<br><br>") -->
-<!-- } -->
 
 For the most up to date list of publications, check out my <a href="https://scholar.google.com/citations?user=4empyKkAAAAJ&hl=en">Google Scholar</a> page.
 
@@ -54,6 +47,7 @@ df_articles <-
 
 df_articles %>%
   pull(citation) %>% 
-  paste(collapse = "<br><br>") %>%
+  paste(collapse = "<br><br></li><li>") %>% 
+  paste0("<ol><li>", ., "</ol>") %>%
   cat()
 ```
