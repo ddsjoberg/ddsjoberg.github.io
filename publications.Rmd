@@ -25,7 +25,9 @@ df_articles <-
   ) %>%
   mutate(
     first_author = startsWith(author, "DD Sjoberg") | startsWith(author, "D Sjoberg"),
-    good_journal = journal %in% c("Journal of Clinical Oncology", "The New England journal of medicine"),
+    good_journal = tolower(journal) %in% c("journal of clinical oncology", 
+                                           "the new england journal of medicine",
+                                           "new england journal of medicine"),
     # replacing ... with 'and others'
     author = str_replace(author, fixed("..."), fixed("and others")),
     # bold my name
