@@ -91,6 +91,28 @@ Vickers AJ, Cronin AM, Elkin EB, Gonen M. "Extensions to decision curve analysis
 
 ----
 
+## ggsurvfit
+
+:::float-image
+<a href="http://www.danieldsjoberg.com/ggsurvfit/">
+```{r out.width='300px', out.extra='style="float:right; padding:1px"', echo=FALSE}
+knitr::include_graphics("images/ggsurvfit.png")
+```
+</a>
+Language **R**
+
+The {ggsurvfit} package eases the creation of time-to-event (aka survival) endpoint figures with ggplot.
+The concise and modular code creates images that are ready for publication or sharing.
+Each of the functions that add to or modify the existing ggplot are written as proper ggplot geoms or stat methods, allowing the functions from this package to be combined with any functions or customization from ggplot and other ggplot extensions.
+
+:::
+
+Installation Code: `install.packages("ggsurvfit")`
+
+More information at http://www.danieldsjoberg.com/ggsurvfit/
+
+----
+
 ## starter
 
 Language **R**
@@ -123,6 +145,27 @@ This is particularly helpful when working on teams to ensure a unified experienc
 Installation Code: `install.packages("rstudio.prefs")`
 
 More information at http://www.danieldsjoberg.com/rstudio.prefs/
+
+----
+
+## gtreg
+
+:::float-image
+<a href="https://shannonpileggi.github.io/gtreg/">
+```{r out.width='175px', out.extra='style="float:right; padding:1px"', echo=FALSE}
+knitr::include_graphics("images/gtreg.png")
+```
+</a>
+Language **R**
+
+The {gtreg} package creates tabular data summaries appropriate for regulatory submissions.
+The package builds the tables using {gtsummary}.
+
+:::
+
+Installation Code: `install.packages("gtreg")`
+
+More information at https://shannonpileggi.github.io/gtreg/
 
 ----
 
