@@ -785,6 +785,7 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
   d-article table.gt_table td,
   d-article table.gt_table th {
     border-bottom: none;
+    font-size: 100%;
   }
   
   .html-widget {
@@ -1857,15 +1858,21 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
   
       // hoverable references
       $('span.citation[data-cites]').each(function() {
-        if ($(this).children()[0].nodeName == "D-FOOTNOTE") {
-          var fn = $(this).children()[0]
+        const citeChild = $(this).children()[0]
+        // Do not process if @xyz has been used without escaping and without bibliography activated
+        // https://github.com/rstudio/distill/issues/466
+        if (citeChild === undefined) return true
+  
+        if (citeChild.nodeName == "D-FOOTNOTE") {
+          var fn = citeChild
           $(this).html(fn.shadowRoot.querySelector("sup"))
           $(this).id = fn.id
           fn.remove()
         }
         var refs = $(this).attr('data-cites').split(" ");
         var refHtml = refs.map(function(ref) {
-          return "<p>" + $('#ref-' + ref).html() + "</p>";
+          // Could use CSS.escape too here, we insure backward compatibility in navigator
+          return "<p>" + $('div[id="ref-' + ref + '"]').html() + "</p>";
         }).join("\n");
         window.tippy(this, {
           allowHTML: true,
@@ -2543,7 +2550,8 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 
 <div class="d-article">
 <p>Connect with me on <a href="https://twitter.com/statistishdan">Twitter</a>, <a href="https://github.com/ddsjoberg">GitHub</a>, and <a href="https://linkedin.com/in/ddsjoberg/">Linkedin</a>.</p>
-<p>I am happy to answer <em>gtsummary</em> questions, but please do <em>not</em> email me with questions. It is best for the community if questions are asked and answered on a public forum.</p>
+<p>I am happy to answer <em>gtsummary</em> questions, but please do <em>not</em> email me with questions.
+It is best for the community if questions are asked and answered on a public forum.</p>
 <ul>
 <li><p><strong>Questions</strong>? Post to <a href="https://stackoverflow.com/">stackoverflow.com</a>, use the <em>gtsummary</em> tag, and I will be notified of your post.</p></li>
 <li><p><strong>Bug Reports</strong>? File a <a href="https://github.com/ddsjoberg/gtsummary/issues">GitHub Issue</a></p></li>
@@ -2554,7 +2562,9 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 <p><img src="images/logo-mskcc.png" width="200px" style="float:right; padding:10px" /></p>
 </div>
 <h4 id="memorial-sloan-kettering-cancer-center"><b>Memorial Sloan Kettering Cancer Center</b></h4>
-<p>1275 York Ave.<br> New York, NY 10065<br> <a href="mailto:sjobergd@mskcc.org" class="email">sjobergd@mskcc.org</a><br></p>
+<p>1275 York Ave.<br>
+New York, NY 10065<br>
+<a href="mailto:sjobergd@mskcc.org" class="email">sjobergd@mskcc.org</a><br></p>
 </div>
 <hr />
 <div class="float-image">
@@ -2562,7 +2572,11 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 <p><img src="images/logo-columbia.png" width="250px" style="float:right; padding:10px" /></p>
 </div>
 <h4 id="columbia-university"><b>Columbia University</b><br></h4>
-<p>Mailman School of Public Health<br> Department of Biostatistics<br> 722 West 168th St., 6th floor<br> New York, NY 10032<br> <a href="mailto:dds2149@cumc.columbia.edu" class="email">dds2149@cumc.columbia.edu</a><br></p>
+<p>Mailman School of Public Health<br>
+Department of Biostatistics<br>
+722 West 168th St., 6th floor<br>
+New York, NY 10032<br>
+<a href="mailto:dds2149@cumc.columbia.edu" class="email">dds2149@cumc.columbia.edu</a><br></p>
 </div>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
