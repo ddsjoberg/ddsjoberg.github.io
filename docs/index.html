@@ -84,6 +84,7 @@ code span.vs { color: #4e9a06; } /* VerbatimString */
 code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warning */
 </style>
 
+
   <!--radix_placeholder_meta_tags-->
   <title>Daniel D. Sjoberg</title>
 
@@ -453,9 +454,9 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 
   </style>
 
-  <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
-  <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet"/>
-  <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet"/>
+  <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+  <link href="site_libs/font-awesome-6.2.1/css/all.min.css" rel="stylesheet"/>
+  <link href="site_libs/font-awesome-6.2.1/css/v4-shims.min.css" rel="stylesheet"/>
   <script src="site_libs/headroom-0.9.4/headroom.min.js"></script>
   <script src="site_libs/autocomplete-0.37.1/autocomplete.min.js"></script>
   <script src="site_libs/fuse-6.4.1/fuse.min.js"></script>
@@ -784,6 +785,7 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
   d-article table.gt_table td,
   d-article table.gt_table th {
     border-bottom: none;
+    font-size: 100%;
   }
 
   .html-widget {
@@ -1025,10 +1027,6 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
     position: relative;
     margin-bottom: 2.5em;
     margin-top: 1.5em;
-  }
-
-  .figure img {
-    width: 100%;
   }
 
   .figure .caption {
@@ -1860,7 +1858,22 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 
       // hoverable references
       $('span.citation[data-cites]').each(function() {
-        var refHtml = $('#ref-' + $(this).attr('data-cites')).html();
+        const citeChild = $(this).children()[0]
+        // Do not process if @xyz has been used without escaping and without bibliography activated
+        // https://github.com/rstudio/distill/issues/466
+        if (citeChild === undefined) return true
+
+        if (citeChild.nodeName == "D-FOOTNOTE") {
+          var fn = citeChild
+          $(this).html(fn.shadowRoot.querySelector("sup"))
+          $(this).id = fn.id
+          fn.remove()
+        }
+        var refs = $(this).attr('data-cites').split(" ");
+        var refHtml = refs.map(function(ref) {
+          // Could use CSS.escape too here, we insure backward compatibility in navigator
+          return "<p>" + $('div[id="ref-' + ref + '"]').html() + "</p>";
+        }).join("\n");
         window.tippy(this, {
           allowHTML: true,
           content: refHtml,
@@ -1871,6 +1884,31 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
           placement: 'bottom-start'
         });
       });
+
+      // fix footnotes in tables (#411)
+      // replacing broken distill.pub feature
+      $('table d-footnote').each(function() {
+        // we replace internal showAtNode methode which is triggered when hovering a footnote
+        this.hoverBox.showAtNode = function(node) {
+          // ported from https://github.com/distillpub/template/pull/105/files
+          calcOffset = function(elem) {
+              let x = elem.offsetLeft;
+              let y = elem.offsetTop;
+              // Traverse upwards until an `absolute` element is found or `elem`
+              // becomes null.
+              while (elem = elem.offsetParent && elem.style.position != 'absolute') {
+                  x += elem.offsetLeft;
+                  y += elem.offsetTop;
+              }
+
+              return { left: x, top: y };
+          }
+          // https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/offsetTop
+          const bbox = node.getBoundingClientRect();
+          const offset = calcOffset(node);
+          this.show([offset.left + bbox.width, offset.top + bbox.height]);
+        }
+      })
 
       // clear polling timer
       clearInterval(tid);
@@ -1970,6 +2008,8 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
     // mark non-body figures created by knitr chunks as 100% width
     $('.layout-chunk').each(function(i, val) {
       var figures = $(this).find('img, .html-widget');
+      // ignore leaflet img layers (#106)
+      figures = figures.filter(':not(img[class*="leaflet"])')
       if ($(this).attr('data-layout') !== "l-body") {
         figures.css('width', '100%');
       } else {
@@ -1992,7 +2032,7 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
     // get rid of index.html references in header
     if (window.location.protocol !== "file:") {
       $('.distill-site-header a[href]').each(function(i,val) {
-        $(this).attr('href', $(this).attr('href').replace("index.html", "./"));
+        $(this).attr('href', $(this).attr('href').replace(/^index[.]html/, "./"));
       });
     }
 
@@ -2031,7 +2071,7 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
   </script>
 
   <!--/radix_placeholder_distill-->
-  <script src="site_libs/header-attrs-2.10/header-attrs.js"></script>
+  <script src="site_libs/header-attrs-2.21/header-attrs.js"></script>
   <script src="site_libs/popper-2.6.0/popper.min.js"></script>
   <link href="site_libs/tippy-6.2.7/tippy.css" rel="stylesheet" />
   <link href="site_libs/tippy-6.2.7/tippy-light-border.css" rel="stylesheet" />
@@ -2574,8 +2614,7 @@ d-title p {
 </div>
 <div class="hero-right" style="padding-bottom:1em">
 <p style="font-weight:bold; margin-top:5px">
-<i class="fa fa-graduation-cap" aria-hidden="true" style="padding-right:5px"></i>
-Education
+<i class="fa fa-graduation-cap" aria-hidden="true" style="padding-right:5px"></i> Education
 </p>
 <li>
 MA Boston University, Biostatistics
@@ -2584,8 +2623,7 @@ MA Boston University, Biostatistics
 BS University of Utah, Mathematics
 </li>
 <p style="font-weight:bold; margin-top:15px">
-<i class="fa fa-hospital-o" aria-hidden="true" style="padding-right:5px"></i>
-Work
+<i class="fa fa-hospital-o" aria-hidden="true" style="padding-right:5px"></i> Work
 </p>
 <li>
 Memorial Sloan Kettering Cancer Center
@@ -2610,18 +2648,11 @@ Memorial Sloan Kettering Cancer Center
 about
 </h3>
 <div class="about">
-<p>I am a Lead Data Scientist at
-<a href="https://www.mskcc.org/" target="_blank">Memorial Sloan
-Kettering Cancer Center</a> in New York City. My research interests
-include adaptive methods in clinical trials, precision medicine,
-predictive modeling, and prostate cancer screening methods. In my time
-away from work and school, I enjoy baking, going to the beach, running,
-and programming in R.</p>
+<p>I am a Lead Data Scientist at <a href="https://www.mskcc.org/" target="_blank">Memorial Sloan Kettering Cancer Center</a> in New York City. My research interests include adaptive methods in clinical trials, precision medicine, predictive modeling, and prostate cancer screening methods. In my time away from work and school, I enjoy baking, going to the beach, running, and programming in R.</p>
 </div>
 <p>
 </p>
-<div class="sourceCode" id="cb1"><pre
-class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
 </div>
