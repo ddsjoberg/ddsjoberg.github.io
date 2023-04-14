@@ -32,19 +32,19 @@ sjobergd@mskcc.org<br>
 
 ----  
 
-:::float-image
+<!-- :::float-image -->
 
 ```{r out.width='250px', out.extra='style="float:right; padding:10px"', echo=FALSE}
-knitr::include_graphics("images/logo-columbia.png")
+# knitr::include_graphics("images/logo-columbia.png")
 ```
 
-#### <b>Columbia University</b><br> 
+<!-- #### <b>Columbia University</b><br>  -->
 
-Mailman School of Public Health<br>
-Department of Biostatistics<br>
-722 West 168th St., 6th floor<br>
-New York, NY 10032<br>
-dds2149@cumc.columbia.edu<br>
+<!-- Mailman School of Public Health<br> -->
+<!-- Department of Biostatistics<br> -->
+<!-- 722 West 168th St., 6th floor<br> -->
+<!-- New York, NY 10032<br> -->
+<!-- dds2149@cumc.columbia.edu<br> -->
 
-:::
+<!-- ::: -->
 

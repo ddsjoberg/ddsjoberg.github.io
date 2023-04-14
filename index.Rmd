@@ -72,7 +72,6 @@ d-title p {
   <p style="font-weight:bold; margin-top:5px">
     <i class="fa fa-graduation-cap" aria-hidden="true" style="padding-right:5px"></i> Education
   </p>
-  <li>DrPH Candidate Columbia University, Biostatistics</li>
   <li>MA Boston University, Biostatistics</li>
   <li>BS University of Utah, Mathematics</li>
   <p style="font-weight:bold; margin-top:15px">
@@ -103,7 +102,7 @@ d-title p {
 
 <div class="about">
 
-I am a Senior Biostatistician at <a href="https://www.mskcc.org/" target="_blank">Memorial Sloan Kettering Cancer Center</a> in New York City.  I am also a DrPH candidate in Biostatistics at<a href="https://www.mailman.columbia.edu/become-student/departments/biostatistics" target="_blank"> Columbia University</a>.  My research interests include adaptive methods in clinical trials, precision medicine, predictive modeling, and prostate cancer screening methods.  In my time away from work and school, I enjoy baking, going to the beach, running, and programing in R.
+I am a Lead Data Scientist at <a href="https://www.mskcc.org/" target="_blank">Memorial Sloan Kettering Cancer Center</a> in New York City. My research interests include adaptive methods in clinical trials, precision medicine, predictive modeling, and prostate cancer screening methods.  In my time away from work and school, I enjoy baking, going to the beach, running, and programming in R.
 
 
 </div>

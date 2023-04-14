@@ -84,7 +84,6 @@ code span.vs { color: #4e9a06; } /* VerbatimString */
 code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warning */
 </style>
 
-
   <!--radix_placeholder_meta_tags-->
   <title>Daniel D. Sjoberg: Untitled</title>
 
@@ -454,7 +453,7 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 
   </style>
 
-  <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+  <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
   <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet"/>
   <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet"/>
   <script src="site_libs/headroom-0.9.4/headroom.min.js"></script>
@@ -785,7 +784,6 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
   d-article table.gt_table td,
   d-article table.gt_table th {
     border-bottom: none;
-    font-size: 100%;
   }
 
   .html-widget {
@@ -1027,6 +1025,10 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
     position: relative;
     margin-bottom: 2.5em;
     margin-top: 1.5em;
+  }
+
+  .figure img {
+    width: 100%;
   }
 
   .figure .caption {
@@ -1858,22 +1860,7 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 
       // hoverable references
       $('span.citation[data-cites]').each(function() {
-        const citeChild = $(this).children()[0]
-        // Do not process if @xyz has been used without escaping and without bibliography activated
-        // https://github.com/rstudio/distill/issues/466
-        if (citeChild === undefined) return true
-
-        if (citeChild.nodeName == "D-FOOTNOTE") {
-          var fn = citeChild
-          $(this).html(fn.shadowRoot.querySelector("sup"))
-          $(this).id = fn.id
-          fn.remove()
-        }
-        var refs = $(this).attr('data-cites').split(" ");
-        var refHtml = refs.map(function(ref) {
-          // Could use CSS.escape too here, we insure backward compatibility in navigator
-          return "<p>" + $('div[id="ref-' + ref + '"]').html() + "</p>";
-        }).join("\n");
+        var refHtml = $('#ref-' + $(this).attr('data-cites')).html();
         window.tippy(this, {
           allowHTML: true,
           content: refHtml,
@@ -1884,31 +1871,6 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
           placement: 'bottom-start'
         });
       });
-
-      // fix footnotes in tables (#411)
-      // replacing broken distill.pub feature
-      $('table d-footnote').each(function() {
-        // we replace internal showAtNode methode which is triggered when hovering a footnote
-        this.hoverBox.showAtNode = function(node) {
-          // ported from https://github.com/distillpub/template/pull/105/files
-          calcOffset = function(elem) {
-              let x = elem.offsetLeft;
-              let y = elem.offsetTop;
-              // Traverse upwards until an `absolute` element is found or `elem`
-              // becomes null.
-              while (elem = elem.offsetParent && elem.style.position != 'absolute') {
-                  x += elem.offsetLeft;
-                  y += elem.offsetTop;
-              }
-
-              return { left: x, top: y };
-          }
-          // https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/offsetTop
-          const bbox = node.getBoundingClientRect();
-          const offset = calcOffset(node);
-          this.show([offset.left + bbox.width, offset.top + bbox.height]);
-        }
-      })
 
       // clear polling timer
       clearInterval(tid);
@@ -2008,8 +1970,6 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
     // mark non-body figures created by knitr chunks as 100% width
     $('.layout-chunk').each(function(i, val) {
       var figures = $(this).find('img, .html-widget');
-      // ignore leaflet img layers (#106)
-      figures = figures.filter(':not(img[class*="leaflet"])')
       if ($(this).attr('data-layout') !== "l-body") {
         figures.css('width', '100%');
       } else {
@@ -2032,7 +1992,7 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
     // get rid of index.html references in header
     if (window.location.protocol !== "file:") {
       $('.distill-site-header a[href]').each(function(i,val) {
-        $(this).attr('href', $(this).attr('href').replace(/^index[.]html/, "./"));
+        $(this).attr('href', $(this).attr('href').replace("index.html", "./"));
       });
     }
 
@@ -2071,7 +2031,7 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
   </script>
 
   <!--/radix_placeholder_distill-->
-  <script src="site_libs/header-attrs-2.17/header-attrs.js"></script>
+  <script src="site_libs/header-attrs-2.10/header-attrs.js"></script>
   <script src="site_libs/popper-2.6.0/popper.min.js"></script>
   <link href="site_libs/tippy-6.2.7/tippy.css" rel="stylesheet" />
   <link href="site_libs/tippy-6.2.7/tippy-light-border.css" rel="stylesheet" />
@@ -2550,36 +2510,46 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 
 
 <div class="d-article">
-<p>Connect with me on <a href="https://twitter.com/statistishdan">Twitter</a>, <a href="https://github.com/ddsjoberg">GitHub</a>, and <a href="https://linkedin.com/in/ddsjoberg/">Linkedin</a>.</p>
-<p>I am happy to answer <em>gtsummary</em> questions, but please do <em>not</em> email me with questions.
-It is best for the community if questions are asked and answered on a public forum.</p>
+<p>Connect with me on
+<a href="https://twitter.com/statistishdan">Twitter</a>,
+<a href="https://github.com/ddsjoberg">GitHub</a>, and
+<a href="https://linkedin.com/in/ddsjoberg/">Linkedin</a>.</p>
+<p>I am happy to answer <em>gtsummary</em> questions, but please do
+<em>not</em> email me with questions. It is best for the community if
+questions are asked and answered on a public forum.</p>
 <ul>
-<li><p><strong>Questions</strong>? Post to <a href="https://stackoverflow.com/">stackoverflow.com</a>, use the <em>gtsummary</em> tag, and I will be notified of your post.</p></li>
-<li><p><strong>Bug Reports</strong>? File a <a href="https://github.com/ddsjoberg/gtsummary/issues">GitHub Issue</a></p></li>
+<li><p><strong>Questions</strong>? Post to <a
+href="https://stackoverflow.com/">stackoverflow.com</a>, use the
+<em>gtsummary</em> tag, and I will be notified of your post.</p></li>
+<li><p><strong>Bug Reports</strong>? File a <a
+href="https://github.com/ddsjoberg/gtsummary/issues">GitHub
+Issue</a></p></li>
 </ul>
 <hr />
 <div class="float-image">
 <div class="layout-chunk" data-layout="l-body">
 <p><img src="images/logo-mskcc.png" width="200px" style="float:right; padding:10px" /></p>
 </div>
-<h4 id="memorial-sloan-kettering-cancer-center"><b>Memorial Sloan Kettering Cancer Center</b></h4>
-<p>1275 York Ave.<br>
-New York, NY 10065<br>
-<a href="mailto:sjobergd@mskcc.org" class="email">sjobergd@mskcc.org</a><br></p>
+<h4 id="memorial-sloan-kettering-cancer-center"><b>Memorial Sloan
+Kettering Cancer Center</b></h4>
+<p>1275 York Ave.<br> New York, NY 10065<br> <a
+href="mailto:sjobergd@mskcc.org"
+class="email">sjobergd@mskcc.org</a><br></p>
 </div>
 <hr />
-<div class="float-image">
+<!-- :::float-image -->
 <div class="layout-chunk" data-layout="l-body">
-<p><img src="images/logo-columbia.png" width="250px" style="float:right; padding:10px" /></p>
+
 </div>
-<h4 id="columbia-university"><b>Columbia University</b><br></h4>
-<p>Mailman School of Public Health<br>
-Department of Biostatistics<br>
-722 West 168th St., 6th floor<br>
-New York, NY 10032<br>
-<a href="mailto:dds2149@cumc.columbia.edu" class="email">dds2149@cumc.columbia.edu</a><br></p>
-</div>
-<div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
+<!-- #### <b>Columbia University</b><br>  -->
+<!-- Mailman School of Public Health<br> -->
+<!-- Department of Biostatistics<br> -->
+<!-- 722 West 168th St., 6th floor<br> -->
+<!-- New York, NY 10032<br> -->
+<!-- dds2149@cumc.columbia.edu<br> -->
+<!-- ::: -->
+<div class="sourceCode" id="cb1"><pre
+class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
 </div>
