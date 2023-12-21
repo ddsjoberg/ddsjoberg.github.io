@@ -5,32 +5,31 @@ output:
     toc: false
 ---
 
-Connect with me on <a href="https://twitter.com/statistishdan">Twitter</a>, <a href="https://github.com/ddsjoberg">GitHub</a>, and <a href="https://linkedin.com/in/ddsjoberg/">Linkedin</a>.
+Connect with me on <a href="https://twitter.com/statistishdan">Twitter</a>, <a href="https://github.com/ddsjoberg">GitHub</a>, and <a href="https://linkedin.com/in/ddsjoberg/">LinkedIn</a>.
 
-I am happy to answer _gtsummary_ questions, but please do _not_ email me with questions. 
+I am happy to answer _gtsummary_ and _ggsurvift_ questions, but please do __not__ email me with questions. 
 It is best for the community if questions are asked and answered on a public forum.
 
-- **Questions**? Post to [stackoverflow.com](https://stackoverflow.com/), use the _gtsummary_ tag, and I will be notified of your post.
+Post to [stackoverflow.com](https://stackoverflow.com/), use the _gtsummary_ or  _ggsurvfit_ tag, and I will be notified of your post.
 
-- **Bug Reports**? File a [GitHub Issue](https://github.com/ddsjoberg/gtsummary/issues)
 
-----
+<!-- ---- -->
 
-:::float-image
+<!-- :::float-image -->
 
-```{r out.width='200px', out.extra='style="float:right; padding:10px"', echo=FALSE}
-knitr::include_graphics("images/logo-mskcc.png")
-```
+<!-- ```{r out.width='200px', out.extra='style="float:right; padding:10px"', echo=FALSE} -->
+<!-- knitr::include_graphics("images/logo-mskcc.png") -->
+<!-- ``` -->
 
-#### <b>Memorial Sloan Kettering Cancer Center</b> 
+<!-- #### <b>Memorial Sloan Kettering Cancer Center</b>  -->
 
-1275 York Ave.<br>
-New York, NY 10065<br>
-sjobergd@mskcc.org<br>
+<!-- 1275 York Ave.<br> -->
+<!-- New York, NY 10065<br> -->
+<!-- sjobergd@mskcc.org<br> -->
 
-:::
+<!-- ::: -->
 
-----  
+<!-- ----   -->
 
 <!-- :::float-image -->
 

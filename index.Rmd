@@ -69,32 +69,16 @@ d-title p {
 </div>
 
 <div class="hero-right" style="padding-bottom:1em">
+  <p style="font-weight:bold; margin-top:15px">
+    <i class="fa fa-hospital-o" aria-hidden="true" style="padding-right:5px"></i> Work
+  </p>
+  <li>Genentech, a Roche Company</li>
   <p style="font-weight:bold; margin-top:5px">
     <i class="fa fa-graduation-cap" aria-hidden="true" style="padding-right:5px"></i> Education
   </p>
   <li>MA Boston University, Biostatistics</li>
   <li>BS University of Utah, Mathematics</li>
-  <p style="font-weight:bold; margin-top:15px">
-    <i class="fa fa-hospital-o" aria-hidden="true" style="padding-right:5px"></i> Work
-  </p>
-  <li>Memorial Sloan Kettering Cancer Center</li>
 </div>
-
-<!-- <div style="float:left; width:100%;"> -->
-<!--   <p style="margin-bottom:.5em"> -->
-<!--     <strong style="font-family: Roboto Slab; font-size: 1.2em"> -->
-<!--       <i class="fa fa-flask" aria-hidden="true" style="padding-right:12.5px"></i> Methods:  -->
-<!--     </strong> -->
-<!--     Eye-tracking, sentence comprehension, text/speech corpus analysis -->
-<!--   </p> -->
-<!--   <p style="margin-bottom:1.5em"> -->
-<!--     <strong style="font-family:Roboto Slab; font-size:1.2em"> -->
-<!--       <i class="fa fa-code" aria-hidden="true" style="padding-right:5px"></i> Programming:  -->
-<!--     </strong> -->
-<!--     R <span style="font-size:0.8em">(fluent)</span> | HTML/CSS/JS <span style="font-size:0.8em">(proficient)</span> | Python <span style="font-size:0.8em">(coursework)</span> -->
-<!--   </p> -->
-<!-- </div> -->
-
 </div>
 
 
@@ -102,7 +86,10 @@ d-title p {
 
 <div class="about">
 
-I am a Lead Data Scientist at <a href="https://www.mskcc.org/" target="_blank">Memorial Sloan Kettering Cancer Center</a> in New York City. My research interests include adaptive methods in clinical trials, precision medicine, predictive modeling, and prostate cancer screening methods.  In my time away from work and school, I enjoy baking, going to the beach, running, and programming in R.
+I am a Senior Principal Data Scientist at Genentech/Roche.
+Previously, I was a Lead Data Science Manager at the Prostate Cancer Clinical Trials Consortium, and a Senior Biostatistician at Memorial Sloan Kettering Cancer Center in New York City.
+I am an avid R package developer.
+My research interests include adaptive methods in clinical trials, precision medicine, predictive modeling, and prostate cancer screening methods.  In my free time, I enjoy baking, going to the beach, and running.
 
 
 </div>
