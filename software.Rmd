@@ -74,12 +74,12 @@ More information at http://www.danieldsjoberg.com/gtsummary/
 knitr::include_graphics("images/dca.png")
 ```
 </a>
-Languages **R**, **Stata**, **SAS**
+Languages **R**, **Stata**, **SAS**, **Python**
 
 Decision-analytic techniques allow assessment of clinical outcomes but often require collection of additional information may be cumbersome to apply to models that yield a continuous result.
 Decision curve analysis is a method for evaluating and comparing prediction models that incorporates clinical consequences, requires only the data set on which the models are tested, and can be applied to models that have either continuous or dichotomous results.
 
-Detailed **tutorial** and **installation instructions** at https://www.danieldsjoberg.com/dca-tutorial/dca-tutorial-r.html
+Detailed **peer-reviewed literature**, **installation instructions**, **software tutorial**, and **discussion forum** at http://www.decisioncurveanalysis.org
 
 R package website: http://www.danieldsjoberg.com/dcurves/
 
