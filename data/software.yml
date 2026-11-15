@@ -1,0 +1,188 @@
+# Software listed on software.html.
+# Text fields accept `backticks` for inline code; everything else is escaped.
+# section: "maintainer", "author" or "contributor" (mirrors github.com/ddsjoberg/pkg-logs)
+
+# ---- Packages I maintain -------------------------------------------------------
+- name: gtsummary
+  url: https://www.danieldsjoberg.com/gtsummary/
+  logo: { file: gtsummary.webp, width: 163, height: 187 }
+  languages: [R]
+  section: maintainer
+  summary: >
+    Publication-ready analytic and summary tables in R. Summarize data sets,
+    regression models and more, with sensible defaults and highly customizable output.
+  details:
+    - "**Summarize data frames** for descriptive statistics and demographics (e.g. a Table 1), automatically detecting continuous, categorical and dichotomous variables and reporting missingness."
+    - "**Summarize regression models**, including reference rows for categorical variables and pre-filled headers such as Odds Ratio and Hazard Ratio."
+    - "**Customize tables** with formatting and styling functions: bold labels, italicize levels, add p-values, merge or stack tables side by side."
+    - "**Report statistics inline** in R Markdown and Quarto, keeping reports fully reproducible."
+  install: install.packages("gtsummary")
+
+- name: cards
+  url: https://pharmaverse.github.io/cards/
+  logo: { file: cards.webp, width: 162, height: 186 }
+  languages: [R]
+  section: maintainer
+  summary: >
+    Create Analysis Results Datasets (ARDs): a standard, machine-readable record of
+    the statistics behind tables and figures. {gtsummary} builds its tables on {cards}.
+  install: install.packages("cards")
+
+- name: cardx
+  url: https://pharmaverse.github.io/cardx/
+  logo: { file: cardx.webp, width: 162, height: 186 }
+  languages: [R]
+  section: maintainer
+  summary: >
+    Extra Analysis Results Data utilities that supplement {cards}, putting statistical
+    test and model results in the ARD format for tables, figures and reports.
+  install: install.packages("cardx")
+
+- name: ggsurvfit
+  url: https://www.danieldsjoberg.com/ggsurvfit/
+  logo: { file: ggsurvfit.webp, width: 162, height: 186 }
+  languages: [R]
+  section: maintainer
+  summary: >
+    Publication-ready time-to-event (survival) figures with ggplot2. Every function is a
+    proper ggplot geom or stat, so it combines with any other ggplot customization.
+  install: install.packages("ggsurvfit")
+
+- name: Decision Curve Analysis
+  url: https://www.danieldsjoberg.com/dca-tutorial/dca-tutorial-r.html
+  logo: { file: dca.webp, width: 192, height: 172 }
+  languages: [R, Stata, SAS]
+  section: maintainer
+  summary: >
+    Evaluate and compare prediction models by their clinical consequences, using only
+    the data set the models are tested on. Includes the {dcurves} R package and a full tutorial.
+  links:
+    - { text: "dcurves package", url: "https://www.danieldsjoberg.com/dcurves/" }
+  install: install.packages("dcurves")
+
+- name: tidycmprsk
+  url: https://mskcc-epi-bio.github.io/tidycmprsk/
+  logo: { file: tidycmprsk.webp, width: 166, height: 192 }
+  languages: [R]
+  section: maintainer
+  summary: >
+    An intuitive interface to competing-risks analysis: cumulative incidence with
+    `cuminc()`, competing-risk regression with `crr()`, and broom-style tidiers.
+  install: install.packages("tidycmprsk")
+
+- name: starter
+  url: https://www.danieldsjoberg.com/starter/
+  logo: { file: starter.webp, width: 164, height: 189 }
+  languages: [R]
+  section: maintainer
+  summary: >
+    Drop a project skeleton into a new or existing directory, initialize git and create a
+    reproducible {renv} environment, with dynamically named files and folders.
+  install: install.packages("starter")
+
+- name: updater
+  url: https://www.danieldsjoberg.com/updater/
+  languages: [R]
+  section: maintainer
+  summary: >
+    Get up and running after an R upgrade: reinstall all your previously installed
+    packages with {renv}, replenishing your package cache along the way.
+  install: install.packages("updater")
+
+# ---- Packages I co-author -----------------------------------------------------
+- name: crane
+  url: https://insightsengineering.github.io/crane/
+  logo: { file: crane.webp, width: 166, height: 192 }
+  languages: [R]
+  section: author
+  summary: >
+    Supplements {gtsummary} for the highly tailored tables summarizing clinical trial
+    results that are submitted to health authorities.
+  install: install.packages("crane")
+
+- name: mmrm
+  url: https://openpharma.github.io/mmrm/
+  logo: { file: mmrm.webp, width: 168, height: 192 }
+  languages: [R]
+  section: author
+  summary: >
+    Fast, robust mixed models for repeated measures (MMRM) for longitudinal outcomes in
+    clinical trials, with flexible covariance structures and Satterthwaite or Kenward-Roger inference.
+  install: install.packages("mmrm")
+
+- name: broom.helpers
+  url: https://larmarange.github.io/broom.helpers/
+  logo: { file: broom.helpers.webp, width: 166, height: 192 }
+  languages: [R]
+  section: author
+  summary: >
+    Helpers for `broom::tidy()` model tibbles: group terms by variable, add reference and
+    header rows, variable labels and more. Used by `gtsummary::tbl_regression()` and `GGally::ggcoef_model()`.
+  install: install.packages("broom.helpers")
+
+- name: gtreg
+  url: https://shannonpileggi.github.io/gtreg/
+  logo: { file: gtreg.webp, width: 162, height: 186 }
+  languages: [R]
+  section: author
+  summary: >
+    Tabular data summaries for regulatory submissions, built with {gtsummary}.
+  install: install.packages("gtreg")
+
+- name: rstudio.prefs
+  url: https://www.danieldsjoberg.com/rstudio.prefs/
+  logo: { file: rstudio.prefs.webp, width: 192, height: 192 }
+  languages: [R]
+  section: author
+  summary: >
+    Modify RStudio's JSON preference files from code, so teams can share a unified setup
+    and best-practice settings across machines.
+  install: install.packages("rstudio.prefs")
+
+# ---- Packages I contribute to --------------------------------------------------
+- name: broom
+  url: https://broom.tidymodels.org/
+  logo: { file: broom.webp, width: 166, height: 192 }
+  languages: [R]
+  section: contributor
+  summary: >
+    Summarize key information about statistical models in tidy tibbles with
+    `tidy()`, `glance()` and `augment()`.
+  install: install.packages("broom")
+
+- name: gtExtras
+  url: https://jthomasmock.github.io/gtExtras/
+  logo: { file: gtExtras.webp, width: 169, height: 189 }
+  languages: [R]
+  section: contributor
+  summary: >
+    Additional helper functions for creating beautiful tables with {gt}.
+  install: install.packages("gtExtras")
+
+- name: cardinalfda
+  url: https://pharmaverse.github.io/cardinal/
+  logo: { file: cardinalfda.webp, width: 168, height: 192 }
+  languages: [R]
+  section: contributor
+  summary: >
+    FDA-recommended safety tables and figures for clinical trial reporting, built on
+    {gtsummary}, {cards} and {cardx}.
+  install: install.packages("cardinalfda")
+
+- name: genieBPC
+  url: https://genie-bpc.github.io/genieBPC/
+  logo: { file: genieBPC.webp, width: 167, height: 192 }
+  languages: [R]
+  section: contributor
+  summary: >
+    Obtain and prepare AACR Project GENIE BioPharma Collaborative clinico-genomic data
+    releases from Synapse for analysis.
+  install: install.packages("genieBPC")
+
+- name: smd
+  url: https://bsaul.github.io/smd/
+  languages: [R]
+  section: contributor
+  summary: >
+    Compute standardized mean differences and confidence intervals for multiple data types.
+  install: install.packages("smd")

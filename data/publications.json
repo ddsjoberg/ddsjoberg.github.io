@@ -1,0 +1,2173 @@
+{
+  "updated": "2026-11-14",
+  "items": [
+    {
+      "author": "DD Sjoberg, J Larmarange, M Curry, J Lavery, K Whiting, EC Zabor, X Bai, and others",
+      "year": 2024,
+      "title": "gtsummary: Presentation-ready data summary and analytic result tables",
+      "journal": "",
+      "number": "",
+      "pubid": "zzCxg_vo7cAC"
+    },
+    {
+      "author": "DD Sjoberg",
+      "year": 2023,
+      "title": "ggsankey: Sankey, Alluvial and Sankey Bump Plots (R package version 0.0. 99999)",
+      "journal": "",
+      "number": "",
+      "pubid": "EmjvLWWcsQIC"
+    },
+    {
+      "author": "DD Sjoberg, M Baillie, C Fruechtenicht, S Haesendonckx, T Treis",
+      "year": 2022,
+      "title": "ggsurvfit: Flexible time-to-event figures",
+      "journal": "CRAN: Contributed Packages",
+      "number": "",
+      "pubid": "3x-KLxxGyuUC"
+    },
+    {
+      "author": "DD Sjoberg, T Fei",
+      "year": 2022,
+      "title": "tidycmprsk: Competing risks estimation",
+      "journal": "R package version",
+      "number": "0.2. 0 19",
+      "pubid": "GHsHDPAyICYC"
+    },
+    {
+      "author": "DD Sjoberg",
+      "year": 2022,
+      "title": "Dcurves: decision curve analysis for model evaluation",
+      "journal": "R package version",
+      "number": "0.3. 0 537",
+      "pubid": "vjZqxyZ7hS4C"
+    },
+    {
+      "author": "DD Sjoberg, K Whiting, M Curry, JA Lavery, J Larmarange",
+      "year": 2021,
+      "title": "Reproducible summary tables with the gtsummary package",
+      "journal": "R Journal",
+      "number": "13 (1)",
+      "pubid": "ji7lAbPyDbYC"
+    },
+    {
+      "author": "DD Sjoberg",
+      "year": 2021,
+      "title": "ggstream: Create Streamplots in “ggplot2.”",
+      "journal": "R package",
+      "number": "",
+      "pubid": "xlVdBZVQT58C"
+    },
+    {
+      "author": "DD Sjoberg",
+      "year": 2021,
+      "title": "ggsankey: Make sankey, alluvial and sankey bump plots in ggplot",
+      "journal": "Github",
+      "number": "",
+      "pubid": "X1xEhyGaivYC"
+    },
+    {
+      "author": "DD Sjoberg",
+      "year": 2020,
+      "title": "ggbump: Bump chart and sigmoid curves",
+      "journal": "URL: https://CRAN. R-project. org/package= ggbump. r package version",
+      "number": "0.1. 0",
+      "pubid": "TuM7UPshZo8C"
+    },
+    {
+      "author": "DD Sjoberg, AJ Vickers, M Assel, A Dahlin, BY Poon, D Ulmert, H Lilja",
+      "year": 2018,
+      "title": "Twenty-year risk of prostate cancer death by midlife prostate-specific antigen and a panel of four kallikrein markers in a large population-based cohort of healthy men",
+      "journal": "European urology",
+      "number": "73 (6), 941-948",
+      "pubid": "5icHVeHT4IsC"
+    },
+    {
+      "author": "DD Sjoberg",
+      "year": 2014,
+      "title": "Toward a smarter prostate cancer screening program.",
+      "journal": "European Urology",
+      "number": "68 (4), 598-599",
+      "pubid": "RHpTSmoSYBkC"
+    },
+    {
+      "author": "DD Sjoberg",
+      "year": 2005,
+      "title": "Coherent effects in single scattering and random errors in antenna technology",
+      "journal": "Progress In Electromagnetics Research",
+      "number": "50, 13-39",
+      "pubid": "u0Mu_IsstPMC"
+    },
+    {
+      "author": "JA Coleman, W Yip, NC Wong, DD Sjoberg, BH Bochner, G Dalbagni, and others",
+      "year": 2023,
+      "title": "Multicenter phase II clinical trial of gemcitabine and cisplatin as neoadjuvant chemotherapy for patients with high-grade upper tract urothelial carcinoma",
+      "journal": "Journal of Clinical Oncology",
+      "number": "41 (8), 1618-1625",
+      "pubid": "ShjGdcaqzI0C"
+    },
+    {
+      "author": "MA Preston, JL Batista, KM Wilson, SV Carlsson, T Gerke, DD Sjoberg, and others",
+      "year": 2016,
+      "title": "Baseline prostate-specific antigen levels in midlife predict lethal prostate cancer",
+      "journal": "Journal of Clinical Oncology",
+      "number": "34 (23), 2705-2711",
+      "pubid": "MLfJN-KU85MC"
+    },
+    {
+      "author": "S Punnen, DD Sjoberg, SM Zappala, D Parekh",
+      "year": 2015,
+      "title": "A multi-institutional prospective trial in the United States to confirm the 4Kscore identification of men with high-grade prostate cancer",
+      "journal": "JOURNAL OF CLINICAL ONCOLOGY",
+      "number": "33 (7)",
+      "pubid": "tHtfpZlB6tUC"
+    },
+    {
+      "author": "BH Bochner, DD Sjoberg, VP Laudone",
+      "year": 2014,
+      "title": "A randomized trial of robot-assisted laparoscopic radical cystectomy",
+      "journal": "The New England journal of medicine",
+      "number": "371 (4), 389",
+      "pubid": "Y0pCki6q_DkC"
+    },
+    {
+      "author": "W Breitbart, S Poppito, B Rosenfeld, AJ Vickers, Y Li, J Abbey, M Olden, DD Sjoberg, and others",
+      "year": 2012,
+      "title": "Pilot randomized controlled trial of individual meaning-centered psychotherapy for patients with advanced cancer",
+      "journal": "Journal of clinical oncology",
+      "number": "30 (12), 1304-1309",
+      "pubid": "YsMSGLbcyi4C"
+    },
+    {
+      "author": "CD Gaffney, SM Alam, G Wald, DD Sjoberg, J Eichholz, J Sarungbam, and others",
+      "year": 2026,
+      "title": "A Phase I Clinical Trial of Chemoimmunotherapy With Alternating Intravesical Gemcitabine and Bacillus Calmette-Guérin (GemBCG) for BCG-Exposed High-Grade Non–Muscle-Invasive …",
+      "journal": "The Journal of Urology",
+      "number": "10.1097/JU. 0000000000005324",
+      "pubid": "Agc8PWtS8JkC"
+    },
+    {
+      "author": "Y Dong, AJ Vickers, DD Sjoberg, PT Scardino, H Lilja",
+      "year": 2026,
+      "title": "Systems for providing a probability of prostate cancer risk and/or prostate gland volume, and related methods",
+      "journal": "US Patent",
+      "number": "12,656,348",
+      "pubid": "cB__R-XWw9UC"
+    },
+    {
+      "author": "KA Touijer, EA Vertosick, DD Sjoberg, N Liso, S Nalavenkata, B Melao, and others",
+      "year": 2025,
+      "title": "Pelvic lymph node dissection in prostate cancer: update from a randomized clinical trial of limited versus extended dissection",
+      "journal": "European Urology",
+      "number": "87 (2), 253-260",
+      "pubid": "T_0gP6tLVL0C"
+    },
+    {
+      "author": "Y Dong, AJ Vickers, DD Sjoberg, PT Scardino, H Lilja",
+      "year": 2025,
+      "title": "Compositions and methods for active surveillance of prostate cancer",
+      "journal": "US Patent",
+      "number": "12,326,453",
+      "pubid": "XvxMoLDsR5gC"
+    },
+    {
+      "author": "MB Clements, KR Pekala, AL Tin, DD Sjoberg, B Beech, T Atkinson, and others",
+      "year": 2025,
+      "title": "Prospective health‐related quality of life in women undergoing radical cystectomy and urinary diversion",
+      "journal": "BJU international",
+      "number": "136 (4), 728-737",
+      "pubid": "qkm5LKljiV4C"
+    },
+    {
+      "author": "MDMRDJ Escano, MPHEA Vertosick, MDN D’Souza, BSN Benfante, DD Sjoberg, and others",
+      "year": 2025,
+      "title": "Re-analysis of intravesical gemcitabine in the era of Bacillus Calmette-Guérin (BCG)-unresponsive non–muscle-invasive bladder cancer",
+      "journal": "Urologic Oncology: Seminars and Original Investigations",
+      "number": "43 (9), 520. e19-520 …",
+      "pubid": "RgMnzfD6kpIC"
+    },
+    {
+      "author": "M Hjorth, DD Sjoberg, A Svanberg, E Kaminsky, R Lo Martire, F Rorsman",
+      "year": 2025,
+      "title": "Health-related quality of life, events of decompensation and mortality-effectiveness of the quality liver nursing care model",
+      "journal": "Journal of Hepatology",
+      "number": "82 (supplement 1), S650-S651",
+      "pubid": "BKYZGPsuSFYC"
+    },
+    {
+      "author": "RNW Vanden Berg, EA Vertosick, DD Sjoberg, EK Cha, JA Coleman, and others",
+      "year": 2024,
+      "title": "Implementation and validation of an automated, longitudinal robotic surgical evaluation and feedback program at a high-volume center and impact on training",
+      "journal": "European Urology Open Science",
+      "number": "62, 81-90",
+      "pubid": "1wZ_wKGpLuwC"
+    },
+    {
+      "author": "HY Hougen, DD Sjoberg, J Thomas, BA Mahal, AJ Vickers, S Punnen",
+      "year": 2024,
+      "title": "Adding a coefficient for race to the 4Kscore improves calibration for Black men",
+      "journal": "The Journal of urology",
+      "number": "211 (3), 392-399",
+      "pubid": "vofGIMt6cyEC"
+    },
+    {
+      "author": "W Yip, MJ Assel, NC Wong, AT Tracey, RG Alvim, L Nogueira, N Almassi, DD Sjoberg, and others",
+      "year": 2024,
+      "title": "Changes in the perioperative management and outcomes of patients with upper tract urothelial carcinoma undergoing radical nephroureterectomy at Memorial Sloan Kettering Cancer …",
+      "journal": "Urology practice",
+      "number": "11 (2), 356-366",
+      "pubid": "Q3-QASNKTMEC"
+    },
+    {
+      "author": "JM Flores, E Vertosick, LC Jenkins, J Cooper, N Benfante, DD Sjoberg, and others",
+      "year": 2024,
+      "title": "Do phosphodiesterase type 5 inhibitors increase the risk of biochemical recurrence after radical prostatectomy?",
+      "journal": "The Journal of urology",
+      "number": "211 (3), 400-406",
+      "pubid": "RJNGbXJAtMsC"
+    },
+    {
+      "author": "L Jelinek, N Wingren, K Schab, M Gustafsson, DD Sjoberg, M Capek, and others",
+      "year": 2024,
+      "title": "Characteristic Modes and Nonreciprocity",
+      "journal": "",
+      "number": "2024 IEEE International Symposium on Antennas and Propagation and INC/USNC …",
+      "pubid": "WgvcDLhf7hwC"
+    },
+    {
+      "author": "CD Gaffney, SM Alam, JA Lavery, M Basar, N D'Souza, C Hernandez, DD Sjoberg, and others",
+      "year": 2024,
+      "title": "Urinary cytokine profiles reflect rationale for treatment with gemcitabine and Bacillus Calmette-Guerin (BCG) in BCG-exposed high-risk non-muscle invasive bladder cancer (NMIBC)",
+      "journal": "CLINICAL CANCER RESEARCH",
+      "number": "30 (10)",
+      "pubid": "MnogvFdIBdwC"
+    },
+    {
+      "author": "SM Alam, CD Gaffney, J Lavery, M Basar, N D'Souza, C Hernandez, DD Sjoberg, and others",
+      "year": 2024,
+      "title": "Final results from a Phase I trial of intravesical chemoimmunotherapy with gemcitabine and Bacillus Calmette-Guerin (BCG) for patients with BCG-exposed high-grade non-muscle …",
+      "journal": "CLINICAL CANCER RESEARCH",
+      "number": "30 (10)",
+      "pubid": "654Jc7Ppz2kC"
+    },
+    {
+      "author": "F Pellegrino, DD Sjoberg, AL Tin, NE Benfante, A Briganti, F Montorsi, and others",
+      "year": 2023,
+      "title": "Relationship between age, comorbidity, and the prevalence of erectile dysfunction",
+      "journal": "European urology focus",
+      "number": "9 (1), 162-167",
+      "pubid": "c1AJUTjuCtUC"
+    },
+    {
+      "author": "CA Bravi, P Dell'Oglio, E Mazzone, MC Moschovas, U Falagario, P Piazza, DD Sjoberg, and others",
+      "year": 2023,
+      "title": "The surgical learning curve for biochemical recurrence after robot-assisted radical prostatectomy",
+      "journal": "European urology oncology",
+      "number": "6 (4), 414-421",
+      "pubid": "qCpRzq7zkD8C"
+    },
+    {
+      "author": "W Yip, DD Sjoberg, LM Nogueira, AT Tracey, RG Alvim, PA Reisz, and others",
+      "year": 2023,
+      "title": "Final results of a phase I trial of WST-11 (TOOKAD soluble) vascular-targeted photodynamic therapy for upper tract urothelial carcinoma",
+      "journal": "The Journal of urology",
+      "number": "209 (5), 863-871",
+      "pubid": "BJtnxTr0fRcC"
+    },
+    {
+      "author": "H Truong, K Breen, S Nandakumar, DD Sjoberg, Y Kemel, N Mehta, and others",
+      "year": 2023,
+      "title": "Gene-based confirmatory germline testing following tumor-only sequencing of prostate cancer",
+      "journal": "European urology",
+      "number": "83 (1), 29-38",
+      "pubid": "cRMvf6lLvU8C"
+    },
+    {
+      "author": "MB Clements, BB Beech, TM Atkinson, GM Dalbagni, Y Li, AJ Vickers, DD Sjoberg, and others",
+      "year": 2023,
+      "title": "Health-related quality of life after robotic-assisted vs open radical cystectomy: analysis of a randomized trial",
+      "journal": "The Journal of urology",
+      "number": "209 (5), 901-910",
+      "pubid": "VnuxuLaQPLMC"
+    },
+    {
+      "author": "M Perera, G Jibara, AL Tin, S Haywood, DD Sjoberg, NE Benfante, and others",
+      "year": 2023,
+      "title": "Outcomes of grade group 2 and 3 prostate cancer on initial versus confirmatory biopsy: implications for active surveillance",
+      "journal": "European urology focus",
+      "number": "9 (4), 662-668",
+      "pubid": "BW2nPTmhBn4C"
+    },
+    {
+      "author": "A Larcher, F Belladelli, U Capitanio, F Montorsi",
+      "year": 2023,
+      "title": "Long-distance robot-assisted teleoperation: every millisecond counts",
+      "journal": "European urology",
+      "number": "83 (1), 45-47",
+      "pubid": "nWoA1JPTheMC"
+    },
+    {
+      "author": "JA Lavery, S Brown, MA Curry, A Martin, DD Sjoberg, K Whiting",
+      "year": 2023,
+      "title": "A data processing pipeline for the AACR project GENIE biopharma collaborative data with the {genieBPC} R package",
+      "journal": "Bioinformatics",
+      "number": "39 (1), btac796",
+      "pubid": "wBLCggQE-ToC"
+    },
+    {
+      "author": "M Perera, S Lebdai, AL Tin, DD Sjoberg, N Benfante, BB Beech, RG Alvim, and others",
+      "year": 2023,
+      "title": "Oncologic outcomes of patients with lymph node invasion at prostatectomy and post-prostatectomy biochemical persistence",
+      "journal": "Urologic Oncology: Seminars and Original Investigations",
+      "number": "41 (2), 105. e19-105 …",
+      "pubid": "3vbIHxFL9FgC"
+    },
+    {
+      "author": "BB Beech, AD Doudt, DD Sjoberg, MB Clements, AL Tin, TM Atkinson, and others",
+      "year": 2023,
+      "title": "Association of smoking history on health-related quality of life in patients undergoing radical cystecomy",
+      "journal": "Urologic Oncology: Seminars and Original Investigations",
+      "number": "41 (7), 325. e9-325. e14",
+      "pubid": "S2WlVNSe3u4C"
+    },
+    {
+      "author": "GT Chesnut, AL Tin, KA Fleshner, NE Benfante, AJ Vickers, JA Eastham, DD Sjoberg, and others",
+      "year": 2023,
+      "title": "Estimating patient health in prostate cancer treatment counseling",
+      "journal": "Prostate cancer and prostatic diseases",
+      "number": "26 (2), 271-275",
+      "pubid": "7H_MAutzIkAC"
+    },
+    {
+      "author": "V McPherson, SM Nair, AL Tin, M Dewar, K Siddiqui, DD Sjoberg, and others",
+      "year": 2023,
+      "title": "Comparison of salvage radical prostatectomy vs. salvage ablation therapy for biopsy-proven radio-recurrent localized prostate cancer",
+      "journal": "Canadian Urological Association Journal",
+      "number": "18 (2), 41",
+      "pubid": "KqnX2w3egDsC"
+    },
+    {
+      "author": "F Pellegrino, AL Tin, DD Sjoberg, NE Benfante, RC Weber, SP Porwal, and others",
+      "year": 2023,
+      "title": "The effect of the da Vinci® Vessel Sealer on robot-assisted laparoscopic prostatectomy complications",
+      "journal": "Journal of robotic surgery",
+      "number": "17 (4), 1763-1768",
+      "pubid": "htyGaKyDgHMC"
+    },
+    {
+      "author": "F Pellegrino, DD Sjoberg, AL Tin, NE Benfante, A Briganti, F Montorsi, and others",
+      "year": 2023,
+      "title": "Predictive value of kallikrein forms and β-microseminoprotein in blood from patients with evidence of detectable levels of PSA after radical prostatectomy",
+      "journal": "World journal of urology",
+      "number": "41 (6), 1489-1495",
+      "pubid": "yZoBfgUKqwcC"
+    },
+    {
+      "author": "A Mamtani, DD Sjoberg, A Vincent, B Ehdaie, D Malhotra, A Vickers, and others",
+      "year": 2023,
+      "title": "Does a brief surgeon training in negotiation theory principles decrease rates of contralateral prophylactic mastectomy?",
+      "journal": "Breast cancer research and treatment",
+      "number": "199 (1), 119-126",
+      "pubid": "QKtdBID3u5MC"
+    },
+    {
+      "author": "W Yip, DD Sjoberg, LM Nogueira, AT Tracey, RG Alvim, PA Reisz, and others",
+      "year": 2023,
+      "title": "Phase I Trial of Vascular-targeted Photodynamic Therapy for Upper Tract Urothelial Carcinoma.",
+      "journal": "AUANews",
+      "number": "13",
+      "pubid": "djcsc3XHdKAC"
+    },
+    {
+      "author": "MB Clements, BB Beech, TM Atkinson, GM Dalbagni, AJ Vickers, HW Herr, DD Sjoberg, and others",
+      "year": 2023,
+      "title": "Health-related Quality of Life After Robotic-assisted vs Open Radical Cystectomy.",
+      "journal": "AUANews",
+      "number": "11",
+      "pubid": "wUCFpcnEedwC"
+    },
+    {
+      "author": "M Perera, S Lebdai, AL Tin, DD Sjoberg, N Benfante, BB Beech, RG Alvim, and others",
+      "year": 2023,
+      "title": "Clinical-Prostate cancer Oncologic outcomes of patients with lymph node invasion at prostatectomy and post-prostatectomy biochemical persistence",
+      "journal": "UROLOGIC ONCOLOGY-SEMINARS AND ORIGINAL INVESTIGATIONS",
+      "number": "41 (2)",
+      "pubid": "NXYAu82O0W8C"
+    },
+    {
+      "author": "B Ehdaie, CM Tempany, F Holland, DD Sjoberg, AS Kibel, QD Trinh, and others",
+      "year": 2022,
+      "title": "MRI-guided focused ultrasound focal therapy for patients with intermediate-risk prostate cancer: a phase 2b, multicentre study",
+      "journal": "The Lancet Oncology",
+      "number": "23 (7), 910-918",
+      "pubid": "SrKkpNFED5gC"
+    },
+    {
+      "author": "DS Bove, L Li, J Dedic, D Kelkhoff, K Kunzmann, BM Lang, C Stock, DD Sjoberg, and others",
+      "year": 2022,
+      "title": "mmrm: Mixed models for repeated measures",
+      "journal": "CRAN: Contributed Packages",
+      "number": "",
+      "pubid": "O0MA3yP7Y3UC"
+    },
+    {
+      "author": "N Almassi, EA Vertosick, DD Sjoberg, NC Wong, C Huang, EJ Pietzak, and others",
+      "year": 2022,
+      "title": "Pathological and oncological outcomes in patients with sarcomatoid differentiation undergoing cystectomy",
+      "journal": "BJU international",
+      "number": "129 (4), 463-469",
+      "pubid": "QVtou7C4vgoC"
+    },
+    {
+      "author": "D Bock, M Nyberg, A Lantz, SV Carlsson, DD Sjoberg, S Carlsson, and others",
+      "year": 2022,
+      "title": "Learning curve for robot-assisted laparoscopic radical prostatectomy in a large prospective multicentre study",
+      "journal": "Scandinavian Journal of Urology",
+      "number": "56 (3), 182-190",
+      "pubid": "ukw-9cB-YDkC"
+    },
+    {
+      "author": "C Huang, M Assel, BB Beech, NE Benfante, DD Sjoberg, A Touijer, and others",
+      "year": 2022,
+      "title": "Uretero‐enteric stricture outcomes: secondary analysis of a randomised controlled trial comparing open versus robot‐assisted radical cystectomy",
+      "journal": "BJU international",
+      "number": "130 (6), 809-814",
+      "pubid": "bXQfdp6S9ecC"
+    },
+    {
+      "author": "KM Kan, AL Tin, GL Stearns, JA Eastham, DD Sjoberg, JS Sandhu",
+      "year": 2022,
+      "title": "De Novo Urinary Storage Symptoms Are Common after Radical Prostatectomy: Incidence, Natural History and Predictors",
+      "journal": "The Journal of urology",
+      "number": "207 (3), 601-608",
+      "pubid": "yIeBiWEAh44C"
+    },
+    {
+      "author": "GA Jibara, M Perera, EA Vertosick, DD Sjoberg, A Vickers, PT Scardino, and others",
+      "year": 2022,
+      "title": "Association of family history of cancer with clinical and pathological outcomes for prostate cancer patients on active surveillance",
+      "journal": "The Journal of urology",
+      "number": "208 (2), 325-332",
+      "pubid": "GYcXSSpN504C"
+    },
+    {
+      "author": "S Dason, EA Vertosick, K Udo, DD Sjoberg, AJ Vickers, H Al‐Ahmadie, and others",
+      "year": 2022,
+      "title": "Clinical utility of subclassifying positive surgical margins at radical prostatectomy",
+      "journal": "BJU international",
+      "number": "129 (2), 194-200",
+      "pubid": "4e5Qn2KL_jwC"
+    },
+    {
+      "author": "M Perera, A Vilaseca, AL Tin, DP Nguyen, RB Corradi, AS Touijer, DD Sjoberg, and others",
+      "year": 2022,
+      "title": "Morbidity of salvage radical prostatectomy: limited impact of the minimally invasive approach",
+      "journal": "World journal of urology",
+      "number": "40 (7), 1637-1644",
+      "pubid": "i_7YvbSbtFEC"
+    },
+    {
+      "author": "O Ettala, I Jambor, I Montoya Perez, M Seppänen, A Kaipia, H Seikkula, DD Sjoberg, and others",
+      "year": 2022,
+      "title": "Individualised non-contrast MRI-based risk estimation and shared decision-making in men with a suspicion of prostate cancer: Protocol for multicentre randomised controlled …",
+      "journal": "BMJ open",
+      "number": "12 (4), e053118",
+      "pubid": "V_vSwabWVtYC"
+    },
+    {
+      "author": "AJ Vickers, DD Sjoberg",
+      "year": 2022,
+      "title": "Methods Modernizing Statistical Reporting in Medical Journals: Challenges and Future Directions.",
+      "journal": "European Urology",
+      "number": "82 (6), 575-577",
+      "pubid": "hfzGNhXhx5MC"
+    },
+    {
+      "author": "AW Silagy, AL Tin, P Rappold, EA Vertosick, R Mano, K Attalla, A Yoo, DD Sjoberg, and others",
+      "year": 2022,
+      "title": "Systemic immunological determinants of oncological outcomes after surgery for localized renal cell carcinoma",
+      "journal": "Clinical genitourinary cancer",
+      "number": "20 (5), e432-e439",
+      "pubid": "uAPFzskPt0AC"
+    },
+    {
+      "author": "GT Chesnut, AL Tin, KA Fleshner, NE Benfante, AJ Vickers, JA Eastham, DD Sjoberg, and others",
+      "year": 2022,
+      "title": "Correction: Estimating patient health in prostate cancer treatment counseling",
+      "journal": "Prostate cancer and prostatic diseases",
+      "number": "25 (3), 598",
+      "pubid": "1EqfMoDn7-AC"
+    },
+    {
+      "author": "CA Bravi, P Dell'Oglio, E Mazzone, M C Moschovas, U Falagario, DD Sjoberg, and others",
+      "year": 2022,
+      "title": "The surgical learning curve for cancer control after robot-assisted radical prostatectomy",
+      "journal": "",
+      "number": "",
+      "pubid": "WzTVkKNmPSkC"
+    },
+    {
+      "author": "KA Touijer, DD Sjoberg, N Benfante, VP Laudone, B Ehdaie, JA Eastham, and others",
+      "year": 2021,
+      "title": "Limited versus extended pelvic lymph node dissection for prostate cancer: a randomized clinical trial",
+      "journal": "European urology oncology",
+      "number": "4 (4), 532-539",
+      "pubid": "JWITY9-sCbMC"
+    },
+    {
+      "author": "M Nyberg, DD Sjoberg, SV Carlsson, U Wilderäng, S Carlsson, J Stranne, and others",
+      "year": 2021,
+      "title": "Surgeon heterogeneity significantly affects functional and oncological outcomes after radical prostatectomy in the Swedish LAPPRO trial",
+      "journal": "Bju International",
+      "number": "127 (3), 361-368",
+      "pubid": "c1e4I3QdEKYC"
+    },
+    {
+      "author": "MDCR Tracy, MDKJ Flynn, MSDD Sjoberg, MDPT Gellhaus, MDCM Metz",
+      "year": 2021,
+      "title": "Optimizing MRI-targeted prostate biopsy: the diagnostic benefit of additional targeted biopsy cores",
+      "journal": "Urologic Oncology: Seminars and Original Investigations",
+      "number": "39 (3), 193. e1-193. e6",
+      "pubid": "NxmKEeNBbOMC"
+    },
+    {
+      "author": "B Ehdaie, G Jibara, DD Sjoberg, V Laudone, J Eastham, K Touijer, and others",
+      "year": 2021,
+      "title": "The duration of antibiotics prophylaxis at the time of catheter removal after radical prostatectomy: clinically integrated, cluster, randomized trial",
+      "journal": "The Journal of urology",
+      "number": "206 (3), 662-668",
+      "pubid": "naSTrk-c4S8C"
+    },
+    {
+      "author": "T Stonier, AL Tin, DD Sjoberg, G Jibara, AJ Vickers, S Fine, J Eastham",
+      "year": 2021,
+      "title": "Selecting patients with favorable risk, grade group 2 prostate cancer for active surveillance—does magnetic resonance imaging have a role?",
+      "journal": "The Journal of urology",
+      "number": "205 (4), 1063-1068",
+      "pubid": "Zh0EY9V9P6UC"
+    },
+    {
+      "author": "GT Chesnut, AL Tin, DD Sjoberg, B Jang, N Benfante, S Sarraf, H Herr, and others",
+      "year": 2021,
+      "title": "Electronic rapid fitness assessment identifies factors associated with adverse early postoperative outcomes following radical cystectomy",
+      "journal": "The Journal of urology",
+      "number": "205 (2), 400-406",
+      "pubid": "-DxkuPiZhfEC"
+    },
+    {
+      "author": "G Jibara, DD Sjoberg, GL Stearns, Y Stabholz, A Fathollahi, LS Leddy, and others",
+      "year": 2021,
+      "title": "Photoselective vaporization of the prostate in the management of lower urinary tract symptoms in prostate cancer patients on active surveillance",
+      "journal": "Urology",
+      "number": "156, 225-230",
+      "pubid": "s85pQhAUCrAC"
+    },
+    {
+      "author": "H Herr, EA Vertosick, G Dalbagni, EK Cha, R Smith, N Benfante, DD Sjoberg, and others",
+      "year": 2021,
+      "title": "Prospective Phase II Study to Evaluate Response to Two Induction Courses (12 intravesical instillations) of BCG Therapy for High-risk Non–muscle-invasive Bladder Cancer",
+      "journal": "Urology",
+      "number": "157, 197-200",
+      "pubid": "DXE8ND7PrJAC"
+    },
+    {
+      "author": "GT Chesnut, AL Tin, A Sivaraman, T Takeda, T Lee, J Fainberg, DD Sjoberg, and others",
+      "year": 2021,
+      "title": "Defining the index lesion for potential salvage partial or hemi-gland ablation after radiation therapy for localized prostate cancer",
+      "journal": "Urologic Oncology: Seminars and Original Investigations",
+      "number": "39 (8), 495. e17-495 …",
+      "pubid": "jtI9f0ekYq0C"
+    },
+    {
+      "author": "PE Lonergan, EA Vertosick, M Assel, DD Sjoberg, A Haese, M Graefen, and others",
+      "year": 2021,
+      "title": "Prospective validation of microseminoprotein‐β added to the 4Kscore in predicting high‐grade prostate cancer in an international multicentre cohort",
+      "journal": "BJU international",
+      "number": "128 (2), 218-224",
+      "pubid": "RtRctb2lSbAC"
+    },
+    {
+      "author": "RG Alvim, AL Tin, L Nogueira, NC Wong, RC Fonseca, DD Sjoberg, and others",
+      "year": 2021,
+      "title": "Functional and oncological outcomes of renal surgery for hilar tumors: informing the decisions in risk-adapted management",
+      "journal": "Urology",
+      "number": "157, 174-180",
+      "pubid": "KS-xo-ZNxMsC"
+    },
+    {
+      "author": "GL Stearns, AL Tin, NE Benfante, DD Sjoberg, JS Sandhu",
+      "year": 2021,
+      "title": "Outcomes of ureteroneocystostomy in patients with cancer",
+      "journal": "Urology",
+      "number": "158, 131-134",
+      "pubid": "In6cVmBjs0IC"
+    },
+    {
+      "author": "CA BRAVI, G ROSIELLO, G FALLARA, E VERTOSICK, A TIN, DD Sjoberg, and others",
+      "year": 2021,
+      "title": "Minerva Urology and Nephrology 2021 August; 73 (4): 481-8",
+      "journal": "Minerva",
+      "number": "73",
+      "pubid": "RMgMIBzvq-4C"
+    },
+    {
+      "author": "M Hjorth, A Svanberg, DD Sjoberg, F Rorsman, E Kaminsky",
+      "year": 2021,
+      "title": "Suffering from the unpredictable illness in liver cirrhosis",
+      "journal": "JOURNAL OF HEPATOLOGY",
+      "number": "75, S271-S272",
+      "pubid": "Cy13deThEpcC"
+    },
+    {
+      "author": "S Carlsson, N Benfante, R Alvim, DD Sjoberg, A Vickers, VE Reuter, and others",
+      "year": 2020,
+      "title": "Long-term outcomes of active surveillance for prostate cancer: the Memorial Sloan Kettering Cancer Center experience",
+      "journal": "The Journal of urology",
+      "number": "203 (6), 1122-1127",
+      "pubid": "Dem6FJhTUoYC"
+    },
+    {
+      "author": "GT Chesnut, EA Vertosick, N Benfante, DD Sjoberg, J Fainberg, T Lee, and others",
+      "year": 2020,
+      "title": "Role of changes in magnetic resonance imaging or clinical stage in evaluation of disease progression for men with prostate cancer on active surveillance",
+      "journal": "European urology",
+      "number": "77 (4), 501-507",
+      "pubid": "8Xgff_V0N9gC"
+    },
+    {
+      "author": "AJ Vickers, MJ Assel, DD Sjoberg, R Qin, Z Zhao, T Koyama, A Botchway, and others",
+      "year": 2020,
+      "title": "Guidelines for reporting of figures and tables for clinical research in urology",
+      "journal": "The Journal of urology",
+      "number": "204 (1), 121-133",
+      "pubid": "LgRImbQfgY4C"
+    },
+    {
+      "author": "S Carlsson, N Benfante, R Alvim, DD Sjoberg, A Vickers, VE Reuter, and others",
+      "year": 2020,
+      "title": "Risk of metastasis in men with grade group 2 prostate cancer managed with active surveillance at a tertiary cancer center",
+      "journal": "The Journal of urology",
+      "number": "203 (6), 1117-1121",
+      "pubid": "C33y2ycGS3YC"
+    },
+    {
+      "author": "KA Amin, EA Vertosick, G Stearns, A Fathollahi, DD Sjoberg, MS Donat, and others",
+      "year": 2020,
+      "title": "Predictors of benign ureteroenteric anastomotic strictures after radical cystectomy and urinary diversion",
+      "journal": "Urology",
+      "number": "144, 225-229",
+      "pubid": "-uzm3Y7AvW0C"
+    },
+    {
+      "author": "EA Vertosick, C Häggström, DD Sjoberg, G Hallmans, R Johansson, and others",
+      "year": 2020,
+      "title": "Prespecified 4-kallikrein marker model at age 50 or 60 for early detection of lethal prostate cancer in a large population based cohort of asymptomatic men followed for 20 years",
+      "journal": "The Journal of urology",
+      "number": "204 (2), 281-288",
+      "pubid": "eO3_k5sD8BwC"
+    },
+    {
+      "author": "N Almassi, EK Cha, EA Vertosick, C Huang, N Wong, S Dason, DD Sjoberg, and others",
+      "year": 2020,
+      "title": "Trends in management and outcomes among patients with urothelial carcinoma undergoing radical cystectomy from 1995 to 2015: the Memorial Sloan Kettering experience",
+      "journal": "The Journal of urology",
+      "number": "204 (4), 677-684",
+      "pubid": "VN7nJs4JPk0C"
+    },
+    {
+      "author": "R Mano, EA Vertosick, J Sarcona, DD Sjoberg, NE Benfante, TF Donahue, and others",
+      "year": 2020,
+      "title": "Primary urethral cancer: treatment patterns and associated outcomes",
+      "journal": "BJU international",
+      "number": "126 (3), 359-366",
+      "pubid": "hQUaER0FWQ4C"
+    },
+    {
+      "author": "A Haese, AL Tin, SV Carlsson, DD Sjoberg, D Pehrke, T Steuber, and others",
+      "year": 2020,
+      "title": "A pre-specified model based on four kallikrein markers in blood improves predictions of adverse pathology and biochemical recurrence after radical prostatectomy",
+      "journal": "British Journal of Cancer",
+      "number": "123 (4), 604",
+      "pubid": "4xDN1ZYqzskC"
+    },
+    {
+      "author": "A Vilaseca, G Guglielmetti, EA Vertosick, DD Sjoberg, A Grasso, and others",
+      "year": 2020,
+      "title": "Value of partial nephrectomy for renal cortical tumors of cT2 or greater stage: a risk-benefit analysis of renal function preservation versus increased postoperative morbidity",
+      "journal": "European urology oncology",
+      "number": "3 (3), 365-371",
+      "pubid": "1Ye0OR6EYb4C"
+    },
+    {
+      "author": "CA Bravi, A Tin, E Vertosick, E Mazzone, M Bandini, P Dell'Oglio, DD Sjoberg, and others",
+      "year": 2020,
+      "title": "Androgen deprivation therapy in men with node-positive prostate cancer treated with postoperative radiotherapy",
+      "journal": "Urologic Oncology: Seminars and Original Investigations",
+      "number": "38 (4), 204-209",
+      "pubid": "-95Q15plzcUC"
+    },
+    {
+      "author": "CA Bravi, G Rosiello, G Fallara, E Vertosick, A Tin, DD Sjoberg, M Bianchi, and others",
+      "year": 2020,
+      "title": "Predictive value of preoperative neutrophil-to-lymphocyte ratio in localized prostate cancer: results from a surgical series at a high-volume institution",
+      "journal": "Minerva urology and nephrology",
+      "number": "73 (4), 481",
+      "pubid": "QyXJ3EUuO1IC"
+    },
+    {
+      "author": "S Dason, EK Cha, C Falavolti, EA Vertosick, LW Dean, VA McPherson, DD Sjoberg, and others",
+      "year": 2020,
+      "title": "Late recurrences following radical cystectomy have distinct prognostic and management considerations",
+      "journal": "The Journal of urology",
+      "number": "204 (3), 460-465",
+      "pubid": "j7_hQOaDUrUC"
+    },
+    {
+      "author": "GT Chesnut, N Benfante, D Barham, LW Dean, A Tin, DD Sjoberg, and others",
+      "year": 2020,
+      "title": "Routine postoperative hemoglobin assessment poorly predicts transfusion requirement among patients undergoing minimally invasive radical prostatectomy",
+      "journal": "Urology Practice",
+      "number": "7 (4), 299-304",
+      "pubid": "IaI1MmNe2tcC"
+    },
+    {
+      "author": "S Erestam, D Bock, A Erichsen Andersson, A Bjartell, S Carlsson, DD Sjoberg, and others",
+      "year": 2020,
+      "title": "Associations between intraoperative factors and surgeons’ self-assessed operative satisfaction",
+      "journal": "Surgical Endoscopy",
+      "number": "34 (1), 61-68",
+      "pubid": "3NQIlFlcGxIC"
+    },
+    {
+      "author": "W Li, M Bicak, DD Sjoberg, E Vertosick, A Dahlin, O Melander, D Ulmert, and others",
+      "year": 2020,
+      "title": "Genome‐wide association study identifies novel single nucleotide polymorphisms having age‐specific effect on prostate‐specific antigen levels",
+      "journal": "The Prostate",
+      "number": "80 (16), 1405-1412",
+      "pubid": "__bU50VfleQC"
+    },
+    {
+      "author": "JC Hu, B Ehdaie, J Sandhu, DD Sjoberg, SV Carlsson, M Tzeng, and others",
+      "year": 2020,
+      "title": "Asian-American race and urinary continence after radical prostatectomy",
+      "journal": "European Urology Open Science",
+      "number": "22, 51-53",
+      "pubid": "JP7YXuLIOvAC"
+    },
+    {
+      "author": "T Takeda, AL Tin, RB Corradi, R Alvim, T Hashimoto, Y Ito, DP Nguyen, DD Sjoberg, and others",
+      "year": 2020,
+      "title": "Extensive disease among potential candidates for hemi‐ablative focal therapy for prostate cancer",
+      "journal": "International Journal of Urology",
+      "number": "27 (2), 179-185",
+      "pubid": "vDZJ-YLwNdEC"
+    },
+    {
+      "author": "KA Touijer, DD Sjoberg, N Benfante, NP Brau, IR Belenchón, CM Barrull, and others",
+      "year": 2020,
+      "title": "Comparison of erectile function recovery between limited and extended pelvic lymph node dissection for prostate cancer: Results from a large, clinically-integrated, randomized …",
+      "journal": "European Urology Open Science",
+      "number": "19, e2124",
+      "pubid": "An6A6Jpfc1oC"
+    },
+    {
+      "author": "M Assel, DD Sjoberg, A Elders, X Wang, D Huo, A Botchway, K Delfino, and others",
+      "year": 2019,
+      "title": "Guidelines for reporting of statistics for clinical research in urology",
+      "journal": "The Journal of urology",
+      "number": "201 (3), 595-604",
+      "pubid": "1yWc8FF-_SYC"
+    },
+    {
+      "author": "CA Bravi, E Vertosick, N Benfante, A Tin, DD Sjoberg, AA Hakimi, K Touijer, and others",
+      "year": 2019,
+      "title": "Impact of acute kidney injury and its duration on long-term renal function after partial nephrectomy",
+      "journal": "European urology",
+      "number": "76 (3), 398-403",
+      "pubid": "SjuI4pbJlxcC"
+    },
+    {
+      "author": "MA Preston, T Gerke, SV Carlsson, L Signorello, DD Sjoberg, SC Markt, and others",
+      "year": 2019,
+      "title": "Baseline prostate-specific antigen level in midlife and aggressive prostate cancer in black men",
+      "journal": "European urology",
+      "number": "75 (3), 399-407",
+      "pubid": "kWvqk_afx_IC"
+    },
+    {
+      "author": "LW Dean, M Assel, DD Sjoberg, AJ Vickers, HA Al-Ahmadie, YB Chen, and others",
+      "year": 2019,
+      "title": "Clinical usefulness of total length of Gleason pattern 4 on biopsy in men with grade group 2 prostate cancer",
+      "journal": "The Journal of urology",
+      "number": "201 (1), 77-83",
+      "pubid": "5bg8sr1QxYwC"
+    },
+    {
+      "author": "X Wu, H Scott, SV Carlsson, DD Sjoberg, L Cerundolo, H Lilja, R Prevo, and others",
+      "year": 2019,
+      "title": "Increased EZH2 expression in prostate cancer is associated with metastatic recurrence following external beam radiotherapy",
+      "journal": "The Prostate",
+      "number": "79 (10), 1079-1089",
+      "pubid": "JTqpx9DYBaYC"
+    },
+    {
+      "author": "Y Ito, K Udo, EA Vertosick, DD Sjoberg, AJ Vickers, HA Al-Ahmadie, and others",
+      "year": 2019,
+      "title": "Clinical usefulness of prostate and tumor volume related parameters following radical prostatectomy for localized prostate cancer",
+      "journal": "The Journal of urology",
+      "number": "201 (3), 535-540",
+      "pubid": "27LrP4qxOz0C"
+    },
+    {
+      "author": "GT Chesnut, P Zareba, DD Sjoberg, M Mamoor, S Carlsson, T Lee, and others",
+      "year": 2019,
+      "title": "Patient-reported pain, discomfort, and anxiety during magnetic resonance imaging-targeted prostate biopsy",
+      "journal": "Canadian Urological Association Journal",
+      "number": "14 (5), E202",
+      "pubid": "HhcuHIWmDEUC"
+    },
+    {
+      "author": "Y Ito, EA Vertosick, DD Sjoberg, AJ Vickers, HA Al-Ahmadie, YB Chen, and others",
+      "year": 2019,
+      "title": "In organ-confined prostate cancer, tumor quantitation not found to aid in prediction of biochemical recurrence",
+      "journal": "The American journal of surgical pathology",
+      "number": "43 (8), 1061",
+      "pubid": "PyEswDtIyv0C"
+    },
+    {
+      "author": "P Capogrosso, EA Vertosick, NE Benfante, DD Sjoberg, AJ Vickers, and others",
+      "year": 2019,
+      "title": "Can we improve the preoperative prediction of prostate cancer recurrence with multiparametric MRI?",
+      "journal": "Clinical genitourinary cancer",
+      "number": "17 (4), e745-e750",
+      "pubid": "PVgj2kMGcgYC"
+    },
+    {
+      "author": "NC Wong, RG Alvim, DD Sjoberg, R Shingarev, NE Power, M Spaliviero, and others",
+      "year": 2019,
+      "title": "Phase III trial of intravenous mannitol versus placebo during nephron-sparing surgery: Post hoc analysis of 3-yr outcomes",
+      "journal": "European urology focus",
+      "number": "5 (6), 977-979",
+      "pubid": "X9ykpCP0fEIC"
+    },
+    {
+      "author": "JA Coleman, NC Wong, DD Sjoberg, N Silva, BH Bochner, G Dalbagni, and others",
+      "year": 2019,
+      "title": "LBA-17 Multicenter prospective phase II clinical trial of gemcitabine and cisplatin as neoadjuvant chemotherapy in patients with high-grade upper tract urothelial carcinoma",
+      "journal": "Journal of Urology",
+      "number": "201, e999",
+      "pubid": "2tRrZ1ZAMYUC"
+    },
+    {
+      "author": "GT Chesnut, P Zareba, DD Sjoberg, M Mamoor, S Carlsson, T Lee",
+      "year": 2019,
+      "title": "Patient experience of MRI-targeted prostate biopsy Patient-reported pain, discomfort, and anxiety during magnetic resonance imaging-targeted prostate biopsy",
+      "journal": "Can Urol Assoc J",
+      "number": "29",
+      "pubid": "rHJHxKgnXwkC"
+    },
+    {
+      "author": "CA Bravi, A Tin, E Vertosick, E Mazzone, M Bandini, P Dell’Oglio, DD Sjoberg, and others",
+      "year": 2019,
+      "title": "Relative contribution of androgen deprivation therapy in combination with adjuvant radiotherapy for node-positive prostate cancer",
+      "journal": "Urologic oncology",
+      "number": "38 (4), 204",
+      "pubid": "2vr6o8x5NLkC"
+    },
+    {
+      "author": "H Lilja",
+      "year": 2019,
+      "title": "MP18-15 A Model Based on Four Kallikrein Markers in Blood Improves the Predictive Accuracy of Adverse Pathology and Biochemical Recurrence After Radical Prostatectomy",
+      "journal": "Journal of Urology",
+      "number": "",
+      "pubid": "kw52XkFRtyQC"
+    },
+    {
+      "author": "S Fine, Y Ito, E Vertosick, DD Sjoberg, A Vickers, H Al-Ahmadie, YB Chen, and others",
+      "year": 2019,
+      "title": "In Organ-Confined Prostate Cancer at Radical Prostatectomy, neither Total Tumor Volume nor Maximum Tumor Diameter of the Index Lesion Aids in Prediction of Biochemical Recurrence",
+      "journal": "LABORATORY INVESTIGATION",
+      "number": "99",
+      "pubid": "qE4H1tSSYIIC"
+    },
+    {
+      "author": "BH Bochner, G Dalbagni, KH Marzouk, DD Sjoberg, J Lee, SM Donat, and others",
+      "year": 2018,
+      "title": "Randomized trial comparing open radical cystectomy and robot-assisted laparoscopic radical cystectomy: oncologic outcomes",
+      "journal": "European urology",
+      "number": "74 (4), 465-471",
+      "pubid": "CdxZDUztZiMC"
+    },
+    {
+      "author": "KA Touijer, RJ Karnes, N Passoni, DD Sjoberg, M Assel, N Fossati, and others",
+      "year": 2018,
+      "title": "Survival outcomes of men with lymph node-positive prostate cancer after radical prostatectomy: a comparative analysis of different postoperative management strategies",
+      "journal": "European urology",
+      "number": "73 (6), 890-896",
+      "pubid": "r_AWSJRzSzQC"
+    },
+    {
+      "author": "M Nyberg, J Hugosson, P Wiklund, DD Sjoberg, U Wilderäng, SV Carlsson, and others",
+      "year": 2018,
+      "title": "Functional and oncologic outcomes between open and robotic radical prostatectomy at 24-month follow-up in the Swedish LAPPRO trial",
+      "journal": "European urology oncology",
+      "number": "1 (5), 353-360",
+      "pubid": "ce2CqMG-AY4C"
+    },
+    {
+      "author": "W Li, M Middha, M Bicak, DD Sjoberg, E Vertosick, A Dahlin, and others",
+      "year": 2018,
+      "title": "Genome-wide scan identifies role for AOX1 in prostate cancer survival",
+      "journal": "European urology",
+      "number": "74 (6), 710-719",
+      "pubid": "BzfGm06jWhQC"
+    },
+    {
+      "author": "M Spaliviero, NE Power, KS Murray, DD Sjoberg, NE Benfante, and others",
+      "year": 2018,
+      "title": "Intravenous mannitol versus placebo during partial nephrectomy in patients with normal kidney function: a double-blind, clinically-integrated, randomized trial",
+      "journal": "European urology",
+      "number": "73 (1), 53-59",
+      "pubid": "ODE9OILHJdcC"
+    },
+    {
+      "author": "E Kovac, EA Vertosick, DD Sjoberg, AJ Vickers, AJ Stephenson",
+      "year": 2018,
+      "title": "Effects of pathological upstaging or upgrading on metastasis and cancer‐specific mortality in men with clinical low‐risk prostate cancer",
+      "journal": "BJU international",
+      "number": "122 (6), 1003-1009",
+      "pubid": "prdVHNxh-e8C"
+    },
+    {
+      "author": "EK Cha, JP Sfakianos, R Sukhu, AM Yee, DD Sjoberg, BH Bochner",
+      "year": 2018,
+      "title": "Poor prognosis of bladder cancer patients with occult lymph node metastases treated with neoadjuvant chemotherapy",
+      "journal": "BJU international",
+      "number": "122 (4), 627-632",
+      "pubid": "jFemdcug13IC"
+    },
+    {
+      "author": "RG Alvim, F Audenet, EA Vertosick, DD Sjoberg, KA Touijer",
+      "year": 2018,
+      "title": "Performance prediction for surgical outcomes in partial nephrectomy using nephrometry scores: a comparison of Arterial Based Complexity (ABC), RENAL, and PADUA systems",
+      "journal": "European Urology Oncology",
+      "number": "1 (5), 428-434",
+      "pubid": "F2UWTTQJPOcC"
+    },
+    {
+      "author": "AD Mally, AL Tin, JK Lee, P Satasivam, EK Cha, SM Donat, HW Herr, DD Sjoberg, and others",
+      "year": 2018,
+      "title": "Clinical outcomes of patients with T1 nested variant of urothelial carcinoma compared to pure urothelial carcinoma of the bladder",
+      "journal": "Clinical genitourinary cancer",
+      "number": "16 (1), e23-e27",
+      "pubid": "mNrWkgRL2YcC"
+    },
+    {
+      "author": "T Takeda, AL Tin, RB Corradi, M Mamoor, NE Benfante, DD Sjoberg, and others",
+      "year": 2018,
+      "title": "Topography of prostate cancer recurrence after radiation therapy: a detailed mapping study of salvage radical prostatectomy specimens",
+      "journal": "European urology",
+      "number": "73 (4), 488-490",
+      "pubid": "3htObqc8RwsC"
+    },
+    {
+      "author": "M Rieken, LA Kluth, H Fajkovic, U Capitanio, A Briganti, LM Krabbe, DD Sjoberg, and others",
+      "year": 2018,
+      "title": "Predictors of cancer-specific survival after disease recurrence in patients with renal cell carcinoma: the effect of time to recurrence",
+      "journal": "Clinical genitourinary cancer",
+      "number": "16 (4), e903-e908",
+      "pubid": "O0nohqN1r9EC"
+    },
+    {
+      "author": "CM Dowling, M Assel, JE Musser, JJ Meeks, DD Sjoberg, G Bosl, and others",
+      "year": 2018,
+      "title": "Clinical outcome of retroperitoneal lymph node dissection after chemotherapy in patients with pure embryonal carcinoma in the orchiectomy specimen",
+      "journal": "Urology",
+      "number": "114, 133-138",
+      "pubid": "gKiMpY-AVTkC"
+    },
+    {
+      "author": "P Capogrosso, A Larcher, DD Sjoberg, EA Vertosick, F Cianflone, and others",
+      "year": 2018,
+      "title": "Risk based surveillance after surgical treatment of renal cell carcinoma",
+      "journal": "The Journal of urology",
+      "number": "200 (1), 61-67",
+      "pubid": "ZzlSgRqYykMC"
+    },
+    {
+      "author": "AJ Vickers, EA Vertosick, DD Sjoberg",
+      "year": 2018,
+      "title": "Value of a statistical model based on four kallikrein markers in blood, commercially available as 4Kscore, in all reasonable prostate biopsy subgroups",
+      "journal": "European urology",
+      "number": "74 (4), 535",
+      "pubid": "6bLC7aUMtPcC"
+    },
+    {
+      "author": "A Vickers, EA Vertosick, DD Sjoberg, F Hamdy, D Neal, A Bjartell, and others",
+      "year": 2018,
+      "title": "Value of intact prostate specific antigen and human kallikrein 2 in the 4 kallikrein predictive model: an individual patient data meta-analysis",
+      "journal": "The Journal of urology",
+      "number": "199 (6), 1470-1474",
+      "pubid": "Aul-kAQHnToC"
+    },
+    {
+      "author": "K Marzouk, A Tin, N Liu, DD Sjoberg, AA Hakimi, P Russo, J Coleman",
+      "year": 2018,
+      "title": "The natural history of large renal masses followed on observation",
+      "journal": "Urologic Oncology: Seminars and Original Investigations",
+      "number": "36 (8), 362. e17-362 …",
+      "pubid": "XUvXOeBm_78C"
+    },
+    {
+      "author": "F Audenet, EA Vertosick, SW Fine, DD Sjoberg, AJ Vickers, VE Reuter, and others",
+      "year": 2018,
+      "title": "Biopsy core features are poor predictors of adverse pathology in men with grade group 1 prostate cancer",
+      "journal": "The Journal of urology",
+      "number": "199 (4), 961-968",
+      "pubid": "yMeIxYmEMEAC"
+    },
+    {
+      "author": "L Marconi, R de Bruijn, E van Werkhoven, C Beisland, K Fife, DD Sjoberg, and others",
+      "year": 2018,
+      "title": "External validation of a predictive model of survival after cytoreductive nephrectomy for metastatic renal cell carcinoma",
+      "journal": "World journal of urology",
+      "number": "36 (12), 1973-1980",
+      "pubid": "D_tqNUsBuKoC"
+    },
+    {
+      "author": "KS Murray, EA Vertosick, M Spaliviero, JW Mashni Jr, DD Sjoberg, and others",
+      "year": 2018,
+      "title": "Importance of wide re‐resection in adult spermatic cord sarcomas: Report on oncologic outcomes at a single institution",
+      "journal": "Journal of surgical oncology",
+      "number": "117 (7), 1464-1468",
+      "pubid": "qwy9JoKyICEC"
+    },
+    {
+      "author": "JK Lee, DD Sjoberg, MI Miller, AJ Vickers, JP Mulhall, B Ehdaie",
+      "year": 2018,
+      "title": "Improved recovery of erectile function in younger men after radical prostatectomy: Does it justify immediate surgery in low-risk patients?",
+      "journal": "European urology",
+      "number": "73 (1), 33-37",
+      "pubid": "fFSKOagxvKUC"
+    },
+    {
+      "author": "A Bagrodia, R Sukhu, AG Winer, E Levy, M Vacchio, B Lee, EJ Pietzak, DD Sjoberg, and others",
+      "year": 2018,
+      "title": "Incidence and effect of thromboembolic events in radical cystectomy patients undergoing preoperative chemotherapy for muscle-invasive bladder cancer",
+      "journal": "Clinical genitourinary cancer",
+      "number": "16 (1), e113-e120",
+      "pubid": "bKqednn6t2AC"
+    },
+    {
+      "author": "K Lapen, L Benusis, S Pearson, M Coleton, QS Li, DD Sjoberg, J Konner, and others",
+      "year": 2018,
+      "title": "A feasibility study of restorative yoga versus vigorous yoga intervention for sedentary breast and ovarian cancer survivors",
+      "journal": "International Journal of Yoga Therapy",
+      "number": "28 (1), 79-85",
+      "pubid": "MAUkC_7iAq8C"
+    },
+    {
+      "author": "M Ghanaat, AG Winer, DD Sjoberg, BY Poon, M Kashan, AL Tin, and others",
+      "year": 2018,
+      "title": "Comparison of postradical cystectomy ileus rates using GIA-80 versus GIA-60 intestinal stapler device",
+      "journal": "Urology",
+      "number": "122, 121-126",
+      "pubid": "mWEH9CqjF64C"
+    },
+    {
+      "author": "EJ Pietzak, M Assel, MF Becerra, D Tennenbaum, DR Feldman, DD Sjoberg, and others",
+      "year": 2018,
+      "title": "Histologic and oncologic outcomes following liver mass resection with retroperitoneal lymph node dissection in patients with nonseminomatous germ cell tumor",
+      "journal": "Urology",
+      "number": "118, 114-118",
+      "pubid": "eAlLMO4JVmQC"
+    },
+    {
+      "author": "DP Nguyen, EA Vertosick, V Sharma, RB Corradi, A Vilaseca, T Takeda, DD Sjoberg, and others",
+      "year": 2018,
+      "title": "Does subclassification of pathologically organ confined (pT2) prostate cancer provide prognostic discrimination of outcomes after radical prostatectomy?",
+      "journal": "The Journal of urology",
+      "number": "199 (6), 1502-1509",
+      "pubid": "GFxP56DSvIMC"
+    },
+    {
+      "author": "AE Thong, BY Poon, JK Lee, E Vertosick, DD Sjoberg, AJ Vickers, and others",
+      "year": 2018,
+      "title": "Concordance between patient-reported and physician-reported sexual function after radical prostatectomy",
+      "journal": "Urologic Oncology: Seminars and Original Investigations",
+      "number": "36 (2), 80. e1-80. e6",
+      "pubid": "HeT0ZceujKMC"
+    },
+    {
+      "author": "M Assel, DD Sjoberg, JWF Catto, AJ Vickers",
+      "year": 2018,
+      "title": "Innovations in statistical review at European Urology",
+      "journal": "European urology",
+      "number": "75 (1), 1",
+      "pubid": "lgwcVrK6X84C"
+    },
+    {
+      "author": "Y Ito, K Udo, EA Vertosick, DD Sjoberg, AJ Vickers, HA Al-Ahmadie, and others",
+      "year": 2018,
+      "title": "Clinical utility of prostate and tumor volume-related parameters following radical prostatectomy for localized prostate cancer",
+      "journal": "The Journal of Urology",
+      "number": "",
+      "pubid": "jtOrAYjvdewC"
+    },
+    {
+      "author": "LW Dean, M Assel, DD Sjoberg, AJ Vickers, HA Al-Ahmadie, YB Chen, and others",
+      "year": 2018,
+      "title": "Clinical utility of total length Gleason pattern 4 on biopsy in men with grade group 2 prostate cancer",
+      "journal": "The Journal of Urology",
+      "number": "",
+      "pubid": "Wqn_fehR_TUC"
+    },
+    {
+      "author": "SW Fine, H Al-Ahmadie, E Vertosick, DD Sjoberg, A Vickers, YB Chen, and others",
+      "year": 2018,
+      "title": "Impact of Zone of Origin in Anterior-Dominant Prostatic Tumors: Long-Term Biochemical Recurrence-Free Survival in an Anatomically Well-Annotated Series",
+      "journal": "LABORATORY INVESTIGATION",
+      "number": "98, 340-340",
+      "pubid": "SAZ1SQo2q1kC"
+    },
+    {
+      "author": "A Svanberg",
+      "year": 2018,
+      "title": "Nurse-led clinic for liver cirrhotic patients: Effects on health-related quality of life",
+      "journal": "Journal of Hepatology",
+      "number": "",
+      "pubid": "0qX8s2k1IRwC"
+    },
+    {
+      "author": "M Assel, DD Sjoberg, AJ Vickers",
+      "year": 2017,
+      "title": "The Brier score does not evaluate the clinical utility of diagnostic tests or prediction models",
+      "journal": "Diagnostic and prognostic research",
+      "number": "1 (1), 19",
+      "pubid": "nZcligLrVowC"
+    },
+    {
+      "author": "K Mooney, DL Berry, M Whisenant, DD Sjoberg",
+      "year": 2017,
+      "title": "Improving cancer care through the patient experience: how to use patient-reported outcomes in clinical practice",
+      "journal": "American Society of Clinical Oncology Educational Book",
+      "number": "37, 695-704",
+      "pubid": "OTTXONDVkokC"
+    },
+    {
+      "author": "DW Lin, LF Newcomb, MD Brown, DD Sjoberg, Y Dong, JD Brooks, and others",
+      "year": 2017,
+      "title": "Evaluating the four kallikrein panel of the 4Kscore for prediction of high-grade prostate cancer in men in the canary prostate active surveillance study",
+      "journal": "European urology",
+      "number": "72 (3), 448-454",
+      "pubid": "ubry08Y2EpUC"
+    },
+    {
+      "author": "MJ O'Shaughnessy, SM McBride, HA Vargas, KA Touijer, MJ Morris, DD Sjoberg, and others",
+      "year": 2017,
+      "title": "A pilot study of a multimodal treatment paradigm to accelerate drug evaluations in early-stage metastatic prostate cancer",
+      "journal": "Urology",
+      "number": "102, 164-172",
+      "pubid": "foquWX3nUaYC"
+    },
+    {
+      "author": "R Chen, DD Sjoberg, Y Huang, L Xie, L Zhou, D He, AJ Vickers, Y Sun",
+      "year": 2017,
+      "title": "Prostate specific antigen and prostate cancer in Chinese men undergoing initial prostate biopsies compared with Western cohorts",
+      "journal": "The Journal of urology",
+      "number": "197 (1), 90-96",
+      "pubid": "-FonjvnnhkoC"
+    },
+    {
+      "author": "SM Zappala, Y Dong, V Linder, M Reeve, DD Sjoberg, V Mathur, and others",
+      "year": 2017,
+      "title": "The 4Kscore blood test accurately identifies men with aggressive prostate cancer prior to prostate biopsy with or without DRE information",
+      "journal": "International journal of clinical practice",
+      "number": "71 (6), e12943",
+      "pubid": "sNmaIFBj_lkC"
+    },
+    {
+      "author": "EH Kim, GL Andriole, ED Crawford, DD Sjoberg, M Assel, AJ Vickers, and others",
+      "year": 2017,
+      "title": "Detection of high grade prostate cancer among PLCO participants using a prespecified 4-kallikrein marker panel",
+      "journal": "The Journal of urology",
+      "number": "197 (4), 1041-1047",
+      "pubid": "PoWvk5oyLR8C"
+    },
+    {
+      "author": "BJ Manley, DM Tennenbaum, EA Vertosick, JJ Hsieh, DD Sjoberg, and others",
+      "year": 2017,
+      "title": "The difficulty in selecting patients for cytoreductive nephrectomy: an evaluation of previously described predictive models",
+      "journal": "Urologic Oncology: Seminars and Original Investigations",
+      "number": "35 (1), 35. e1-35. e5",
+      "pubid": "WZBGuue-350C"
+    },
+    {
+      "author": "A Vickers, EA Vertosick, DD Sjoberg, MJ Roobol, F Hamdy, D Neal, and others",
+      "year": 2017,
+      "title": "Properties of the 4-kallikrein panel outside the diagnostic gray zone: meta-analysis of patients with positive digital rectal examination or prostate specific antigen 10 ng/ml …",
+      "journal": "The Journal of urology",
+      "number": "197 (3 Part 1), 607-613",
+      "pubid": "S16KYo8Pm5AC"
+    },
+    {
+      "author": "A Vilaseca, DP Nguyen, EA Vertosick, RB Corradi, M Musquera, M Pérez, DD Sjoberg, and others",
+      "year": 2017,
+      "title": "Obstructive sleep apnea and Fuhrman grade in patients with clear cell renal cell carcinoma treated surgically",
+      "journal": "World journal of urology",
+      "number": "35 (1), 51-56",
+      "pubid": "hMsQuOkrut0C"
+    },
+    {
+      "author": "G Dalbagni, N Benfante, DD Sjoberg, BH Bochner, S Machele Donat, and others",
+      "year": 2017,
+      "title": "Single Arm Phase I/II Study of Everolimus and Intravesical Gemcitabine in Patients with Primary or Secondary Carcinoma In Situ of the Bladder who failed Bacillus …",
+      "journal": "Bladder Cancer",
+      "number": "3 (2), 113-119",
+      "pubid": "4hFrxpcac9AC"
+    },
+    {
+      "author": "AG Winer, EA Vertosick, M Ghanaat, RB Corradi, S Carlsson, DD Sjoberg, and others",
+      "year": 2017,
+      "title": "Prognostic value of lymph node yield during nephroureterectomy for upper tract urothelial carcinoma",
+      "journal": "Urologic Oncology: Seminars and Original Investigations",
+      "number": "35 (4), 151. e9-151. e15",
+      "pubid": "hCrLmN-GePgC"
+    },
+    {
+      "author": "A Polland, EA Vertosick, DD Sjoberg, GL Stearns, LS Leddy, and others",
+      "year": 2017,
+      "title": "Preoperative symptoms predict continence after post-radiation transurethral resection of prostate",
+      "journal": "Can J Urol",
+      "number": "24 (4), 8903-8909",
+      "pubid": "OR75R8vi5nAC"
+    },
+    {
+      "author": "RB Corradi, EA Vertosick, DP Nguyen, A Vilaseca, DD Sjoberg, and others",
+      "year": 2017,
+      "title": "Nephrometry scores and perioperative outcomes following robotic partial nephrectomy",
+      "journal": "International braz j urol",
+      "number": "43 (6), 1075-1083",
+      "pubid": "dBIO0h50nwkC"
+    },
+    {
+      "author": "S Punnen, B Nahar, NS Prakash, DD Sjoberg, SM Zappala, DJ Parekh",
+      "year": 2017,
+      "title": "The 4Kscore predicts the grade and stage of prostate cancer in the radical prostatectomy specimen: results from a multi-institutional prospective trial",
+      "journal": "European urology focus",
+      "number": "3 (1), 94-99",
+      "pubid": "evX43VCCuoAC"
+    },
+    {
+      "author": "DP Nguyen, M Kent, A Vilaseca, RB Corradi, N Fossati, DD Sjoberg, and others",
+      "year": 2017,
+      "title": "Updated postoperative nomogram incorporating the number of positive lymph nodes to predict disease recurrence following radical prostatectomy",
+      "journal": "Prostate Cancer and Prostatic Diseases",
+      "number": "20 (1), 105-109",
+      "pubid": "XoXfffV-tXoC"
+    },
+    {
+      "author": "LH Rosenberger, R Weber, DD Sjoberg, AJ Vickers, DA Mangino, and others",
+      "year": 2017,
+      "title": "Impact of self-reported data on the acquisition of multi-generational family history and lifestyle factors among women seen in a high-risk breast screening program: a focus on …",
+      "journal": "Breast cancer research and treatment",
+      "number": "162 (2), 275-282",
+      "pubid": "YohjEiUPhakC"
+    },
+    {
+      "author": "JI Epstein, MJ Zelefsky, DD Sjoberg, JB Nelson, L Egevad, and others",
+      "year": 2016,
+      "title": "A contemporary prostate cancer grading system: a validated alternative to the Gleason score",
+      "journal": "European urology",
+      "number": "69 (3), 428-435",
+      "pubid": "LjlpjdlvIbIC"
+    },
+    {
+      "author": "M Spaliviero, BY Poon, CA Karlo, GB Guglielmetti, PL Di Paolo, DD Sjoberg, and others",
+      "year": 2016,
+      "title": "An arterial based complexity (ABC) scoring system to assess the morbidity profile of partial nephrectomy",
+      "journal": "European urology",
+      "number": "69 (1), 72-79",
+      "pubid": "PR6Y55bgFSsC"
+    },
+    {
+      "author": "K Braun, DD Sjoberg, AJ Vickers, H Lilja, AS Bjartell",
+      "year": 2016,
+      "title": "A four-kallikrein panel predicts high-grade cancer on biopsy: independent validation in a community cohort",
+      "journal": "European urology",
+      "number": "69 (3), 505-511",
+      "pubid": "WA5NYHcadZ8C"
+    },
+    {
+      "author": "MDDP Nguyen, MPHEA Vertosick, MDRB Corradi, MDA Vilaseca, DD Sjoberg, and others",
+      "year": 2016,
+      "title": "Histological subtype of renal cell carcinoma significantly affects survival in the era of partial nephrectomy",
+      "journal": "Urologic Oncology: Seminars and original investigations",
+      "number": "34 (6), 259. e1-259. e8",
+      "pubid": "z_wVstp3MssC"
+    },
+    {
+      "author": "C Anderson, R Weber, D Patel, W Lowrance, A Mellis, M Cookson, DD Sjoberg, and others",
+      "year": 2016,
+      "title": "A 10-item checklist improves reporting of critical procedural elements during transurethral resection of bladder tumor",
+      "journal": "The Journal of urology",
+      "number": "196 (4), 1014-1020",
+      "pubid": "uWiczbcajpAC"
+    },
+    {
+      "author": "P Recabal, M Assel, DD Sjoberg, D Lee, VP Laudone, K Touijer, and others",
+      "year": 2016,
+      "title": "The efficacy of multiparametric magnetic resonance imaging and magnetic resonance imaging targeted biopsy in risk classification for patients with prostate cancer on active …",
+      "journal": "The Journal of urology",
+      "number": "196 (2), 374-381",
+      "pubid": "uJ-U7cs_P_0C"
+    },
+    {
+      "author": "M Imnadze, DD Sjoberg, AJ Vickers",
+      "year": 2016,
+      "title": "Adverse pathologic features at radical prostatectomy: effect of preoperative risk on oncologic outcomes",
+      "journal": "European urology",
+      "number": "69 (1), 143-148",
+      "pubid": "l7t_Zn2s7bgC"
+    },
+    {
+      "author": "DJ Lee, P Recabal, DD Sjoberg, A Thong, JK Lee, JA Eastham, and others",
+      "year": 2016,
+      "title": "Comparative effectiveness of targeted prostate biopsy using magnetic resonance imaging ultrasound fusion software and visual targeting: a prospective study",
+      "journal": "The Journal of urology",
+      "number": "196 (3), 697-702",
+      "pubid": "edDO8Oi4QzsC"
+    },
+    {
+      "author": "CD Jakubowski, EA Vertosick, BR Untch, DD Sjoberg, E Wei, FL Palmer, and others",
+      "year": 2016,
+      "title": "Complete metastasectomy for renal cell carcinoma: Comparison of five solid organ sites",
+      "journal": "Journal of surgical oncology",
+      "number": "114 (3), 375-379",
+      "pubid": "k8Z6L05lTy4C"
+    },
+    {
+      "author": "LV Selby, M Sovel, DD Sjoberg, M McSweeney, D Douglas, DR Jones, and others",
+      "year": 2016,
+      "title": "Preoperative chemoprophylaxis is safe in major oncology operations and effective at preventing venous thromboembolism",
+      "journal": "Journal of the American College of Surgeons",
+      "number": "222 (2), 129-137",
+      "pubid": "2KloaMYe4IUC"
+    },
+    {
+      "author": "A Sankin, AL Tin, R Mano, M Chevinsky, C Jakubowski, JP Sfakianos, DD Sjoberg, and others",
+      "year": 2016,
+      "title": "Impact of ureteroscopy before nephroureterectomy for upper tract urothelial carcinoma on oncologic outcomes",
+      "journal": "Urology",
+      "number": "94, 148-153",
+      "pubid": "wbdj-CoPYUoC"
+    },
+    {
+      "author": "MDR Mano, MPHEA Vertosick, MDAA Hakimi, MDIA Sternberg, DD Sjoberg, and others",
+      "year": 2016,
+      "title": "The effect of delaying nephrectomy on oncologic outcomes in patients with renal tumors greater than 4 cm",
+      "journal": "Urologic Oncology: Seminars and Original Investigations",
+      "number": "34 (5), 239. e1-239. e8",
+      "pubid": "35r97b3x0nAC"
+    },
+    {
+      "author": "N Fossati, NM Passoni, M Moschini, G Gandaglia, A Larcher, M Freschi, DD Sjoberg, and others",
+      "year": 2016,
+      "title": "Impact of stage migration and practice changes on high‐risk prostate cancer: results from patients treated with radical prostatectomy over the last two decades",
+      "journal": "BJU international",
+      "number": "117 (5), 740-747",
+      "pubid": "abG-DnoFyZgC"
+    },
+    {
+      "author": "A Rönnblom, T Holmström, H Tanghöj, U Karlbom, M Thörn, D Sjöberg",
+      "year": 2016,
+      "title": "Low colectomy rate five years after diagnosis of ulcerative colitis. Results from a prospective population-based cohort in Sweden (ICURE) diagnosed during 2005–2009",
+      "journal": "Scandinavian Journal of Gastroenterology",
+      "number": "51 (11), 1339-1344",
+      "pubid": "FiDNX6EVdGUC"
+    },
+    {
+      "author": "WM Bazzi, AL Tin, DD Sjoberg, M Bernstein, P Russo",
+      "year": 2016,
+      "title": "The prognostic utility of preoperative neutrophil-to-lymphocyte ratio in localized clear cell renal cell carcinoma",
+      "journal": "The Canadian journal of urology",
+      "number": "23 (1), 8151",
+      "pubid": "XD-gHx7UXLsC"
+    },
+    {
+      "author": "NW Liu, JD Wren, E Vertosick, JK Lee, NE Power, NE Benfante, SY Kimm, DD Sjoberg, and others",
+      "year": 2016,
+      "title": "The prognostic impact of a positive vascular margin on pT3 clear cell renal cell carcinoma",
+      "journal": "The Journal of urology",
+      "number": "195 (2), 264-269",
+      "pubid": "7T2F9Uy0os0C"
+    },
+    {
+      "author": "DP Nguyen, A Vilaseca, EA Vertosick, RB Corradi, KA Touijer, DD Sjoberg, and others",
+      "year": 2016,
+      "title": "Histologic subtype impacts cancer-specific survival in patients with sarcomatoid-variant renal cell carcinoma treated surgically",
+      "journal": "World journal of urology",
+      "number": "34 (4), 539-544",
+      "pubid": "N5tVd3kTz84C"
+    },
+    {
+      "author": "P Recabal, M Assel, JE Musser, RJ Caras, DD Sjoberg, JA Coleman, and others",
+      "year": 2016,
+      "title": "Erectile function recovery after radical prostatectomy in men with high risk features",
+      "journal": "The Journal of urology",
+      "number": "196 (2), 507-513",
+      "pubid": "VLnqNzywnoUC"
+    },
+    {
+      "author": "CB Anderson, AL Tin, DD Sjoberg, JP Mulhall, J Sandhu, K Touijer, and others",
+      "year": 2016,
+      "title": "Association between number of prostate biopsies and patient‐reported functional outcomes after radical prostatectomy: implications for active surveillance protocols",
+      "journal": "BJU international",
+      "number": "117 (6B), E46-E51",
+      "pubid": "eJXPG6dFmWUC"
+    },
+    {
+      "author": "B Ehdaie, BY Poon, DD Sjoberg, P Recabal, V Laudone, K Touijer, and others",
+      "year": 2016,
+      "title": "Variation in serum prostate‐specific antigen levels in men with prostate cancer managed with active surveillance",
+      "journal": "BJU international",
+      "number": "118 (4), 535-540",
+      "pubid": "vRqMK49ujn8C"
+    },
+    {
+      "author": "G Gugliemetti, R Sukhu, MAC Baenas, J Meeks, DD Sjoberg, JA Eastham, and others",
+      "year": 2016,
+      "title": "Number of metastatic lymph nodes as determinant of outcome after salvage radical prostatectomy for radiation-recurrent prostate cancer",
+      "journal": "Actas Urológicas Españolas (English Edition)",
+      "number": "40 (7), 434-439",
+      "pubid": "gsN89kCJA0AC"
+    },
+    {
+      "author": "MA Feuerstein, JE Musser, M Kent, M Chevinsky, EK Cha, S Kimm, DD Sjoberg, and others",
+      "year": 2016,
+      "title": "Low yield of surveillance imaging after surgery for T1 kidney cancer",
+      "journal": "World journal of urology",
+      "number": "34 (7), 949-953",
+      "pubid": "kzcrU_BdoSEC"
+    },
+    {
+      "author": "G Gugliemetti, R Sukhu, MAC Baenas, J Meeks, DD Sjoberg, JA Eastham, and others",
+      "year": 2016,
+      "title": "Número de ganglios linfáticos metastásicos como determinante de los resultados de la prostatectomía radical de rescate en el cáncer de próstata de recidivante tras radioterapia",
+      "journal": "Actas Urológicas Españolas",
+      "number": "40 (7), 434-439",
+      "pubid": "wKETBy42zhYC"
+    },
+    {
+      "author": "A Vilaseca Cabo, D Nguyen, A Tin, R Corradi, A Martin-Malburet, DD Sjoberg, and others",
+      "year": 2016,
+      "title": "433 Long-term oncological outcomes of salvage radical prostatectomy for radio-recurrent/persistent prostate cancer after radiation therapy",
+      "journal": "EUROPEAN UROLOGY-SUPPLEMENTS-",
+      "number": "15 (3), e433-e433",
+      "pubid": "yxmsSjX2EkcC"
+    },
+    {
+      "author": "D Lin, M Brown, L Newcomb, DD Sjoberg, J Brooks, P Carroll, A Dash, and others",
+      "year": 2016,
+      "title": "PD08-02 evaluating the four kallikrein panel of the 4kscore for prediction of high-grade prostate cancer in men in the canary prostate active surveillance study (PASS)",
+      "journal": "The Journal of Urology",
+      "number": "195 (4S), e229-e229",
+      "pubid": "jSAVyFp_754C"
+    },
+    {
+      "author": "E Watson, B Shinkins, E Frith, D Neal, F Hamdy, F Walter, D Weller, DD Sjoberg, and others",
+      "year": 2016,
+      "title": "Focus on Urological Oncology",
+      "journal": "BJU International",
+      "number": "117 (6  Part B)",
+      "pubid": "BFa5h04uPMwC"
+    },
+    {
+      "author": "D Siemens, LH Klotz, A Heidenreich, S Chowdhury, A Villers, B Baron, DD Sjoberg, and others",
+      "year": 2016,
+      "title": "Podium Session 1: Prostate Cancer June 26, 2016 1050-1150",
+      "journal": "CUAJ",
+      "number": "10, 5-6Suppl1",
+      "pubid": "8VtEwCQfWZkC"
+    },
+    {
+      "author": "NW Liu, JD Wren, E Vertosick, JK Lee, NE Power, NE Benfante, SY Kimm, DD Sjoberg, and others",
+      "year": 2016,
+      "title": "Re: The Prognostic Impact of a Positive Vascular Margin on pT3 Clear Cell Renal Cell Carcinoma",
+      "journal": "J Urol",
+      "number": "195, 568e573",
+      "pubid": "QAOzB4mb83kC"
+    },
+    {
+      "author": "S Punnen, B Nahar, N Pavan, DD Sjoberg, S Zappala, D Parekh",
+      "year": 2016,
+      "title": "381 The 4Kscore predicts the grade and stage of prostate cancer in the radical prostatectomy specimen: Results from a multi-institutional prospective trial",
+      "journal": "European urology supplements: official journal of the European Association …",
+      "number": "",
+      "pubid": "Hck25ST_3aIC"
+    },
+    {
+      "author": "BH Bochner, G Dalbagni, DD Sjoberg, J Silberstein, GEK Paz, SM Donat, and others",
+      "year": 2015,
+      "title": "Comparing open radical cystectomy and robot-assisted laparoscopic radical cystectomy: a randomized clinical trial",
+      "journal": "European urology",
+      "number": "67 (6), 1042-1050",
+      "pubid": "pqnbT2bcN3wC"
+    },
+    {
+      "author": "DJ Parekh, S Punnen, DD Sjoberg, SW Asroff, JL Bailen, JS Cochran, and others",
+      "year": 2015,
+      "title": "A multi-institutional prospective trial in the USA confirms that the 4Kscore accurately identifies men with high-grade prostate cancer",
+      "journal": "European urology",
+      "number": "68 (3), 464-470",
+      "pubid": "M05iB0D1s5AC"
+    },
+    {
+      "author": "RJ Bryant, DD Sjoberg, AJ Vickers, MC Robinson, R Kumar, L Marsden, and others",
+      "year": 2015,
+      "title": "Predicting high-grade cancer at ten-core prostate biopsy using four kallikrein markers measured in blood in the ProtecT study",
+      "journal": "Journal of the National Cancer Institute",
+      "number": "107 (7), djv095",
+      "pubid": "K3LRdlH-MEoC"
+    },
+    {
+      "author": "P Stattin, AJ Vickers, DD Sjoberg, R Johansson, T Granfors, M Johansson, and others",
+      "year": 2015,
+      "title": "Improving the specificity of screening for lethal prostate cancer using prostate-specific antigen and a panel of kallikrein markers: a nested case–control study",
+      "journal": "European urology",
+      "number": "68 (2), 207-213",
+      "pubid": "pyW8ca7W8N0C"
+    },
+    {
+      "author": "AJ Vickers, DD Sjoberg",
+      "year": 2015,
+      "title": "Guidelines for reporting of statistics in European Urology",
+      "journal": "Eur Urol",
+      "number": "67 (2), 181-187",
+      "pubid": "rO6llkc54NcC"
+    },
+    {
+      "author": "MDLV Selby, MPHEA Vertosick, MSDD Sjoberg, MDMA Schattner, and others",
+      "year": 2015,
+      "title": "Morbidity after total gastrectomy: analysis of 238 patients",
+      "journal": "Journal of the American College of Surgeons",
+      "number": "220 (5), 863-871. e2",
+      "pubid": "bFI3QPDXJZMC"
+    },
+    {
+      "author": "JK Lee, M Assel, AE Thong, DD Sjoberg, JP Mulhall, J Sandhu, and others",
+      "year": 2015,
+      "title": "Unexpected long-term improvements in urinary and erectile function in a large cohort of men with self-reported outcomes following radical prostatectomy",
+      "journal": "European urology",
+      "number": "68 (5), 899-905",
+      "pubid": "1yQoGdGgb4wC"
+    },
+    {
+      "author": "M Spaliviero, BY Poon, O Aras, PL Di Paolo, GB Guglielmetti, DD Sjoberg, and others",
+      "year": 2015,
+      "title": "Interobserver variability of RENAL, PADUA, and centrality index nephrometry score systems",
+      "journal": "World journal of urology",
+      "number": "33 (6), 853-858",
+      "pubid": "ns9cj8rnVeAC"
+    },
+    {
+      "author": "KM Wesa, NH Segal, AM Cronin, DD Sjoberg, GN Jacobs, MI Coleton, and others",
+      "year": 2015,
+      "title": "Serum 25-hydroxy vitamin D and survival in advanced colorectal cancer: a retrospective analysis",
+      "journal": "Nutrition and cancer",
+      "number": "67 (3), 424-430",
+      "pubid": "yD5IFk8b50cC"
+    },
+    {
+      "author": "M Chevinsky, M Imnadze, A Sankin, A Winer, R Mano, C Jakubowski, DD Sjoberg, and others",
+      "year": 2015,
+      "title": "Pathological stage T3a significantly increases disease recurrence across all tumor sizes in renal cell carcinoma",
+      "journal": "The Journal of urology",
+      "number": "194 (2), 310-315",
+      "pubid": "AXPGKjj_ei8C"
+    },
+    {
+      "author": "WM Bazzi, DD Sjoberg, MA Feuerstein, A Maschino, S Verma, and others",
+      "year": 2015,
+      "title": "Long-term survival rates after resection for locally advanced kidney cancer: Memorial Sloan Kettering Cancer Center 1989 to 2012 experience",
+      "journal": "The Journal of urology",
+      "number": "193 (6), 1911-1917",
+      "pubid": "u_35RYKgDlwC"
+    },
+    {
+      "author": "JL Silberstein, SA Poon, DD Sjoberg, AC Maschino, AJ Vickers, A Bernie, and others",
+      "year": 2015,
+      "title": "Long‐term oncological outcomes of a phase II trial of neoadjuvant chemohormonal therapy followed by radical prostatectomy for patients with clinically localised, high‐risk …",
+      "journal": "BJU international",
+      "number": "116 (1), 50-56",
+      "pubid": "UeHWp8X0CEIC"
+    },
+    {
+      "author": "R Mano, M Kent, Y Larish, AG Winer, MS Chevinsky, AA Hakimi, DD Sjoberg, and others",
+      "year": 2015,
+      "title": "Partial and radical nephrectomy for unilateral synchronous multifocal renal cortical tumors",
+      "journal": "Urology",
+      "number": "85 (6), 1404-1410",
+      "pubid": "738O_yMBCRsC"
+    },
+    {
+      "author": "CB Anderson, IA Sternberg, G Karen-Paz, PH Kim, DD Sjoberg, HA Vargas, and others",
+      "year": 2015,
+      "title": "Age is associated with upgrading at confirmatory biopsy among men with prostate cancer treated with active surveillance",
+      "journal": "The Journal of Urology",
+      "number": "194 (6), 1607-1611",
+      "pubid": "9vf0nzSNQJEC"
+    },
+    {
+      "author": "R Mano, E Vertosick, AI Sankin, MS Chevinsky, Y Larish, CD Jakubowski, DD Sjoberg, and others",
+      "year": 2015,
+      "title": "Subcentimeter pulmonary nodules are not associated with disease progression in patients with renal cell carcinoma",
+      "journal": "The Journal of urology",
+      "number": "193 (3), 776-782",
+      "pubid": "lSLTfruPkqcC"
+    },
+    {
+      "author": "TP Ghoneim, DD Sjoberg, W Lowrance, SF Shariat, C Savage, and others",
+      "year": 2015,
+      "title": "Partial nephrectomy for renal tumors in solitary kidneys: postoperative renal function dynamics",
+      "journal": "World journal of urology",
+      "number": "33 (12), 2023-2029",
+      "pubid": "HE397vMXCloC"
+    },
+    {
+      "author": "A Rönnblom, T Holmström, H Tanghöj, F Rorsman, D Sjöberg",
+      "year": 2015,
+      "title": "Appearance of hepatobiliary diseases in a population‐based cohort with inflammatory bowel diseases (I nflammatory B owel D isease C ohort of the U ppsala R egion)",
+      "journal": "Journal of Gastroenterology and Hepatology",
+      "number": "30 (8), 1288-1292",
+      "pubid": "bFuYayV9R1gC"
+    },
+    {
+      "author": "WM Bazzi, DD Sjoberg, AAC Grasso, M Bernstein, R Parra, JA Coleman",
+      "year": 2015,
+      "title": "Predicting length of stay after robotic partial nephrectomy",
+      "journal": "International urology and nephrology",
+      "number": "47 (8), 1321-1325",
+      "pubid": "WqliGbK-hY8C"
+    },
+    {
+      "author": "MDLV Selby, MSDD Sjoberg, MAD Cassella, MDMR Weiser, and others",
+      "year": 2015,
+      "title": "Comparing surgical infections in National Surgical Quality Improvement Project and an institutional database",
+      "journal": "Journal of Surgical Research",
+      "number": "196 (2), 416-420",
+      "pubid": "b0M2c_1WBrUC"
+    },
+    {
+      "author": "T Gondo, BY Poon, K Matsumoto, M Bernstein, DD Sjoberg, JA Eastham",
+      "year": 2015,
+      "title": "Clinical role of pathological downgrading after radical prostatectomy in patients with biopsy confirmed G leason score 3+ 4 prostate cancer",
+      "journal": "BJU international",
+      "number": "115 (1), 81-86",
+      "pubid": "L8Ckcad2t8MC"
+    },
+    {
+      "author": "WM Bazzi, LY Chen, BH Cordon, J Mashni, DD Sjoberg, M Bernstein, and others",
+      "year": 2015,
+      "title": "Non-neoplastic parenchymal changes in kidney cancer and post-partial nephrectomy recovery of renal function",
+      "journal": "International urology and nephrology",
+      "number": "47 (9), 1499-1502",
+      "pubid": "ZuybSZzF8UAC"
+    },
+    {
+      "author": "N Fossati, A Larcher, GM Gadda, DD Sjoberg, FA Mistretta, P Dell’Oglio, and others",
+      "year": 2015,
+      "title": "Minimally invasive partial nephrectomy versus laparoscopic cryoablation for patients newly diagnosed with a single small renal mass",
+      "journal": "European Urology Focus",
+      "number": "1 (1), 66-72",
+      "pubid": "Mojj43d5GZwC"
+    },
+    {
+      "author": "N Fossati, DD Sjoberg, U Capitanio, G Gandaglia, A Larcher, A Nini, and others",
+      "year": 2015,
+      "title": "Extended pelvic lymph node dissection in patients with prostate cancer previously treated with surgery for lower urinary tract symptoms",
+      "journal": "BJU international",
+      "number": "116 (3), 366-372",
+      "pubid": "RGFaLdJalmkC"
+    },
+    {
+      "author": "JE Musser, MJ Assel, JJ Meeks, DD Sjoberg, AJ Vickers, JA Coleman, and others",
+      "year": 2015,
+      "title": "Ambulatory extended recovery: safely transitioning to overnight observation for minimally invasive prostatectomy",
+      "journal": "Urology Practice",
+      "number": "2 (3), 121-125",
+      "pubid": "_xSYboBqXhAC"
+    },
+    {
+      "author": "C Eriksson, S Almer, JA Björk, M Eberhardson, A Eriksson, O Grip, DD Sjoberg, and others",
+      "year": 2015,
+      "title": "Tu1368 Vedolizumab in Inflammatory Bowel Disease, the First Experience From the Swedish IBD Registry (SWIBREG)",
+      "journal": "Gastroenterology",
+      "number": "148 (4), S-871",
+      "pubid": "xm0LlTxljI0C"
+    },
+    {
+      "author": "M Cesarini, G Collins, A Ronnblom, A Santos, DD Sjoberg, M Parkes, and others",
+      "year": 2015,
+      "title": "Predicting the risk of acute severe colitis (ASC) at diagnosis of Ulcerative Colitis (UC): external validation",
+      "journal": "Journal of Crohn's and Colitis",
+      "number": "9 (suppl 1)",
+      "pubid": "olpn-zPbct0C"
+    },
+    {
+      "author": "AJ Vickers, DD Sjoberg",
+      "year": 2015,
+      "title": "Decision analysis of dutasteride use for patients with negative prostate biopsy",
+      "journal": "Urology",
+      "number": "85 (2), 337-342",
+      "pubid": "zA6iFVUQeVQC"
+    },
+    {
+      "author": "S Punnen, S Zappala, J Palou, DD Sjoberg, V Mathur, R Roberts, V Vincent, and others",
+      "year": 2015,
+      "title": "433 Among men with low-grade prostate cancer on prostate biopsy, the 4Kscore predicts the presence of more aggressive prostate cancer",
+      "journal": "European urology supplements: official journal of the European Association …",
+      "number": "",
+      "pubid": "UmS_249rOGwC"
+    },
+    {
+      "author": "A Bondarik, D Sjöberg",
+      "year": 2015,
+      "title": "Implementation of UC-EBG structure for 60 GHz gridded parasitic patch stacked microstrip antenna",
+      "journal": "",
+      "number": "2015 9th European Conference on Antennas and Propagation (EuCAP), 1-5",
+      "pubid": "dQ2og3OwTAUC"
+    },
+    {
+      "author": "A Vilaseca Cabo, EA Vertosick, DP Nguyen, RB Corradi, M Musquera, DD Sjoberg, and others",
+      "year": 2015,
+      "title": "MP50-18 obstructive sleep apnea and high Fuhrman grade in patients with clear cell renal cell carcinoma treated with nephrectomy",
+      "journal": "The Journal of Urology",
+      "number": "193 (4S), e618-e618",
+      "pubid": "AXkvAH5U_nMC"
+    },
+    {
+      "author": "RJ Bryant, DD Sjoberg, AJ Vickers, MC Robinson, R Kumar, L Marsden, and others",
+      "year": 2015,
+      "title": "Re: Predicting High-Grade Cancer at Ten-Core Prostate Biopsy Using Four Kallikrein Markers Measured in Blood in the ProtecT Study",
+      "journal": "Journal of Urological Surgery",
+      "number": "2 (4), 200",
+      "pubid": "EcS_2O1c4Q0C"
+    },
+    {
+      "author": "JL Silberstein, SA Poon, DD Sjoberg",
+      "year": 2015,
+      "title": "Neoadjuvante Chemohormontherapie vor radikaler Prostatektomie?",
+      "journal": "Urologie Scan",
+      "number": "2 (04), 251-251",
+      "pubid": "Wq2b2clWBLsC"
+    },
+    {
+      "author": "BH Bochner, G Dalbagni, DD Sjoberg",
+      "year": 2015,
+      "title": "Offen chirurgische versus roboterassistierte laparoskopische radikale Zystektomie",
+      "journal": "Urologie Scan",
+      "number": "2 (04), 247-247",
+      "pubid": "0CzhzZyukY4C"
+    },
+    {
+      "author": "D Sjöberg, S Nordebo",
+      "year": 2015,
+      "title": "Convex optimization for approximations of positive real functions",
+      "journal": "Progress in Electromagnetics Research Symposium (PIERS), Prague, Czech …",
+      "number": "",
+      "pubid": "e-nnqdki048C"
+    },
+    {
+      "author": "EK Bancroft, EC Page, E Castro, H Lilja, A Vickers, DD Sjoberg, M Assel, and others",
+      "year": 2014,
+      "title": "Targeted prostate cancer screening in BRCA1 and BRCA2 mutation carriers: results from the initial screening round of the IMPACT study",
+      "journal": "European urology",
+      "number": "66 (3), 489-499",
+      "pubid": "5nxA0vEk-isC"
+    },
+    {
+      "author": "KA Touijer, CR Mazzola, DD Sjoberg, PT Scardino, JA Eastham",
+      "year": 2014,
+      "title": "Long-term outcomes of patients with lymph node metastasis treated with radical prostatectomy without adjuvant androgen-deprivation therapy",
+      "journal": "European urology",
+      "number": "65 (1), 20-25",
+      "pubid": "Se3iqnhoufwC"
+    },
+    {
+      "author": "S Carlsson, M Assel, DD Sjoberg, D Ulmert, J Hugosson, H Lilja, A Vickers",
+      "year": 2014,
+      "title": "Influence of blood prostate specific antigen levels at age 60 on benefits and harms of prostate cancer screening: population based cohort study",
+      "journal": "Bmj",
+      "number": "348",
+      "pubid": "8k81kl-MbHgC"
+    },
+    {
+      "author": "AJ Vickers, DD Sjoberg, D Ulmert, E Vertosick, MJ Roobol, I Thompson, and others",
+      "year": 2014,
+      "title": "Empirical estimates of prostate cancer overdiagnosis by age and prostate-specific antigen",
+      "journal": "BMC medicine",
+      "number": "12 (1), 26",
+      "pubid": "kNdYIx-mwKoC"
+    },
+    {
+      "author": "M Spaliviero, G Dalbagni, BH Bochner, BY Poon, H Huang, DD Sjoberg, and others",
+      "year": 2014,
+      "title": "Clinical outcome of patients with T1 micropapillary urothelial carcinoma of the bladder",
+      "journal": "The Journal of urology",
+      "number": "192 (3), 702-707",
+      "pubid": "4DMP91E08xMC"
+    },
+    {
+      "author": "JE Musser, M Assel, JW Mashni, DD Sjoberg, P Russo",
+      "year": 2014,
+      "title": "Adult prostate sarcoma: the Memorial Sloan Kettering experience",
+      "journal": "Urology",
+      "number": "84 (3), 624-628",
+      "pubid": "O3NaXMp0MMsC"
+    },
+    {
+      "author": "K Braun, Y Ahallal, DD Sjoberg, T Ghoneim, M Dominguez Esteban, and others",
+      "year": 2014,
+      "title": "Effect of repeated prostate biopsies on erectile function in men on active surveillance for prostate cancer",
+      "journal": "The Journal of urology",
+      "number": "191 (3), 744-749",
+      "pubid": "KlAtU1dfN6UC"
+    },
+    {
+      "author": "M Matignon, R Ding, DM Dadhania, FB Mueller, C Hartono, DD Sjoberg, and others",
+      "year": 2014,
+      "title": "Urinary cell mRNA profiles and differential diagnosis of acute kidney graft dysfunction",
+      "journal": "Journal of the American Society of Nephrology: JASN",
+      "number": "25 (7), 1586",
+      "pubid": "ldfaerwXgEUC"
+    },
+    {
+      "author": "BH Bochner, DD Sjoberg, VP Laudone",
+      "year": 2014,
+      "title": "Memorial sloan kettering cancer center bladder cancer surgical trials group. A randomized trial of robot-assisted laparoscopic radical cystectomy",
+      "journal": "N Engl J Med",
+      "number": "371 (4), 389-90",
+      "pubid": "JhbybO29vGQC"
+    },
+    {
+      "author": "T Tarin, A Feifer, S Kimm, L Chen, DD Sjoberg, J Coleman, P Russo",
+      "year": 2014,
+      "title": "Impact of a common clinical pathway on length of hospital stay in patients undergoing open and minimally invasive kidney surgery",
+      "journal": "The Journal of urology",
+      "number": "191 (5), 1225-1230",
+      "pubid": "qUcmZB5y_30C"
+    },
+    {
+      "author": "PH Kim, R Sukhu, BH Cordon, JP Sfakianos, DD Sjoberg, AA Hakimi, and others",
+      "year": 2014,
+      "title": "Reflex fluorescence in situ hybridization assay for suspicious urinary cytology in patients with bladder cancer with negative surveillance cystoscopy",
+      "journal": "BJU international",
+      "number": "114 (3), 354-359",
+      "pubid": "W7OEmFMy1HYC"
+    },
+    {
+      "author": "SK Hong, BY Poon, DD Sjoberg, PT Scardino, JA Eastham",
+      "year": 2014,
+      "title": "Prostate size and adverse pathologic features in men undergoing radical prostatectomy",
+      "journal": "Urology",
+      "number": "84 (1), 153-157",
+      "pubid": "JV2RwH3_ST0C"
+    },
+    {
+      "author": "S Carlsson, A Berglund, DD Sjoberg, A Khatami, J Stranne, S Bergdahl, and others",
+      "year": 2014,
+      "title": "Effects of surgeon variability on oncologic and functional outcomes in a population-based setting",
+      "journal": "BMC urology",
+      "number": "14 (1), 25",
+      "pubid": "aqlVkmm33-oC"
+    },
+    {
+      "author": "JE Musser, M Assel, GB Guglielmetti, P Pathak, JL Silberstein, DD Sjoberg, and others",
+      "year": 2014,
+      "title": "Impact of routine use of surgical drains on incidence of complications with robot-assisted radical prostatectomy",
+      "journal": "Journal of endourology",
+      "number": "28 (11), 1333-1337",
+      "pubid": "dhFuZR0502QC"
+    },
+    {
+      "author": "A Bondarik, D Sjöberg",
+      "year": 2014,
+      "title": "Gridded parasitic patch stacked microstrip antenna with beam shift capability for 60 GHz band",
+      "journal": "[Publisher information missing]",
+      "number": "",
+      "pubid": "vefPE_iVbj4C"
+    },
+    {
+      "author": "KA Moses, LY Chen, DD Sjoberg, M Bernstein, KA Touijer",
+      "year": 2014,
+      "title": "Black and White men younger than 50 years of age demonstrate similar outcomes after radical prostatectomy",
+      "journal": "BMC urology",
+      "number": "14 (1), 98",
+      "pubid": "g5m5HwL7SMYC"
+    },
+    {
+      "author": "SK Hong, E Vertosick, DD Sjoberg, PT Scardino, JA Eastham",
+      "year": 2014,
+      "title": "Insignificant disease among men with intermediate-risk prostate cancer",
+      "journal": "World journal of urology",
+      "number": "32 (6), 1417-1421",
+      "pubid": "70eg2SAEIzsC"
+    },
+    {
+      "author": "M Rieken, RS Djajadiningrat, LA Kluth, RL Favaretto, E Xylinas, DD Sjoberg, and others",
+      "year": 2014,
+      "title": "Predictors of cancer-specific mortality after disease recurrence in patients with squamous cell carcinoma of the penis",
+      "journal": "European urology",
+      "number": "66 (5), 811-814",
+      "pubid": "2osOgNQ5qMEC"
+    },
+    {
+      "author": "B Ehdaie, DD Sjoberg, PH Dalecki, PT Scardino, JA Eastham, D Amar",
+      "year": 2014,
+      "title": "Association of anesthesia technique for radical prostatectomy with biochemical recurrence: a retrospective cohort study",
+      "journal": "Canadian Journal of Anesthesia/Journal canadien d'anesthésie",
+      "number": "61 (12), 1068-1074",
+      "pubid": "GnPB-g6toBAC"
+    },
+    {
+      "author": "B Ehdaie, DD Sjoberg, PH Dalecki, PT Scardino, JA Eastham, D Amar",
+      "year": 2014,
+      "title": "Association entre techniques anesthésiques pour la prostatectomie radicale et récidive biochimique: une étude rétrospective de cohorte",
+      "journal": "Canadian Journal of Anesthesia/Journal canadien d'anesthésie",
+      "number": "61, 1068-1074",
+      "pubid": "sJK75vZXtG0C"
+    },
+    {
+      "author": "M Assel",
+      "year": 2014,
+      "title": "L’effet du dépistage du cancer de la prostate, dépend-il du taux du PSA à l’âge de 60 ans?",
+      "journal": "Minerva",
+      "number": "13 (10), 123-124",
+      "pubid": "6yz0xqPARnAC"
+    },
+    {
+      "author": "SW Fine, J Chang, JB Poon, DD Sjoberg, HA Al-Ahmadie, YB Chen, and others",
+      "year": 2014,
+      "title": "Gleason Score 7 with Tertiary Pattern 5: A Contemporary Analysis",
+      "journal": "LABORATORY INVESTIGATION",
+      "number": "94, 227A-228A",
+      "pubid": "sA9dB-pw3HoC"
+    },
+    {
+      "author": "AJ Vickers, D Ulmert, DD Sjoberg, CJ Bennette, T Björk, A Gerdtsson, and others",
+      "year": 2013,
+      "title": "Strategy for detection of prostate cancer based on relation between prostate specific antigen at age 40-55 and long term risk of metastasis: case-control study",
+      "journal": "Bmj",
+      "number": "346",
+      "pubid": "eQOLeE2rZwMC"
+    },
+    {
+      "author": "D Sjöberg, T Holmström, M Larsson, AL Nielsen, L Holmquist, A Ekbom, DD Sjoberg, and others",
+      "year": 2013,
+      "title": "Incidence and natural history of ulcerative colitis in the Uppsala Region of Sweden 2005–2009—results from the IBD Cohort of the Uppsala Region (ICURE)",
+      "journal": "Journal of Crohn's and Colitis",
+      "number": "7 (9), e351-e357",
+      "pubid": "YGhAHpnIhDoC"
+    },
+    {
+      "author": "BR Cassileth, KJ Van Zee, KS Yeung, MI Coleton, S Cohen, YH Chan, DD Sjoberg, and others",
+      "year": 2013,
+      "title": "Acupuncture in the treatment of upper‐limb lymphedema: results of a pilot study",
+      "journal": "Cancer",
+      "number": "119 (13), 2455-2461",
+      "pubid": "ufrVoPGSRksC"
+    },
+    {
+      "author": "G Deng, Y Chan, DD Sjoberg, A Vickers, KS Yeung, M Kris, D Straus, and others",
+      "year": 2013,
+      "title": "Acupuncture for the treatment of post-chemotherapy chronic fatigue: a randomized, blinded, sham-controlled trial",
+      "journal": "Supportive Care in Cancer",
+      "number": "21 (6), 1735-1741",
+      "pubid": "0EnyYjriUFMC"
+    },
+    {
+      "author": "M Rink, DJ Lee, M Kent, E Xylinas, HM Fritsche, M Babjuk, A Brisuda, DD Sjoberg, and others",
+      "year": 2013,
+      "title": "Predictors of cancer‐specific mortality after disease recurrence following radical cystectomy",
+      "journal": "BJU international",
+      "number": "111 (3b), E30-E36",
+      "pubid": "UebtZRa9Y70C"
+    },
+    {
+      "author": "A Christensson, C Savage, DD Sjoberg, AM Cronin, M Frank O'Brien, and others",
+      "year": 2013,
+      "title": "Association of cancer with moderately impaired renal function at baseline in a large, representative, population‐based cohort followed for up to 30 years",
+      "journal": "International Journal of Cancer",
+      "number": "133 (6), 1452-1458",
+      "pubid": "3fE2CSJIrl8C"
+    },
+    {
+      "author": "V Margulis, SF Shariat, Y Rapoport, M Rink, DD Sjoberg, NM Tannir, and others",
+      "year": 2013,
+      "title": "Development of accurate models for individualized prediction of survival after cytoreductive nephrectomy for metastatic renal cell carcinoma",
+      "journal": "European urology",
+      "number": "63 (5), 947-952",
+      "pubid": "LkGwnXOMwfcC"
+    },
+    {
+      "author": "SV Carlsson, LJ Tafe, DC Chade, DD Sjoberg, N Passoni, SF Shariat, and others",
+      "year": 2013,
+      "title": "Pathological features of lymph node metastasis for predicting biochemical recurrence after radical prostatectomy for prostate cancer",
+      "journal": "The Journal of urology",
+      "number": "189 (4), 1314-1319",
+      "pubid": "hqOjcs7Dif8C"
+    },
+    {
+      "author": "JA Forsberg, DD Sjoberg, QR Chen, A Vickers, JH Healey",
+      "year": 2013,
+      "title": "Treating metastatic disease: which survival model is best suited for the clinic?",
+      "journal": "Clinical Orthopaedics and Related Research®",
+      "number": "471 (3), 843-850",
+      "pubid": "9ZlFYXVOiuMC"
+    },
+    {
+      "author": "G Deng, WD Wong, J Guillem, Y Chan, T Affuso, KS Yeung, M Coleton, DD Sjoberg, and others",
+      "year": 2013,
+      "title": "A phase II, randomized, controlled trial of acupuncture for reduction of postcolectomy ileus",
+      "journal": "Annals of surgical oncology",
+      "number": "20 (4), 1164-1169",
+      "pubid": "Zph67rFs4hoC"
+    },
+    {
+      "author": "AA Hakimi, L Chen, PH Kim, DD Sjoberg, L Glickman, MR Walker, P Russo",
+      "year": 2013,
+      "title": "The impact of metformin use on recurrence and cancer-specific survival in clinically localized high-risk renal cell carcinoma",
+      "journal": "Canadian Urological Association Journal",
+      "number": "7 (11-12), E687",
+      "pubid": "qxL8FJ1GzNcC"
+    },
+    {
+      "author": "AJ Vickers, DD Sjoberg, DP Ankerst, CM Tangen, PJ Goodman, and others",
+      "year": 2013,
+      "title": "The Prostate Cancer Prevention Trial risk calculator and the relationship between prostate‐specific antigen and biopsy outcome",
+      "journal": "Cancer",
+      "number": "119 (16), 3007-3011",
+      "pubid": "_kc_bZDykSQC"
+    },
+    {
+      "author": "JL Silberstein, PC Sprenkle, D Su, NE Power, TV Tarin, P Ezell, DD Sjoberg, and others",
+      "year": 2013,
+      "title": "Neutrophil gelatinase-associated lipocalin (NGAL) levels in response to unilateral renal ischaemia in a novel pilot two-kidney porcine model",
+      "journal": "BJU international",
+      "number": "112 (4), 517",
+      "pubid": "Wp0gIr-vW9MC"
+    },
+    {
+      "author": "SV Carlsson, MT Peltola, DD Sjoberg, FH Schröder, J Hugosson, and others",
+      "year": 2013,
+      "title": "Can one blood draw replace transrectal ultrasonography‐estimated prostate volume to predict prostate cancer risk?",
+      "journal": "BJU international",
+      "number": "112 (5), 602-609",
+      "pubid": "ULOm3_A8WrAC"
+    },
+    {
+      "author": "KA Touijer, CR Mazzola, DD Sjoberg, PT Scardino, JA Eastham",
+      "year": 2013,
+      "title": "Reply to Michael Froehner, Rainer Koch, and Manfred P. Wirth's letter to the editor re: Karim A. Touijer, Clarisse R. Mazzola, Daniel D. Sjoberg, Peter T. Scardino, James A …",
+      "journal": "European Urology",
+      "number": "65 (2), e25-6",
+      "pubid": "blknAaTinKkC"
+    },
+    {
+      "author": "TV Tarin, NE Power, B Ehdaie, JP Sfakianos, JL Silberstein, CJ Savage, DD Sjoberg, and others",
+      "year": 2012,
+      "title": "Lymph node–positive bladder cancer treated with radical cystectomy and lymphadenectomy: effect of the level of node positivity",
+      "journal": "European urology",
+      "number": "61 (5), 1025-1030",
+      "pubid": "WF5omc3nYNoC"
+    },
+    {
+      "author": "M Rink, DD Sjoberg, E Comploj, V Margulis, E Xylinas, RK Lee, J Hansen, and others",
+      "year": 2012,
+      "title": "Risk of cancer-specific mortality following recurrence after radical nephroureterectomy",
+      "journal": "Annals of surgical oncology",
+      "number": "19 (13), 4337-4344",
+      "pubid": "_FxGoFyzp5QC"
+    },
+    {
+      "author": "M Gustafsson, I Vakili, SEB Keskin, DD Sjoberg, C Larsson",
+      "year": 2012,
+      "title": "Optical theorem and forward scattering sum rule for periodic structures",
+      "journal": "IEEE transactions on antennas and propagation",
+      "number": "60 (8), 3818-3826",
+      "pubid": "inmFHauC9wsC"
+    },
+    {
+      "author": "A Sankin, JP Sfakianos, J Schiff, DD Sjoberg, JA Coleman",
+      "year": 2012,
+      "title": "Assessing renal function after partial nephrectomy using renal nuclear scintigraphy and estimated glomerular filtration rate",
+      "journal": "Urology",
+      "number": "80 (2), 343-346",
+      "pubid": "MXK_kJrjxJIC"
+    },
+    {
+      "author": "AJ Vickers, DD Sjoberg, E Basch, F Sculli, M Shouery, V Laudone, and others",
+      "year": 2012,
+      "title": "How do you know if you are any good? A surgeon performance feedback system for the outcomes of radical prostatectomy",
+      "journal": "European urology",
+      "number": "61 (2), 284-289",
+      "pubid": "roLk4NBRz8UC"
+    },
+    {
+      "author": "Y Ahallal, K Braun, DD Sjoberg, T Ghoneim, M Esteban, J Mulhall, and others",
+      "year": 2012,
+      "title": "Impact des biopsies répétées sur la fonction érectile chez les patients sous surveillance active pour cancer de la prostate",
+      "journal": "Progrès en Urologie",
+      "number": "22 (13), 810",
+      "pubid": "2l5NCbZemmgC"
+    },
+    {
+      "author": "M Rink, DD Sjoberg, E Comploj, V Margulis, E Xylinas, R Lee, J Hansen, and others",
+      "year": 2012,
+      "title": "Time to Disease Recurrence is a Predictor of Cancer-Specific Mortality After Radical Nephroureterectomy",
+      "journal": "UROLOGY",
+      "number": "80 (3), S332-S332",
+      "pubid": "Ri6SYOTghG4C"
+    },
+    {
+      "author": "D Sjöberg",
+      "year": 2009,
+      "title": "Low-frequency scattering by passive periodic structures for oblique incidence: low-pass case",
+      "journal": "Journal of Physics A: Mathematical and Theoretical",
+      "number": "42 (38), 385402",
+      "pubid": "t9Ks5LMjN0QC"
+    },
+    {
+      "author": "HF Hochberg-Garrett, DM Hoelscher, SV Sharma, DD Sjoberg",
+      "year": 2009,
+      "title": "The Skip to Breakfast Project: Development, Implementation, and Evaluation of an Intervention to Increase Healthful Breakfast Consumption among Fifth Grade Students and Their …",
+      "journal": "Journal of the American Dietetic Association",
+      "number": "109 (9), A81",
+      "pubid": "e5wmG9Sq2KIC"
+    },
+    {
+      "author": "D Sjöberg",
+      "year": 2006,
+      "title": "Dispersive effective material parameters for Maxwell's equations",
+      "journal": "[Publisher information missing]",
+      "number": "",
+      "pubid": "ojlX30-wUrgC"
+    },
+    {
+      "author": "D Sjöberg",
+      "year": 2005,
+      "title": "Homogenization of dispersive material parameters for Maxwell's equations using a singular value decomposition",
+      "journal": "Multiscale Modeling & Simulation",
+      "number": "4 (3), 760-789",
+      "pubid": "v7LLNfYe7h0C"
+    },
+    {
+      "author": "D Sjöberg",
+      "year": 2001,
+      "title": "Transient Electromagnetic Waves in Nonlinear Media",
+      "journal": "",
+      "number": "",
+      "pubid": "pUxgyZctzPYC"
+    }
+  ]
+}
