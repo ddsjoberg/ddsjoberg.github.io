@@ -130,7 +130,7 @@
   install: install.packages("gtreg")
 
 - name: rstudio.prefs
-  url: https://www.danieldsjoberg.com/rstudio.prefs/
+  url: https://vdwulp.github.io/rstudio.prefs/
   logo: { file: rstudio.prefs.webp, width: 192, height: 192 }
   languages: [R]
   section: author
