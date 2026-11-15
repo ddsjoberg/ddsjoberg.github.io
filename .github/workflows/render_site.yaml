@@ -2,6 +2,9 @@ on:
   push:
     branches: master
   workflow_dispatch:
+  # Refresh the Google Scholar publication list monthly (06:00 UTC on the 1st)
+  schedule:
+    - cron: "0 6 1 * *"
 
 name: Render & Deploy Site
 
